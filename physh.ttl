@@ -780,8 +780,8 @@ physh:113ec697-5c75-4106-b64f-bf2e8a4fcc6f a skos:Concept;
 
 physh:11598af2484c44e2b7957b98492778cb a skos:Concept;
    skos:broader physh:a0ce8ec5e2c240f4b53f9fd9e2572289;
-   skos:prefLabel "extended Hubbard model"@en;
-   physh_rdf:prefLabel "extended Hubbard model"@en .
+   skos:prefLabel "Extended Hubbard model"@en;
+   physh_rdf:prefLabel "Extended Hubbard model"@en .
 
 physh:1168c67d-38f6-413f-9b21-30109dded59c a skos:Concept;
    skos:broader physh:2917e3bd-b25c-4e89-8796-5c7e77dfda5a;
