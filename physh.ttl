@@ -298,7 +298,9 @@ physh:0746cce9-22be-4e46-a152-53fb5b25c647 a skos:Concept;
    physh_rdf:prefLabel "Polymer conformation changes"@en .
 
 physh:075be4f4-ce0e-4e38-bf72-d9e4648724bb a skos:Concept;
-   skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
+   skos:altLabel "Spin polarized inverse photoelectron spectroscopy"@en,
+     "SPIPES"@en;
+   skos:broader physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0;
    skos:prefLabel "Spin-resolved inverse photoemission spectroscopy"@en;
    physh_rdf:prefLabel "Spin-resolved inverse photoemission spectroscopy"@en .
 
@@ -343,6 +345,7 @@ physh:08359a66-5c8e-43f7-9e0f-4d34fe6bf78f a skos:Concept;
    physh_rdf:prefLabel "Free-electron model"@en .
 
 physh:083ca210-0b71-4ee8-882b-053297428820 a skos:Concept;
+   skos:altLabel "trARPES"@en;
    skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
    skos:prefLabel "Time & angle resolved photoemission spectroscopy"@en;
    physh_rdf:prefLabel "Time & angle resolved photoemission spectroscopy"@en .
@@ -406,6 +409,7 @@ physh:091a904e-4721-44ff-a15b-52a6b8a5a26c a skos:Concept;
    physh_rdf:prefLabel "Thermomechanical analysis"@en .
 
 physh:0923a4a2-4e56-4240-9fa9-b74351ac4bd0 a skos:Concept;
+   skos:altLabel "ESEM"@en;
    skos:broader physh:4d734e8f-2c3b-42a0-a4cb-8f453aeae99d;
    skos:prefLabel "Environmental scanning electron microscopy"@en;
    physh_rdf:prefLabel "Environmental scanning electron microscopy"@en .
@@ -432,6 +436,7 @@ physh:0977007d-64b8-4e82-8ba0-f00ebd3c6a16 a skos:Concept;
    physh_rdf:prefLabel "Bogoliubov-de Gennes equations"@en .
 
 physh:09acb30d-fe38-4733-8528-4f3b6214146b a skos:Concept;
+   skos:altLabel "TRPL"@en;
    skos:broader physh:6bdea32e-2fdf-4421-b982-41a2a011a363;
    skos:prefLabel "Time-resolved photoluminescence"@en;
    physh_rdf:prefLabel "Time-resolved photoluminescence"@en .
@@ -717,6 +722,7 @@ physh:0f7a2bd9-50af-4c94-b3be-c98ecdca2e0f a skos:Concept;
    physh_rdf:prefLabel "Killing symmetry"@en .
 
 physh:0f87b255-81c7-4b82-8de1-92ac98a019af a skos:Concept;
+   skos:altLabel "IETS"@en;
    skos:broader physh:b6850136-0dff-41c9-85da-b6bcf1518811;
    skos:prefLabel "Inelastic electron tunneling spectroscopy"@en;
    physh_rdf:prefLabel "Inelastic electron tunneling spectroscopy"@en .
@@ -1029,6 +1035,7 @@ physh:17e985e4-5274-418e-953c-66b0458bde5c a skos:Concept;
    physh_rdf:prefLabel "Target design & fabrication"@en .
 
 physh:17efc391-a78d-42e7-b9cb-841c6310aa7c a skos:Concept;
+   skos:altLabel "2PPE"@en;
    skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
    skos:prefLabel "Two-photon photoelectron spectroscopy"@en;
    physh_rdf:prefLabel "Two-photon photoelectron spectroscopy"@en .
@@ -1049,6 +1056,7 @@ physh:182daf39-1dac-4eae-a4ee-e8217d74edec a skos:Concept;
    physh_rdf:prefLabel "Bragg spectroscopy"@en .
 
 physh:1861ce92-698d-456f-9af8-caa203f7ef1f a skos:Concept;
+   skos:altLabel "DLTS"@en;
    skos:broader physh:675773f0-6ff3-44de-8600-2e9034eea9f0;
    skos:prefLabel "Deep level transient spectroscopy"@en;
    physh_rdf:prefLabel "Deep level transient spectroscopy"@en .
@@ -1465,11 +1473,6 @@ physh:23f6330c-aba9-4c40-9153-5367f782db3e a skos:Concept;
    skos:prefLabel "Diffractive production"@en;
    physh_rdf:prefLabel "Diffractive production"@en .
 
-physh:24098ed4-b73f-4eb2-bd1a-df209728659f a skos:Concept;
-   skos:broader physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336;
-   skos:prefLabel "Inelastic x-ray scattering"@en;
-   physh_rdf:prefLabel "Inelastic x-ray scattering"@en .
-
 physh:2420e949-77f8-42a5-99aa-41d65c54e190 a skos:Concept;
    skos:broader physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
    skos:prefLabel "Solid-state chemistry"@en;
@@ -1723,7 +1726,8 @@ physh:2a766a58-c72f-40f1-a41e-7bd38b251b86 a skos:Concept;
    physh_rdf:prefLabel "Crystal structure"@en .
 
 physh:2a9cae2b-9797-41ca-91c2-08aaeffffcdd a skos:Concept;
-   skos:altLabel "Femtosecond pump-probe transient absorption"@en;
+   skos:altLabel "Femtosecond pump-probe transient absorption"@en,
+     "TAS"@en;
    skos:broader physh:e182c548-24f2-45a8-99ce-816acead5bf5;
    skos:prefLabel "Transient absorption spectroscopy"@en;
    physh_rdf:prefLabel "Transient absorption spectroscopy"@en .
@@ -1752,11 +1756,6 @@ physh:2b86a860-1b6a-4613-979b-03d3ae84f0d6 a skos:Concept;
    skos:broader physh:2a5345ea-2bd1-45f5-818c-bf056b4f6500;
    skos:prefLabel "Phononic crystals"@en;
    physh_rdf:prefLabel "Phononic crystals"@en .
-
-physh:2b88f89f-3e4e-4b91-b3d1-c8d065e75d39 a skos:Concept;
-   skos:broader physh:2360e96e-a12b-4d21-9b65-36ed1177c0e6;
-   skos:prefLabel "Devices for digital logic, storage & processing"@en;
-   physh_rdf:prefLabel "Devices for digital logic, storage & processing"@en .
 
 physh:2b9cd833-bb64-4a36-9781-4a62446bbfc9 a skos:Concept;
    skos:broader physh:5b4f3bb4-8db6-4156-a472-4c9988d6e313;
@@ -2401,6 +2400,7 @@ physh:39d93223-4007-49a6-8084-c551ffb8b9cf a skos:Concept;
    physh_rdf:prefLabel "Organometallic materials"@en .
 
 physh:39f2a83e-a96f-407c-b1cf-0ef0c436d0d7 a skos:Concept;
+   skos:altLabel "TDPAC"@en;
    skos:broader physh:d199d86e-97af-4dd1-9fe7-fdb00b298b96;
    skos:prefLabel "Time-differential perturbed-angular correlation spectroscopy"@en;
    physh_rdf:prefLabel "Time-differential perturbed-angular correlation spectroscopy"@en .
@@ -2525,7 +2525,8 @@ physh:3d19765a-35bb-4e02-b80f-cc0628e0d760 a skos:Concept;
    physh_rdf:prefLabel "Random attacks"@en .
 
 physh:3d20e485-92f3-41f6-822e-1267ffa2cf54 a skos:Concept;
-   skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
+   skos:altLabel "ARIPES"@en;
+   skos:broader physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0;
    skos:prefLabel "Angle-resolved inverse photoemission spectroscopy"@en;
    physh_rdf:prefLabel "Angle-resolved inverse photoemission spectroscopy"@en .
 
@@ -3029,11 +3030,13 @@ physh:493f057a-0e3b-4ada-b5df-7b6833605ce8 a skos:Concept;
    physh_rdf:prefLabel "Quantum information with solid state qubits"@en .
 
 physh:4965b0fe-590f-49fd-8f3d-9f89cf0bb140 a skos:Concept;
+   skos:altLabel "Time-resolved two-photon photoelectron spectroscopy"@en;
    skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
    skos:prefLabel "Time-resolved two-photon photoemission spectroscopy"@en;
    physh_rdf:prefLabel "Time-resolved two-photon photoemission spectroscopy"@en .
 
 physh:49953cb9-129b-476f-b701-1536b31ab7af a skos:Concept;
+   skos:altLabel "GISAXS"@en;
    skos:broader physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336;
    skos:prefLabel "Grazing-incidence small-angle x-ray scattering"@en;
    physh_rdf:prefLabel "Grazing-incidence small-angle x-ray scattering"@en .
@@ -3066,6 +3069,7 @@ physh:4a4df734-a188-4394-bb81-42c9f3872454 a skos:Concept;
    physh_rdf:prefLabel "A ≥ 220"@en .
 
 physh:4a5f7aa7-39bc-461b-ade6-ca30428f9471 a skos:Concept;
+   skos:altLabel "XPCS"@en;
    skos:broader physh:18d10b28-37f1-434d-a95b-19cf71fc6f05;
    skos:prefLabel "X-ray photon correlation spectroscopy"@en;
    physh_rdf:prefLabel "X-ray photon correlation spectroscopy"@en .
@@ -3101,6 +3105,7 @@ physh:4aae0c88-756b-4d69-92a5-c152b9e412d7 a skos:Concept;
    physh_rdf:prefLabel "Wet granular materials"@en .
 
 physh:4b310b66-f5c7-460e-b827-9b3888172aa2 a skos:Concept;
+   skos:altLabel "SP-STM"@en;
    skos:broader physh:c33a7211-ebcd-4336-917d-a75ecb1e50c4;
    skos:prefLabel "Spin-polarized scanning tunneling microscopy"@en;
    physh_rdf:prefLabel "Spin-polarized scanning tunneling microscopy"@en .
@@ -3162,6 +3167,7 @@ physh:4c984e2a-a745-480a-8a33-f96574b3bf03 a skos:Concept;
    physh_rdf:prefLabel "Wakes & jets"@en .
 
 physh:4ce24fb5-6229-4c16-98e2-6953f591504d a skos:Concept;
+   skos:altLabel "Dark-ground microscopy"@en;
    skos:broader physh:a40cc113-e132-471a-bb1b-2d29d8248a64;
    skos:prefLabel "Dark-field microscopy"@en;
    physh_rdf:prefLabel "Dark-field microscopy"@en .
@@ -3894,6 +3900,7 @@ physh:5d8aee2e-d655-44bf-a177-71af449baadf a skos:Concept;
    physh_rdf:prefLabel "Exciton polariton"@en .
 
 physh:5db65708-48a5-4281-a032-6f878f763b07 a skos:Concept;
+   skos:altLabel "SpinPES"@en;
    skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
    skos:prefLabel "Spin-resolved photoemission spectroscopy"@en;
    physh_rdf:prefLabel "Spin-resolved photoemission spectroscopy"@en .
@@ -4023,11 +4030,6 @@ physh:61428653-e07b-4eb0-850e-5befec07a0d0 a skos:Concept;
    skos:broader physh:7e4e985f-d2fb-46cf-9183-c6e4b4c1c61b;
    skos:prefLabel "Radiation from moving charges"@en;
    physh_rdf:prefLabel "Radiation from moving charges"@en .
-
-physh:617c64e5-251e-4aa9-bc38-a419fd7a8522 a skos:Concept;
-   skos:broader physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577;
-   skos:prefLabel "Near-field optics"@en;
-   physh_rdf:prefLabel "Near-field optics"@en .
 
 physh:61afd5a3-dff1-41ee-a640-82061a64477a a skos:Concept;
    skos:broader physh:683890e6-25e0-4d29-9686-308d5800fda7;
@@ -4330,11 +4332,6 @@ physh:68d9d702-23e8-45a3-ba20-a5c2aedc587f a skos:Concept;
    skos:prefLabel "Beam polarization"@en;
    physh_rdf:prefLabel "Beam polarization"@en .
 
-physh:68fc713c-6b28-4a8f-ad9a-5c535d4e6a3a a skos:Concept;
-   skos:broader physh:efe40972-7a4f-4a87-80ef-ae39472ce875;
-   skos:prefLabel "Near-field optical spectroscopy"@en;
-   physh_rdf:prefLabel "Near-field optical spectroscopy"@en .
-
 physh:6904d01d-76bf-48dd-84db-55e7e648d1b9 a skos:Concept;
    skos:altLabel "Beta-NMR"@en;
    skos:broader physh:fee9296a-01ca-4b80-86bf-2c51f37c1871;
@@ -4345,6 +4342,11 @@ physh:69362314-bc07-4c73-9ac8-6b72d12e5215 a skos:Concept;
    skos:broader physh:ee82ad04-6c47-46a4-a70d-c9a7d7989f6a;
    skos:prefLabel "Lower-dimensional field theories"@en;
    physh_rdf:prefLabel "Lower-dimensional field theories"@en .
+
+physh:6944ba20-4445-4ec6-9f76-4619ac24fda2 a skos:Concept;
+   skos:broader physh:977cf3f6-ab87-440b-afe2-cf08e8fcd916;
+   skos:prefLabel "Dip coating"@en;
+   physh_rdf:prefLabel "Dip coating"@en .
 
 physh:69e286a8-4297-43c0-b7bc-5aa09e9a2982 a skos:Concept;
    skos:altLabel "Keldysh"@en,
@@ -4375,6 +4377,7 @@ physh:6a5ce358-6687-4078-818e-979f986ebce1 a skos:Concept;
    physh_rdf:prefLabel "Impact test"@en .
 
 physh:6a67d9c3-a76a-4786-a418-0ecec4ba0b19 a skos:Concept;
+   skos:altLabel "SESANS"@en;
    skos:broader physh:3ce0b7aa-0081-4dfb-9c30-a5335b38f150;
    skos:prefLabel "Spin echo small angle neutron scattering"@en;
    physh_rdf:prefLabel "Spin echo small angle neutron scattering"@en .
@@ -4437,6 +4440,7 @@ physh:6beb8b63-e263-43d9-a1f6-2d9ddead05e5 a skos:Concept;
    physh_rdf:prefLabel "Superconducting qubits"@en .
 
 physh:6c0dfaf1-778e-440f-b99a-ad8cbf63c92a a skos:Concept;
+   skos:altLabel "XMLD"@en;
    skos:broader physh:18d10b28-37f1-434d-a95b-19cf71fc6f05;
    skos:prefLabel "X-ray magnetic linear dichroism"@en;
    physh_rdf:prefLabel "X-ray magnetic linear dichroism"@en .
@@ -4612,6 +4616,8 @@ physh:6fc3b2bd-4821-4ade-a389-6384321a438c a skos:Concept;
    physh_rdf:prefLabel "Granular fluids"@en .
 
 physh:6fc8813f-a669-421b-8003-93d983e9e384 a skos:Concept;
+   skos:altLabel "Proton-induced X-ray emission"@en,
+     "PIXE"@en;
    skos:broader physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2;
    skos:prefLabel "Particle-induced x-ray emission"@en;
    physh_rdf:prefLabel "Particle-induced x-ray emission"@en .
@@ -5073,7 +5079,9 @@ physh:7b743095-26c0-432e-9eab-45c856d4ce29 a skos:Concept;
    physh_rdf:prefLabel "r process"@en .
 
 physh:7b8f181e-b12f-41e6-af8c-516ac0bb478b a skos:Concept;
-   skos:altLabel "RBS"@en;
+   skos:altLabel "RBS"@en,
+     "HEIS"@en,
+     "High-energy ion scattering spectrometry"@en;
    skos:broader physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2;
    skos:prefLabel "Rutherford back scattering spectroscopy"@en;
    physh_rdf:prefLabel "Rutherford back scattering spectroscopy"@en .
@@ -5336,8 +5344,9 @@ physh:81dbff5e-d110-4acf-8973-0d85e54516d9 a skos:Concept;
    physh_rdf:prefLabel "Polycrystalline materials"@en .
 
 physh:81e98b33-4dad-4a65-91ce-c257de3b86f6 a skos:Concept;
-   skos:altLabel "RIXS"@en;
-   skos:broader physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336;
+   skos:altLabel "Resonant IXS"@en,
+     "RIXS"@en;
+   skos:broader physh:24098ed4-b73f-4eb2-bd1a-df209728659f;
    skos:prefLabel "Resonant inelastic x-ray scattering"@en;
    physh_rdf:prefLabel "Resonant inelastic x-ray scattering"@en .
 
@@ -5391,11 +5400,6 @@ physh:830a8137-6b9a-447a-b09a-4eeb6ece6f31 a skos:Concept;
    skos:broader physh:6af5be88-489f-4a50-9abf-998e8912254a;
    skos:prefLabel "Pyrochlores"@en;
    physh_rdf:prefLabel "Pyrochlores"@en .
-
-physh:830c747a-630a-4511-9ebd-e2a91ed40337 a skos:Concept;
-   skos:broader physh:a38dc017-3236-4084-afc5-eb59c5de51e0;
-   skos:prefLabel "Optical computing"@en;
-   physh_rdf:prefLabel "Optical computing"@en .
 
 physh:831a9088-c788-4f91-983d-bc6f18985b03 a skos:Concept;
    skos:broader physh:fadc87f6-ee6b-49d6-9128-da9737e4d165;
@@ -5516,6 +5520,7 @@ physh:85d77fd2-8d59-4b15-8bc7-a3246ac268f0 a skos:Concept;
    physh_rdf:prefLabel "Quantum interconnects"@en .
 
 physh:85f82fe9-ff63-4cd8-aed1-42811ab1ea4f a skos:Concept;
+   skos:altLabel "Metallurgical MHD"@en;
    skos:broader physh:c4ed35b0-1090-409c-9667-85f9ac03e9c0;
    skos:prefLabel "Metallurgical magnetohydrodynamics"@en;
    physh_rdf:prefLabel "Metallurgical magnetohydrodynamics"@en .
@@ -5617,6 +5622,10 @@ physh:87e89de2-57b5-4443-a423-33c8d474d00a a skos:Concept;
    physh_rdf:prefLabel "Cosmic ray propagation"@en .
 
 physh:881b156b-3c81-4163-a39a-e9e40f2eada0 a skos:Concept;
+   skos:altLabel "Electron microprobe"@en,
+     "EMP"@en,
+     "EPMA"@en,
+     "EMPA"@en;
    skos:broader physh:34773509-53cc-4885-a027-7bd3497f7157;
    skos:prefLabel "Electron probe micro-analysis"@en;
    physh_rdf:prefLabel "Electron probe micro-analysis"@en .
@@ -5652,6 +5661,9 @@ physh:88ccc6ea-2c99-46fb-863b-a73705da19bd a skos:Concept;
    physh_rdf:prefLabel "Intracellular transport"@en .
 
 physh:88e709b5-d686-4d69-a431-3b3ef2249553 a skos:Concept;
+   skos:altLabel "Elastic recoil detection analysis"@en,
+     "ERDA"@en,
+     "Forward recoil scattering"@en;
    skos:broader physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2;
    skos:prefLabel "Elastic recoil detection"@en;
    physh_rdf:prefLabel "Elastic recoil detection"@en .
@@ -5778,7 +5790,6 @@ physh:8c13d88a-a3d4-40bd-8c91-af56c1c92773 a skos:Concept;
 physh:8c2c45c3-8b11-425e-b5d8-9faec4b6dcfd a skos:Concept;
    skos:broader physh:8156d7cb-6ab9-4097-be2b-4aa71aad93a3;
    skos:prefLabel "Raman spectroscopy"@en;
-   skos:scopeNote "Made NT of Spectroscopy"@en;
    physh_rdf:prefLabel "Raman spectroscopy"@en .
 
 physh:8c304260-0dba-4a63-908f-bab534c0a876 a skos:Concept;
@@ -5978,7 +5989,9 @@ physh:90ec95f3-c6a6-4327-98ef-833f86289335 a skos:Concept;
    physh_rdf:prefLabel "π-π stacking"@en .
 
 physh:90fe4f6a-8a53-4bde-9d66-af64556260c8 a skos:Concept;
-   skos:broader physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336;
+   skos:altLabel "NRIXS"@en,
+     "Non-resonant IXS"@en;
+   skos:broader physh:24098ed4-b73f-4eb2-bd1a-df209728659f;
    skos:prefLabel "Nonresonant inelastic x-ray scattering"@en;
    physh_rdf:prefLabel "Nonresonant inelastic x-ray scattering"@en .
 
@@ -6153,6 +6166,7 @@ physh:94702848-fa1d-45fb-ba9c-9130705746da a skos:Concept;
    physh_rdf:prefLabel "Liquid bridges"@en .
 
 physh:9483eb29-38b6-42ff-990e-ba426446d4eb a skos:Concept;
+   skos:altLabel "Phase-contrast microscopy"@en;
    skos:broader physh:a40cc113-e132-471a-bb1b-2d29d8248a64;
    skos:prefLabel "Phase contrast optical microscopy"@en;
    physh_rdf:prefLabel "Phase contrast optical microscopy"@en .
@@ -6934,6 +6948,7 @@ physh:a7c7c809-7b1b-489a-81ad-715a798e3882 a skos:Concept;
    physh_rdf:prefLabel "Kitaev-Heisenberg model"@en .
 
 physh:a7e7d57f-4739-4c68-a882-c096b4a6fbb1 a skos:Concept;
+   skos:altLabel "DNP"@en;
    skos:broader physh:6fab7f86-2de1-4f52-9425-ed4f9aec008b;
    skos:prefLabel "Dynamic nuclear polarization"@en;
    physh_rdf:prefLabel "Dynamic nuclear polarization"@en .
@@ -7091,6 +7106,11 @@ physh:abbb2e9b-e4ac-48ab-a10a-113643dad34c a skos:Concept;
    skos:broader physh:257ff504-8723-46c7-aea0-ec7d55a0dc6f;
    skos:prefLabel "Spin pumping"@en;
    physh_rdf:prefLabel "Spin pumping"@en .
+
+physh:abc3dcc9-16b4-40a1-9694-092bdca2bcbd a skos:Concept;
+   skos:broader physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+   skos:prefLabel "Physics of computation"@en;
+   physh_rdf:prefLabel "Physics of computation"@en .
 
 physh:abed11a1-af1b-4a1c-ba3c-01328ae70df1 a skos:Concept;
    skos:broader physh:fea036a1-9c29-4872-ab2c-d052949f7c03;
@@ -7426,6 +7446,7 @@ physh:b35a4640-36cc-49f2-8458-0aac08158c51 a skos:Concept;
    physh_rdf:prefLabel "Exotic baryons"@en .
 
 physh:b36b3f96-501f-4748-bcf4-a201a8b1f55d a skos:Concept;
+   skos:altLabel "Optical-pump THz-probe spectroscopy"@en;
    skos:broader physh:d47bba71-117d-4810-a4e0-e6528994d02e;
    skos:prefLabel "Optical-pump terahertz-probe spectroscopy"@en;
    physh_rdf:prefLabel "Optical-pump terahertz-probe spectroscopy"@en .
@@ -7710,6 +7731,7 @@ physh:bc34c509-781e-4a9b-afbc-76453a3b8671 a skos:Concept;
    physh_rdf:prefLabel "Plasmasphere"@en .
 
 physh:bc60fcb7-3e83-4bb5-80c4-f288799b5b55 a skos:Concept;
+   skos:altLabel "DSC"@en;
    skos:broader physh:64f26e6b-2baf-45fa-bd50-974c3139e6bc;
    skos:prefLabel "Differential scanning calorimetry"@en;
    physh_rdf:prefLabel "Differential scanning calorimetry"@en .
@@ -7770,6 +7792,8 @@ physh:bf33401a-fd7c-433e-903d-284762e06df1 a skos:Concept;
    physh_rdf:prefLabel "Tube theories"@en .
 
 physh:bf582a64-42a5-4009-a9af-e9a1100f5de6 a skos:Concept;
+   skos:altLabel "Elastic backscattering spectrometry "@en,
+     "EBS"@en;
    skos:broader physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2;
    skos:prefLabel "Elastic back scattering spectroscopy"@en;
    physh_rdf:prefLabel "Elastic back scattering spectroscopy"@en .
@@ -8068,6 +8092,7 @@ physh:c682c3d2-f4af-486d-986d-8dfc0fb784f9 a skos:Concept;
    physh_rdf:prefLabel "Positronium"@en .
 
 physh:c6891af3-c2d3-40b2-8c23-e72f946cdc95 a skos:Concept;
+   skos:altLabel "Gravimetric sorption"@en;
    skos:broader physh:229eca6d-30f1-4c05-9a78-c352de8326b1;
    skos:prefLabel "Gravimetric adsorption measurements"@en;
    physh_rdf:prefLabel "Gravimetric adsorption measurements"@en .
@@ -8203,6 +8228,9 @@ physh:ca4b9a34-476a-4d03-a192-660ebada3734 a skos:Concept;
    physh_rdf:prefLabel "Classical spin chains"@en .
 
 physh:ca58f976-78ce-4279-b515-7e8118060c94 a skos:Concept;
+   skos:altLabel "SDR"@en,
+     "Surface differential reflectivity"@en,
+     "DRS"@en;
    skos:broader physh:8156d7cb-6ab9-4097-be2b-4aa71aad93a3;
    skos:prefLabel "Surface differential reflectance spectroscopy"@en;
    physh_rdf:prefLabel "Surface differential reflectance spectroscopy"@en .
@@ -8419,11 +8447,6 @@ physh:cefb274f-e193-42e2-91b8-a74548a21575 a skos:Concept;
    skos:prefLabel "Magnetic colloids"@en;
    physh_rdf:prefLabel "Magnetic colloids"@en .
 
-physh:cf113451-83bd-4f3a-9884-a14d38899ecf a skos:Concept;
-   skos:broader physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
-   skos:prefLabel "Reactions at surfaces & chemisorption"@en;
-   physh_rdf:prefLabel "Reactions at surfaces & chemisorption"@en .
-
 physh:cf87d589-c85d-44c1-b47c-bb16a13449b2 a skos:Concept;
    skos:altLabel "TGA"@en;
    skos:broader physh:c2ea95f8-c209-44d7-b8f7-a6baf632c46a;
@@ -8617,12 +8640,8 @@ physh:d45f0099-ce2a-4de2-a7b2-0ff5d44d8c07 a skos:Concept;
    skos:prefLabel "Network resilience"@en;
    physh_rdf:prefLabel "Network resilience"@en .
 
-physh:d4663f7e-ae3d-43d2-82bf-e55638fa4922 a skos:Concept;
-   skos:broader physh:bb0a871d-bf5c-44db-be68-9bd8ed4febe9;
-   skos:prefLabel "Scanning near-field optical microscopy"@en;
-   physh_rdf:prefLabel "Scanning near-field optical microscopy"@en .
-
 physh:d4e6f31f-7d0f-4dee-87db-ef8dfae56546 a skos:Concept;
+   skos:altLabel "GIXD"@en;
    skos:broader physh:32de7669-68ef-4f3e-9598-2a70300ea01e;
    skos:prefLabel "Grazing-incidence X-ray diffraction"@en;
    physh_rdf:prefLabel "Grazing-incidence X-ray diffraction"@en .
@@ -8732,6 +8751,7 @@ physh:d7371ac0-e80d-4546-857b-b69c685fe2d8 a skos:Concept;
    physh_rdf:prefLabel "Hydrides"@en .
 
 physh:d73b620d-16e7-401d-9d82-0f8ddc43076a a skos:Concept;
+   skos:altLabel "NRA"@en;
    skos:broader physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2;
    skos:prefLabel "Nuclear reaction analysis"@en;
    physh_rdf:prefLabel "Nuclear reaction analysis"@en .
@@ -8866,6 +8886,7 @@ physh:db452e3b-02bf-444d-b532-06ce3bf23bdf a skos:Concept;
    physh_rdf:prefLabel "Binary stars"@en .
 
 physh:db558ee8-ce44-45ef-b762-ef6d96dd2f4b a skos:Concept;
+   skos:altLabel "CryoSEM"@en;
    skos:broader physh:4d734e8f-2c3b-42a0-a4cb-8f453aeae99d;
    skos:prefLabel "Cryo-scanning electron microscopy"@en;
    physh_rdf:prefLabel "Cryo-scanning electron microscopy"@en .
@@ -8912,6 +8933,7 @@ physh:dc4cb24f-7c96-4fad-ad33-1c7abe6e1f8c a skos:Concept;
    physh_rdf:prefLabel "Stable compressible flows"@en .
 
 physh:dc6fd646-f7b9-4085-bb05-9e9ef4ca4116 a skos:Concept;
+   skos:altLabel "PAC"@en;
    skos:broader physh:d199d86e-97af-4dd1-9fe7-fdb00b298b96;
    skos:prefLabel "Perturbed-angular correlation spectroscopy"@en;
    physh_rdf:prefLabel "Perturbed-angular correlation spectroscopy"@en .
@@ -9303,6 +9325,12 @@ physh:e3dde6b7-dff0-4e1a-8edf-f090633360fb a skos:Concept;
    skos:prefLabel "Quantum transport"@en;
    physh_rdf:prefLabel "Quantum transport"@en .
 
+physh:e41b5a7f-9076-4dd6-9e29-d884f8143d00 a skos:Concept;
+   skos:altLabel "Neuromorphic engineering"@en;
+   skos:broader physh:4c886248-148a-41d4-888c-de09e60e1e87;
+   skos:prefLabel "Neuromorphic computing"@en;
+   physh_rdf:prefLabel "Neuromorphic computing"@en .
+
 physh:e4359de3-c27e-4118-91d3-9eb55efc224e a skos:Concept;
    skos:broader physh:4b51a2bf-3140-4387-90ec-91ffb4f9d381;
    skos:prefLabel "Billiards"@en;
@@ -9355,11 +9383,6 @@ physh:e5246ca5-f13e-49eb-a63f-7e37d07a9cbd a skos:Concept;
    skos:broader physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad;
    skos:prefLabel "Neural information"@en;
    physh_rdf:prefLabel "Neural information"@en .
-
-physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0 a skos:Concept;
-   skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
-   skos:prefLabel "Inverse photoemission spectroscopy"@en;
-   physh_rdf:prefLabel "Inverse photoemission spectroscopy"@en .
 
 physh:e546a0d8-12a1-407d-9a97-153f61a487e5 a skos:Concept;
    skos:broader physh:bd252d88-a608-4897-9416-daf84dee7f6b;
@@ -9564,6 +9587,7 @@ physh:ea633c66-c6b0-4e14-acaa-97e33637ab10 a skos:Concept;
    physh_rdf:prefLabel "Thermal Hall effect"@en .
 
 physh:ea69dc6e-9587-4b51-b9e8-b699efbaeafd a skos:Concept;
+   skos:altLabel "CBE"@en;
    skos:broader physh:471b81e2-74ad-4d48-b2c0-a57b3c84bb81;
    skos:prefLabel "Chemical beam epitaxy"@en;
    physh_rdf:prefLabel "Chemical beam epitaxy"@en .
@@ -9781,6 +9805,7 @@ physh:ef11c112-69f0-402d-9e59-a3fb0584b262 a skos:Concept;
    physh_rdf:prefLabel "Equations of state of nuclear matter"@en .
 
 physh:ef122523-2bad-4ba6-9ab6-eb30a6e88101 a skos:Concept;
+   skos:altLabel "Polarized light microscopy"@en;
    skos:broader physh:a40cc113-e132-471a-bb1b-2d29d8248a64;
    skos:prefLabel "Polarized optical microscopy"@en;
    physh_rdf:prefLabel "Polarized optical microscopy"@en .
@@ -10881,6 +10906,12 @@ physh:2b5bdcab-7c76-45e4-aa6a-8b350792e105 a skos:Concept;
    skos:prefLabel "Photodiodes"@en;
    physh_rdf:prefLabel "Photodiodes"@en .
 
+physh:2b88f89f-3e4e-4b91-b3d1-c8d065e75d39 a skos:Concept;
+   skos:broader physh:2360e96e-a12b-4d21-9b65-36ed1177c0e6;
+   skos:prefLabel "Devices for digital logic, storage & processing"@en;
+   skos:related physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+   physh_rdf:prefLabel "Devices for digital logic, storage & processing"@en .
+
 physh:2c149da2-1bb1-4e4f-b1a9-a991f4caa502 a skos:Concept;
    skos:broader physh:153de13f-2f91-40e7-8553-022f50949969;
    skos:narrower physh:8990a6dc-a356-4deb-8841-2de7846edcfe;
@@ -11139,6 +11170,7 @@ physh:3c9c01fe-fe82-4861-a59d-3da21432adb7 a skos:Concept;
    physh_rdf:prefLabel "Atom diffraction"@en .
 
 physh:3ce0b7aa-0081-4dfb-9c30-a5335b38f150 a skos:Concept;
+   skos:altLabel "NSE"@en;
    skos:broader physh:fd8cf2dd-2362-4994-a45c-a9b453fe508d;
    skos:narrower physh:6a67d9c3-a76a-4786-a418-0ecec4ba0b19;
    skos:prefLabel "Neutron spin echo spectroscopy"@en;
@@ -11311,6 +11343,12 @@ physh:4bf8a023-3d5f-4e87-8e97-921c3d4cba16 a skos:Concept;
      physh:ee82ad04-6c47-46a4-a70d-c9a7d7989f6a;
    skos:prefLabel "Path integrals"@en;
    physh_rdf:prefLabel "Path integrals"@en .
+
+physh:4c886248-148a-41d4-888c-de09e60e1e87 a skos:Concept;
+   skos:broader physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+   skos:narrower physh:e41b5a7f-9076-4dd6-9e29-d884f8143d00;
+   skos:prefLabel "Analog computation"@en;
+   physh_rdf:prefLabel "Analog computation"@en .
 
 physh:4c9828a9-11a8-4826-9d87-a34a3280b7f4 a skos:Concept,
      physh_rdf:Concept;
@@ -11586,6 +11624,12 @@ physh:60c386aa-2681-4c99-be18-e4412729d107 a skos:Concept;
    skos:related physh:8508c727-cef4-4fe3-a99a-64b7319d4e79;
    physh_rdf:prefLabel "Nanoclusters"@en .
 
+physh:617c64e5-251e-4aa9-bc38-a419fd7a8522 a skos:Concept;
+   skos:broader physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577;
+   skos:prefLabel "Near-field optics"@en;
+   skos:related physh:d4663f7e-ae3d-43d2-82bf-e55638fa4922;
+   physh_rdf:prefLabel "Near-field optics"@en .
+
 physh:6183fd44-36b1-475a-bb3f-9457c5bc8bed a skos:Concept;
    skos:broader physh:893ecc24-c678-4687-bd3a-0b4a1bcb4cfc;
    skos:prefLabel "Gamma ray astronomy"@en;
@@ -11670,6 +11714,12 @@ physh:68c60832-eee5-48ba-9d07-30d258848b6b a skos:Concept,
    physh_rdf:inDiscipline physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60;
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Lee-Yang & Fisher zeroes"@en .
+
+physh:68fc713c-6b28-4a8f-ad9a-5c535d4e6a3a a skos:Concept;
+   skos:broader physh:efe40972-7a4f-4a87-80ef-ae39472ce875;
+   skos:prefLabel "Near-field optical spectroscopy"@en;
+   skos:related physh:d4663f7e-ae3d-43d2-82bf-e55638fa4922;
+   physh_rdf:prefLabel "Near-field optical spectroscopy"@en .
 
 physh:6a2e2c81-9842-486e-933e-1b6f8dd8ce77 a skos:Concept;
    skos:altLabel "RFIM"@en;
@@ -12081,6 +12131,12 @@ physh:81d98e90-dd34-4852-a1a4-e375304b5585 a skos:Concept;
    skos:prefLabel "Elastocaloric effect"@en;
    skos:related physh:01416268-be92-4712-8850-347275bcc8ff;
    physh_rdf:prefLabel "Elastocaloric effect"@en .
+
+physh:830c747a-630a-4511-9ebd-e2a91ed40337 a skos:Concept;
+   skos:broader physh:a38dc017-3236-4084-afc5-eb59c5de51e0;
+   skos:prefLabel "Optical computing"@en;
+   skos:related physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+   physh_rdf:prefLabel "Optical computing"@en .
 
 physh:8359ab1d-c3e9-4d53-bf7f-702075aaa8b0 a skos:Concept;
    skos:broader physh:82f6c5fd-bbef-4ff9-a5f9-de62d3f5dfeb;
@@ -12698,13 +12754,6 @@ physh:b4e07db7-127a-44d1-9ea2-1b67c695613a a skos:Concept;
    skos:related physh:cbc41431-fba0-4ff0-8134-2ded6e598922;
    physh_rdf:prefLabel "Grand unified models"@en .
 
-physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff a skos:Concept,
-     physh_rdf:Concept;
-   skos:prefLabel "Quantum many-body systems"@en;
-   physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Quantum many-body systems"@en .
-
 physh:b5fd2a0f-4151-4fdf-9fec-b82180188a68 a skos:Concept;
    skos:altLabel "Diffusionless transformation"@en;
    skos:broader physh:19f26688-0955-4fd9-85d8-aaf71c4a581f;
@@ -12762,6 +12811,7 @@ physh:ba28b2de-1199-404d-a4b3-0eb53a3a0ca9 a skos:Concept;
    physh_rdf:prefLabel "Pyroelectricity"@en .
 
 physh:bb0a871d-bf5c-44db-be68-9bd8ed4febe9 a skos:Concept;
+   skos:altLabel "SPM"@en;
    skos:broader physh:a0889633-1e24-48ce-80d9-98b0139e10cb;
    skos:narrower physh:d4663f7e-ae3d-43d2-82bf-e55638fa4922;
    skos:prefLabel "Scanning probe microscopy"@en;
@@ -13049,6 +13099,12 @@ physh:ce77e5ab-2a5f-47c0-8888-64728f10f637 a skos:Concept,
    physh_rdf:inDiscipline physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Quantum effects in biological systems"@en .
+
+physh:cf113451-83bd-4f3a-9884-a14d38899ecf a skos:Concept;
+   skos:broader physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
+   skos:prefLabel "Reactions at surfaces & chemisorption"@en;
+   skos:related physh:229eca6d-30f1-4c05-9a78-c352de8326b1;
+   physh_rdf:prefLabel "Reactions at surfaces & chemisorption"@en .
 
 physh:cfc3a160-a6ae-4258-ae39-513eba1aff1c a skos:Concept;
    skos:broader physh:5f042072-e281-48f0-8092-ea2fe2c29c26;
@@ -13781,6 +13837,14 @@ physh:21aac74b-6ecb-4c26-8769-658b268f17c0 a skos:Concept;
    skos:prefLabel "Glasses"@en;
    skos:related physh:cb270e8a-d337-4cee-8330-b3595c3e94dd;
    physh_rdf:prefLabel "Glasses"@en .
+
+physh:24098ed4-b73f-4eb2-bd1a-df209728659f a skos:Concept;
+   skos:altLabel "IXS"@en;
+   skos:broader physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336;
+   skos:narrower physh:81e98b33-4dad-4a65-91ce-c257de3b86f6,
+     physh:90fe4f6a-8a53-4bde-9d66-af64556260c8;
+   skos:prefLabel "Inelastic X-ray scattering"@en;
+   physh_rdf:prefLabel "Inelastic X-ray scattering"@en .
 
 physh:2a5345ea-2bd1-45f5-818c-bf056b4f6500 a skos:Concept;
    skos:broader physh:40a5bd01-6544-4502-8321-458c33878bf3,
@@ -14623,6 +14687,14 @@ physh:b39526d9-02d4-4caf-a280-518aed206059 a skos:Concept;
    skos:prefLabel "Electrostatic waves & oscillations"@en;
    physh_rdf:prefLabel "Electrostatic waves & oscillations"@en .
 
+physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff a skos:Concept,
+     physh_rdf:Concept;
+   skos:narrower physh:db7ba2bd-700a-4b0b-b444-b873c97ff818;
+   skos:prefLabel "Quantum many-body systems"@en;
+   physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
+   physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
+   physh_rdf:prefLabel "Quantum many-body systems"@en .
+
 physh:b99dc135-7e94-41c6-af54-e7ca2fbcd379 a skos:Concept;
    skos:broader physh:b5ff1838-0ecd-41a5-a90b-bae4acb69fcf;
    skos:prefLabel "Topology"@en;
@@ -14738,7 +14810,16 @@ physh:d33e8a5a-85e6-45cb-abbb-47c88e1e3e6b a skos:Concept,
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Self-similarity"@en .
 
+physh:d4663f7e-ae3d-43d2-82bf-e55638fa4922 a skos:Concept;
+   skos:altLabel "SNOM"@en;
+   skos:broader physh:bb0a871d-bf5c-44db-be68-9bd8ed4febe9;
+   skos:prefLabel "Scanning near-field optical microscopy"@en;
+   skos:related physh:68fc713c-6b28-4a8f-ad9a-5c535d4e6a3a,
+     physh:617c64e5-251e-4aa9-bc38-a419fd7a8522;
+   physh_rdf:prefLabel "Scanning near-field optical microscopy"@en .
+
 physh:d47bba71-117d-4810-a4e0-e6528994d02e a skos:Concept;
+   skos:altLabel "THz spectroscopy"@en;
    skos:broader physh:07ec0e31-6cd2-4c32-97e1-ba06f99a5d87;
    skos:narrower physh:c23e31e0-d517-429f-90a9-2f6e6189492f,
      physh:b36b3f96-501f-4748-bcf4-a201a8b1f55d;
@@ -14842,6 +14923,7 @@ physh:db17b5e9-6a3a-4396-b68c-6e98e8f2e7ab a skos:Concept;
 
 physh:db1e0a86-41cd-4171-bbc2-d6e09da5ac60 a skos:Concept,
      physh_rdf:Concept;
+   skos:altLabel "DWS"@en;
    skos:broader physh:382676e6-fd8f-4fc6-b8e0-3abbc45c379c;
    skos:prefLabel "Diffusive wave spectroscopy"@en;
    physh_rdf:inDiscipline physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60;
@@ -14906,6 +14988,14 @@ physh:e42c088f-e8e5-4f90-87bb-048238240d13 a skos:Concept;
    skos:narrower physh:3b66172c-b80b-47f5-85cc-8ee5c2e80fe4;
    skos:prefLabel "Bacteria"@en;
    physh_rdf:prefLabel "Bacteria"@en .
+
+physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0 a skos:Concept;
+   skos:altLabel "IPES"@en;
+   skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
+   skos:narrower physh:3d20e485-92f3-41f6-822e-1267ffa2cf54,
+     physh:075be4f4-ce0e-4e38-bf72-d9e4648724bb;
+   skos:prefLabel "Inverse photoemission spectroscopy"@en;
+   physh_rdf:prefLabel "Inverse photoemission spectroscopy"@en .
 
 physh:e5cd96a4-a0d5-4b3a-a477-8ed31cf31830 a skos:Concept;
    skos:broader physh:4c4f4d87-e837-4d65-970d-f5323698a5f1;
@@ -15717,14 +15807,6 @@ physh:9557aa49-72bb-404d-afe9-76ca9e5e5ef2 a skos:Concept;
      physh:b144b8b6-c6a6-4178-81b5-8f63f6e17c20,
      physh:fd918032-3589-4778-9f84-ab13d1639204;
    physh_rdf:prefLabel "Neutrino detectors"@en .
-
-physh:977cf3f6-ab87-440b-afe2-cf08e8fcd916 a skos:Concept;
-   skos:broader physh:778678c1-03d6-402a-a039-4eaaeb999399;
-   skos:narrower physh:4b477756-a9b6-488e-b461-28b29f2b3c2a,
-     physh:77397021-b0aa-4e53-97ba-7dbfe8ef4b0a,
-     physh:9bf06d71-942b-47ec-872c-0ddcec3e4c00;
-   skos:prefLabel "Physical deposition"@en;
-   physh_rdf:prefLabel "Physical deposition"@en .
 
 physh:9988d7c1-f3e7-4fec-b85f-8fa6df6487bb a skos:Concept;
    skos:broader physh:00960c4d-78bb-469c-8ffb-cda89f4fe20c;
@@ -16798,6 +16880,15 @@ physh:96ee91b1-3ba0-47ad-b628-6a89155e08e7 a skos:Concept;
    skos:prefLabel "Technological networks"@en;
    physh_rdf:prefLabel "Technological networks"@en .
 
+physh:977cf3f6-ab87-440b-afe2-cf08e8fcd916 a skos:Concept;
+   skos:broader physh:778678c1-03d6-402a-a039-4eaaeb999399;
+   skos:narrower physh:4b477756-a9b6-488e-b461-28b29f2b3c2a,
+     physh:77397021-b0aa-4e53-97ba-7dbfe8ef4b0a,
+     physh:9bf06d71-942b-47ec-872c-0ddcec3e4c00,
+     physh:6944ba20-4445-4ec6-9f76-4619ac24fda2;
+   skos:prefLabel "Physical deposition"@en;
+   physh_rdf:prefLabel "Physical deposition"@en .
+
 physh:99668e65-fdae-43c5-b265-3b3af92ccddc a skos:Concept;
    skos:broader physh:88a5cd35-609c-4f0a-8994-5a4cbe488296;
    skos:narrower physh:64ff1d76-484a-4548-a1c5-495094710fcc,
@@ -17035,7 +17126,6 @@ physh:e182c548-24f2-45a8-99ce-816acead5bf5 a skos:Concept;
      physh:2a9cae2b-9797-41ca-91c2-08aaeffffcdd,
      physh:ade677cb-7124-424f-8223-4908384d91fa;
    skos:prefLabel "Pump-probe spectroscopy"@en;
-   skos:scopeNote "Made NT of Spectroscopy"@en;
    physh_rdf:prefLabel "Pump-probe spectroscopy"@en .
 
 physh:e4236efc-fc7b-4d50-bc84-76ddf5e65856 a skos:Concept;
@@ -17198,6 +17288,7 @@ physh:1f68adf2-72ef-4afa-8536-fd5094c2edd5 a skos:Concept;
    physh_rdf:prefLabel "Magnetic interactions"@en .
 
 physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2 a skos:Concept;
+   skos:altLabel "IBA"@en;
    skos:broader physh:1d433fa8-4cdd-4e66-ae51-df1797f18d56;
    skos:narrower physh:6fc8813f-a669-421b-8003-93d983e9e384,
      physh:7b8f181e-b12f-41e6-af8c-516ac0bb478b,
@@ -17206,17 +17297,6 @@ physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2 a skos:Concept;
      physh:d73b620d-16e7-401d-9d82-0f8ddc43076a;
    skos:prefLabel "Ion beam analysis"@en;
    physh_rdf:prefLabel "Ion beam analysis"@en .
-
-physh:229eca6d-30f1-4c05-9a78-c352de8326b1 a skos:Concept;
-   skos:altLabel "Surface adsorption"@en;
-   skos:broader physh:eef7c13b-c67f-4d33-be97-76cee58e700a;
-   skos:narrower physh:4452dd6b-0cb8-46ac-b4d7-aac7b315a181,
-     physh:ea4bddbd-ef94-4d52-b979-d22e179a8502,
-     physh:020035d3-c88b-49ea-9d53-0df5782a9a28,
-     physh:c6891af3-c2d3-40b2-8c23-e72f946cdc95,
-     physh:b1cff8a3-aa14-4433-871f-d2c49bb8d261;
-   skos:prefLabel "Adsorption"@en;
-   physh_rdf:prefLabel "Adsorption"@en .
 
 physh:22b17e02-28a0-4b88-ae3b-2520aa22cfb9 a skos:Concept,
      physh_rdf:Concept;
@@ -17784,17 +17864,6 @@ physh:fcb85338-c881-4bd4-98a9-1563b1194606 a skos:Concept,
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Multi-organism systems"@en .
 
-physh:fd7300dc-49e9-458d-9121-de94f7446fdb a skos:Concept,
-     physh_rdf:Concept;
-   skos:narrower physh:0f07d301-a4ed-4538-aca3-aea5d70bc1b2,
-     physh:a2dbb963-65c6-4422-bfbc-8ae66bdf131d,
-     physh:df62af0e-1882-4457-aecc-9402b0736a56,
-     physh:e9bf3b02-5f76-41ca-b772-3ac5ef388ab6;
-   skos:prefLabel "Information & communication theory"@en;
-   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Information & communication theory"@en .
-
 physh:08087671-73b2-4a66-a8ae-079c75cb9b33 a skos:Concept;
    skos:broader physh:7a86b9d8-3162-4279-9ca5-90ebad07be7c;
    skos:narrower physh:0a177748-958d-46aa-a4cf-55715c6a9807,
@@ -17829,6 +17898,18 @@ physh:1128a9f3-70c1-409b-84b2-44063aa12108 a skos:Concept,
    physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Crystalline systems"@en .
+
+physh:229eca6d-30f1-4c05-9a78-c352de8326b1 a skos:Concept;
+   skos:altLabel "Surface adsorption"@en;
+   skos:broader physh:eef7c13b-c67f-4d33-be97-76cee58e700a;
+   skos:narrower physh:4452dd6b-0cb8-46ac-b4d7-aac7b315a181,
+     physh:ea4bddbd-ef94-4d52-b979-d22e179a8502,
+     physh:020035d3-c88b-49ea-9d53-0df5782a9a28,
+     physh:c6891af3-c2d3-40b2-8c23-e72f946cdc95,
+     physh:b1cff8a3-aa14-4433-871f-d2c49bb8d261;
+   skos:prefLabel "Adsorption"@en;
+   skos:related physh:cf113451-83bd-4f3a-9884-a14d38899ecf;
+   physh_rdf:prefLabel "Adsorption"@en .
 
 physh:2917e3bd-b25c-4e89-8796-5c7e77dfda5a a skos:Concept;
    skos:broader physh:04f1f8c5-11c4-434d-9561-f9c615ba5813;
@@ -18284,6 +18365,18 @@ physh:1932821b-d848-4b37-8209-74c6a9556c07 a skos:Concept,
    physh_rdf:inFacet physh:42d3b740-7576-46a7-8b8f-331568a778b1;
    physh_rdf:prefLabel "Rheological properties"@en .
 
+physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336 a skos:Concept;
+   skos:broader physh:18d10b28-37f1-434d-a95b-19cf71fc6f05;
+   skos:narrower physh:2b315a5c-8a84-4c29-b1a0-b97a413acce5,
+     physh:9f0c8bb8-8b7d-4a6d-8274-50542131c1c6,
+     physh:d45ade7d-8b97-4566-a733-1c8d84a30b18,
+     physh:df4299d8-c6df-41d8-96f5-46e062fd5b05,
+     physh:ebb9014c-84db-40a2-bf87-dfe6f01d6c97,
+     physh:49953cb9-129b-476f-b701-1536b31ab7af,
+     physh:24098ed4-b73f-4eb2-bd1a-df209728659f;
+   skos:prefLabel "X-ray scattering"@en;
+   physh_rdf:prefLabel "X-ray scattering"@en .
+
 physh:23e22a76-a9ba-4593-8d52-4e5c98c47af3 a skos:Concept;
    skos:broader physh:0e380d9d-ccad-467d-abf7-7ab154e42c86;
    skos:narrower physh:0691e67d-a662-4911-b645-7d587620004b,
@@ -18714,6 +18807,20 @@ physh:34773509-53cc-4885-a027-7bd3497f7157 a skos:Concept;
    skos:prefLabel "Electron microscopy"@en;
    physh_rdf:prefLabel "Electron microscopy"@en .
 
+physh:40082853-5a77-4bce-bb7b-a6b598d04d93 a skos:Concept;
+   skos:altLabel "Photoelectron spectroscopy"@en;
+   skos:broader physh:90223563-a9ed-483d-ad68-68ab7c3b3161;
+   skos:narrower physh:083ca210-0b71-4ee8-882b-053297428820,
+     physh:17efc391-a78d-42e7-b9cb-841c6310aa7c,
+     physh:4965b0fe-590f-49fd-8f3d-9f89cf0bb140,
+     physh:5db65708-48a5-4281-a032-6f878f763b07,
+     physh:a3b7b852-2443-4d36-b8d8-4011d5130b7a,
+     physh:a4074854-ac2f-4771-9451-0ce9bbad43ce,
+     physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0;
+   skos:prefLabel "Photoemission spectroscopy"@en;
+   skos:related physh:d9af0237-9064-4875-aa7e-1293ffa03f4e;
+   physh_rdf:prefLabel "Photoemission spectroscopy"@en .
+
 physh:4e68d438-9022-4da6-ae03-4074370de48f a skos:Concept;
    skos:broader physh:9e235d60-3bdd-4919-b71f-10052ac459d7;
    skos:narrower physh:03ea23c0-a2b0-4198-9a17-980c1f9d91de,
@@ -19098,20 +19205,6 @@ physh:12e1040c-7c2c-478a-b466-c979b57fcaea a skos:Concept,
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Atomic & molecular collisions"@en .
 
-physh:1d3e6a42-9d7e-4c5f-b0ef-c5fb489e8336 a skos:Concept;
-   skos:broader physh:18d10b28-37f1-434d-a95b-19cf71fc6f05;
-   skos:narrower physh:2b315a5c-8a84-4c29-b1a0-b97a413acce5,
-     physh:81e98b33-4dad-4a65-91ce-c257de3b86f6,
-     physh:9f0c8bb8-8b7d-4a6d-8274-50542131c1c6,
-     physh:d45ade7d-8b97-4566-a733-1c8d84a30b18,
-     physh:df4299d8-c6df-41d8-96f5-46e062fd5b05,
-     physh:ebb9014c-84db-40a2-bf87-dfe6f01d6c97,
-     physh:49953cb9-129b-476f-b701-1536b31ab7af,
-     physh:24098ed4-b73f-4eb2-bd1a-df209728659f,
-     physh:90fe4f6a-8a53-4bde-9d66-af64556260c8;
-   skos:prefLabel "X-ray scattering"@en;
-   physh_rdf:prefLabel "X-ray scattering"@en .
-
 physh:2303d382-65bb-4b93-94b8-62a73502ec4b a skos:Concept;
    skos:broader physh:fea036a1-9c29-4872-ab2c-d052949f7c03;
    skos:narrower physh:0c82313d-26e8-4119-85be-70b2a13c9a05,
@@ -19424,6 +19517,21 @@ physh:f5372742-fa5e-4bda-96ba-87e45d98bae6 a skos:Concept,
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Interfacial flows"@en .
 
+physh:fd7300dc-49e9-458d-9121-de94f7446fdb a skos:Concept,
+     physh_rdf:Concept;
+   skos:narrower physh:0f07d301-a4ed-4538-aca3-aea5d70bc1b2,
+     physh:a2dbb963-65c6-4422-bfbc-8ae66bdf131d,
+     physh:df62af0e-1882-4457-aecc-9402b0736a56,
+     physh:e9bf3b02-5f76-41ca-b772-3ac5ef388ab6,
+     physh:4c886248-148a-41d4-888c-de09e60e1e87,
+     physh:abc3dcc9-16b4-40a1-9694-092bdca2bcbd;
+   skos:prefLabel "Information & communication theory"@en;
+   skos:related physh:2b88f89f-3e4e-4b91-b3d1-c8d065e75d39,
+     physh:830c747a-630a-4511-9ebd-e2a91ed40337;
+   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Information & communication theory"@en .
+
 physh:0a74688b-2eee-4349-a9bd-e93851fe2c5a a skos:Concept,
      physh_rdf:Concept;
    skos:narrower physh:025824d5-cdd3-499f-9bc7-6c7fb9f6b09b,
@@ -19504,22 +19612,6 @@ physh:2a71cbba-3674-42b1-8778-4b794f85a844 a skos:Concept;
      physh:acab8a03-b89b-4d98-a16e-32ac98626471;
    skos:prefLabel "Inorganic compounds"@en;
    physh_rdf:prefLabel "Inorganic compounds"@en .
-
-physh:40082853-5a77-4bce-bb7b-a6b598d04d93 a skos:Concept;
-   skos:altLabel "Photoelectron spectroscopy"@en;
-   skos:broader physh:90223563-a9ed-483d-ad68-68ab7c3b3161;
-   skos:narrower physh:083ca210-0b71-4ee8-882b-053297428820,
-     physh:17efc391-a78d-42e7-b9cb-841c6310aa7c,
-     physh:4965b0fe-590f-49fd-8f3d-9f89cf0bb140,
-     physh:5db65708-48a5-4281-a032-6f878f763b07,
-     physh:a3b7b852-2443-4d36-b8d8-4011d5130b7a,
-     physh:a4074854-ac2f-4771-9451-0ce9bbad43ce,
-     physh:3d20e485-92f3-41f6-822e-1267ffa2cf54,
-     physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0,
-     physh:075be4f4-ce0e-4e38-bf72-d9e4648724bb;
-   skos:prefLabel "Photoemission spectroscopy"@en;
-   skos:related physh:d9af0237-9064-4875-aa7e-1293ffa03f4e;
-   physh_rdf:prefLabel "Photoemission spectroscopy"@en .
 
 physh:4c286df9-b565-4295-b951-49a36d60cad1 a skos:Concept,
      physh_rdf:Concept;
@@ -20322,6 +20414,7 @@ physh:db7ba2bd-700a-4b0b-b444-b873c97ff818 a skos:Concept,
    skos:altLabel "Cold atoms"@en,
      "Quantum gases"@en,
      "Quantum states of matter"@en;
+   skos:broader physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff;
    skos:narrower physh:27ddfc6a-bdbc-4a96-b380-735af822565d,
      physh:4254adf6-872d-4868-9931-a2a3e84b566e,
      physh:6090aec3-29d2-4724-93d3-f3dc024b5a9d,
@@ -20334,8 +20427,7 @@ physh:db7ba2bd-700a-4b0b-b444-b873c97ff818 a skos:Concept,
      physh:733b28ec-b147-4e13-b2a5-d8a767d2d6f3;
    skos:scopeNote "Moved from Disciplines"@en;
    physh_rdf:inDiscipline physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60,
-     physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350,
-     physh:a48f173e-6459-4642-a711-a6e731807625;
+     physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Quantum fluids & solids"@en .
 
@@ -22265,13 +22357,7 @@ physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350 a skos:ConceptScheme,
    dcterms:description "Concepts from the AMO Physics concept scheme of the APS Taxonomy"@en;
    dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
    dcterms:subject "Atomic, Molecular, and Optical Physics"@en;
-   physh_rdf:hasConcept physh:ff402d94-d1d8-4207-a321-f935f060b175,
-     physh:12e1040c-7c2c-478a-b466-c979b57fcaea,
-     physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577,
-     physh:30e65d01-6cd5-442b-889f-ddc0c3c28157,
-     physh:46e2a993-8dce-4c28-beab-fdabe4378664,
-     physh:ba7ccb8e-d7eb-4e6f-9c1e-b622f5b4e242,
-     physh:65920eff-f184-41cd-9ec0-b33bb0679565,
+   physh_rdf:hasConcept physh:65920eff-f184-41cd-9ec0-b33bb0679565,
      physh:709d46e1-304b-4708-a494-d27c13e9ca2c,
      physh:73187d36-0e90-42c1-b531-7b85d8beefd4,
      physh:8252f005-8412-4e8e-a2c6-0f6ff6c1b7fa,
@@ -22280,6 +22366,12 @@ physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350 a skos:ConceptScheme,
      physh:cd4c012e-bacf-4bcf-8358-a6573a330ec4,
      physh:db7ba2bd-700a-4b0b-b444-b873c97ff818,
      physh:dcf48409-af3f-4517-b58d-7ec6c95351f3,
+     physh:ff402d94-d1d8-4207-a321-f935f060b175,
+     physh:12e1040c-7c2c-478a-b466-c979b57fcaea,
+     physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577,
+     physh:30e65d01-6cd5-442b-889f-ddc0c3c28157,
+     physh:46e2a993-8dce-4c28-beab-fdabe4378664,
+     physh:ba7ccb8e-d7eb-4e6f-9c1e-b622f5b4e242,
      physh:55bba34b-0d31-428f-a430-4f502667434a,
      physh:7e2374d5-2769-48f1-bd04-1d8f3a57e280,
      physh:9dc2ee1a-ff51-438a-b7c7-1045cd385cfc,
@@ -22307,9 +22399,9 @@ physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350 a skos:ConceptScheme,
      physh:db4ea3ff-b6e5-43b2-90eb-8a966a5bc1b0,
      physh:efcb74a9-574f-44cb-ae57-4b9a1cec44df;
    physh_rdf:prefLabel "Atomic, Molecular & Optical"@en;
-   physh_rdf:usesFacet physh:42d3b740-7576-46a7-8b8f-331568a778b1,
+   physh_rdf:usesFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a,
+     physh:42d3b740-7576-46a7-8b8f-331568a778b1,
      physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e,
-     physh:f45b3c40-959c-4e90-ba0e-38232980802a,
      physh:fa2a6718-de5c-4c05-bf00-f169a55234d5,
      physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
      physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84,
@@ -22603,7 +22695,6 @@ physh:a48f173e-6459-4642-a711-a6e731807625 a skos:ConceptScheme,
      physh:d46f32eb-17b3-4d09-be59-fc3461e542db,
      physh:eef7c13b-c67f-4d33-be97-76cee58e700a,
      physh:f2a9db78-1651-4a94-b66e-3e3d72056760,
-     physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff,
      physh:0026b3bc-1a2f-45df-8025-1243dac91047,
      physh:1128a9f3-70c1-409b-84b2-44063aa12108,
      physh:12721ec5-11d3-484a-9ea9-a7bea1986722,
@@ -22618,8 +22709,8 @@ physh:a48f173e-6459-4642-a711-a6e731807625 a skos:ConceptScheme,
      physh:8508c727-cef4-4fe3-a99a-64b7319d4e79,
      physh:a38f8c2b-eff3-4e4d-8146-e17ef6bde9dd,
      physh:da2cf824-a50d-4c47-a974-efa09b98c860,
-     physh:db7ba2bd-700a-4b0b-b444-b873c97ff818,
      physh:f495cfcf-afde-4cee-8daa-3ffffaa0e3a6,
+     physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff,
      physh:e2b8e2c2-4beb-41db-b473-1e2501888502,
      physh:6d0b28b1-a3eb-40f1-bf96-43308f5d2c56,
      physh:05a47dcc-71c0-4ebc-9d4e-79a40a191efb,
@@ -23052,6 +23143,7 @@ physh:f45b3c40-959c-4e90-ba0e-38232980802a a skos:Concept,
      physh:a38f8c2b-eff3-4e4d-8146-e17ef6bde9dd,
      physh:da2cf824-a50d-4c47-a974-efa09b98c860,
      physh:f495cfcf-afde-4cee-8daa-3ffffaa0e3a6,
+     physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff,
      physh:e2b8e2c2-4beb-41db-b473-1e2501888502,
      physh:6d0b28b1-a3eb-40f1-bf96-43308f5d2c56,
      physh:4c286df9-b565-4295-b951-49a36d60cad1,
@@ -23255,7 +23347,6 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:b35238d0-83c7-4412-b293-c7d42fa92c62,
      physh:bfe403ee-cd34-466b-b8bf-f90b4d4431fc,
      physh:d46f32eb-17b3-4d09-be59-fc3461e542db,
-     physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff,
      physh:5f099028-76e7-4a1c-b549-61c441f6241f,
      physh:7853f3c2-c02d-4fc9-aae8-1eb75aaf35b8,
      physh:b3310113-551e-4c5e-9263-28f393ff09f0,
