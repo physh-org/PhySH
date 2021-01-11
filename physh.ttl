@@ -19688,6 +19688,7 @@ physh:68e48847-c427-4c28-a6e0-01e33a33e926 a skos:Concept,
      physh:68d7090d-127f-44dd-bda5-5ee1aee2a7a2,
      physh:9ebaacc9-f580-461c-ae18-8686659f5421;
    skos:prefLabel "Nuclear mass ranges"@en;
+   physh_rdf:excludeFromIndexing true;
    physh_rdf:inDiscipline physh:0213a5a0-0742-43f3-804b-3ccea08a13c0;
    physh_rdf:inFacet physh:42d3b740-7576-46a7-8b8f-331568a778b1;
    physh_rdf:prefLabel "Nuclear mass ranges"@en .
@@ -20782,6 +20783,7 @@ physh:22580d6a-8d20-4653-b2d1-a7de314bc162 a skos:Concept,
      physh:f8c39702-4ddd-449c-bd17-093154c1ddf2,
      physh:fa06d5b1-45b2-49f7-9315-6f97e3170bd1;
    skos:prefLabel "Specific kinds of plasmas"@en;
+   physh_rdf:excludeFromIndexing true;
    physh_rdf:inDiscipline physh:5375b253-b0a1-4ece-bb50-4c34ea7218bd;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Specific kinds of plasmas"@en .
@@ -21111,6 +21113,7 @@ physh:fa2a6718-de5c-4c05-bf00-f169a55234d5 a skos:Concept,
      physh:b96dac97-ab85-4320-892d-9b245caf097f;
    skos:prefLabel "Techniques"@en;
    skos:topConceptOf physh:7b910510-8488-42c8-ac66-4a0afdc726c9;
+   physh_rdf:excludeFromIndexing true;
    physh_rdf:prefLabel "Techniques"@en;
    physh_rdf:usedByDiscipline physh:0213a5a0-0742-43f3-804b-3ccea08a13c0,
      physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb,
@@ -23168,6 +23171,7 @@ physh:f45b3c40-959c-4e90-ba0e-38232980802a a skos:Concept,
      physh:beaa54ca-9008-483f-afb7-74caff3d61a2,
      physh:fd7cfd2b-a957-4dcd-b32d-b9d00e6aba33,
      physh:fe72c849-ad3f-4968-bc46-177716503f13;
+   physh_rdf:excludeFromIndexing true;
    physh_rdf:prefLabel "Physical Systems"@en;
    physh_rdf:usedByDiscipline physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb,
      physh:0f4313da-ec73-46f5-b24f-521a1fcb6db7,
@@ -23375,6 +23379,7 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
      physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
      physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+   physh_rdf:excludeFromIndexing true;
    physh_rdf:prefLabel "Research Areas"@en;
    physh_rdf:usedByDiscipline physh:0213a5a0-0742-43f3-804b-3ccea08a13c0,
      physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb,
