@@ -66,6 +66,11 @@ physh:011df754-7d14-4d82-85d4-d33b3166ccf6 a skos:Concept;
    skos:prefLabel "Ultrasound techniques"@en;
    physh_rdf:prefLabel "Ultrasound techniques"@en .
 
+physh:016a4ed2-bd01-4644-9999-a830f02ae172 a skos:Concept;
+   skos:broader physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f;
+   skos:prefLabel "Thermal batteries"@en;
+   physh_rdf:prefLabel "Thermal batteries"@en .
+
 physh:019c379e-c262-4f9d-9ac6-bc478de08095 a skos:Concept;
    skos:broader physh:6ff84248-428b-4704-ae9f-e55346a4ce60;
    skos:prefLabel "Kitaev model"@en;
@@ -133,6 +138,11 @@ physh:0312c66e-757d-4763-abec-f20801d32015 a skos:Concept;
    skos:broader physh:d003cb63-dde8-403d-84dd-985e04b1fb25;
    skos:prefLabel "Mixing in geophysical flows"@en;
    physh_rdf:prefLabel "Mixing in geophysical flows"@en .
+
+physh:033162e2-40ae-4390-9472-cf780651a0ed a skos:Concept;
+   skos:broader physh:7f29b291-aab9-4d63-a15c-1b98193cc0ca;
+   skos:prefLabel "Gravity batteries"@en;
+   physh_rdf:prefLabel "Gravity batteries"@en .
 
 physh:033555f3-f2e5-4e9d-afdf-ff358604c622 a skos:Concept;
    skos:broader physh:5114e95c-b4a7-458f-a2f7-b49a98b828cd;
@@ -441,6 +451,11 @@ physh:09acb30d-fe38-4733-8528-4f3b6214146b a skos:Concept;
    skos:prefLabel "Time-resolved photoluminescence"@en;
    physh_rdf:prefLabel "Time-resolved photoluminescence"@en .
 
+physh:09c4be7a-362a-4452-b732-6c8755bee303 a skos:Concept;
+   skos:broader physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea;
+   skos:prefLabel "Thermal energy storage"@en;
+   physh_rdf:prefLabel "Thermal energy storage"@en .
+
 physh:09d08dc4-f460-4ea1-84d5-ac9d1e4477d1 a skos:Concept;
    skos:broader physh:ef41b9c0-c5a2-4728-9a87-d114abfb3659;
    skos:prefLabel "Actuating materials"@en;
@@ -465,11 +480,6 @@ physh:0a3d04fa-1b55-4721-9cd3-44415c98b7c1 a skos:Concept;
    skos:broader physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
    skos:prefLabel "Electrochemistry"@en;
    physh_rdf:prefLabel "Electrochemistry"@en .
-
-physh:0a5e3a73-ce1c-4388-a12d-9dd67740f019 a skos:Concept;
-   skos:broader physh:03d36887-85f0-4045-a51f-93c21e08df23;
-   skos:prefLabel "Photocatalysis"@en;
-   physh_rdf:prefLabel "Photocatalysis"@en .
 
 physh:0aa3b7b5-77fa-4cd5-8d16-e7cd9fcc47e7 a skos:Concept;
    skos:broader physh:cbc41431-fba0-4ff0-8134-2ded6e598922;
@@ -565,6 +575,11 @@ physh:0c82313d-26e8-4119-85be-70b2a13c9a05 a skos:Concept;
    skos:prefLabel "Cross-linked polymers"@en;
    physh_rdf:prefLabel "Cross-linked polymers"@en .
 
+physh:0cac8122-b62b-434e-b870-91c68644326b a skos:Concept;
+   skos:broader physh:b580bc4d-63fc-4636-9ef6-76e79ea68085;
+   skos:prefLabel "Grid stability"@en;
+   physh_rdf:prefLabel "Grid stability"@en .
+
 physh:0cc941ef-b5e3-4f7f-99a3-de3f9cb4dd61 a skos:Concept;
    skos:broader physh:9ccf11df-5b72-4ce0-92e6-e48f8dda172b;
    skos:prefLabel "Organelle"@en;
@@ -584,6 +599,12 @@ physh:0d10d1f4-84a2-4f98-8606-51df929ca2da a skos:Concept;
    skos:broader physh:2360e96e-a12b-4d21-9b65-36ed1177c0e6;
    skos:prefLabel "Multiplexers"@en;
    physh_rdf:prefLabel "Multiplexers"@en .
+
+physh:0d2c7741-1686-49bd-a316-206b1a8aca88 a skos:Concept;
+   skos:altLabel "CAES"@en;
+   skos:broader physh:7f29b291-aab9-4d63-a15c-1b98193cc0ca;
+   skos:prefLabel "Compressed air energy storage"@en;
+   physh_rdf:prefLabel "Compressed air energy storage"@en .
 
 physh:0d3c1c52-f6e3-474e-bb5d-f841c81a859b a skos:Concept;
    skos:broader physh:3741a35f-83a8-4e50-b7a2-38e600034925;
@@ -786,6 +807,11 @@ physh:1130bd3e-e2f4-450f-b54b-2bd7de51100e a skos:Concept;
    skos:broader physh:a9c20b4d-69a1-40f1-81c1-86b01859b80c;
    skos:prefLabel "Beam optics transport"@en;
    physh_rdf:prefLabel "Beam optics transport"@en .
+
+physh:1135dc6a-829e-4d64-9884-892265275337 a skos:Concept;
+   skos:broader physh:64470342-2836-4044-a632-693f38e12b9f;
+   skos:prefLabel "Geological CO2 storage"@en;
+   physh_rdf:prefLabel "Geological CO2 storage"@en .
 
 physh:113ec697-5c75-4106-b64f-bf2e8a4fcc6f a skos:Concept;
    skos:broader physh:eac8c4d5-07af-40a1-92d6-f32abca831a1;
@@ -1127,6 +1153,11 @@ physh:1a306da3-c882-48b1-b354-26853de1d57e a skos:Concept;
    skos:prefLabel "Granular avalanches"@en;
    physh_rdf:prefLabel "Granular avalanches"@en .
 
+physh:1a6b9799-905c-4c1d-a8cc-d8c348eb6baf a skos:Concept;
+   skos:broader physh:3bab53f4-af17-4278-95a1-fa1b42b9231c;
+   skos:prefLabel "RF energy harvesting devices"@en;
+   physh_rdf:prefLabel "RF energy harvesting devices"@en .
+
 physh:1a94ea0f-0a72-43b4-ad8c-7ee963b7d191 a skos:Concept;
    skos:broader physh:a5866236-c99c-4828-b499-4f50cccf7a2b;
    skos:prefLabel "X-ray & gamma ray plasma measurements"@en;
@@ -1373,6 +1404,11 @@ physh:20becfdd-ee51-4ca3-9191-827518624f1c a skos:Concept;
    skos:prefLabel "Autoionization & Auger processes"@en;
    physh_rdf:prefLabel "Autoionization & Auger processes"@en .
 
+physh:21153288-2cc1-447b-9714-d79cc06a734f a skos:Concept;
+   skos:broader physh:98437b05-f0c0-47aa-aba8-d73081519e1b;
+   skos:prefLabel "Thermoelectric cooling"@en;
+   physh_rdf:prefLabel "Thermoelectric cooling"@en .
+
 physh:213035ab-7d9e-4de0-b601-0733da9694b4 a skos:Concept;
    skos:broader physh:5ef62623-4765-4b21-8fce-7542d68c9faa;
    skos:prefLabel "Birefringence"@en;
@@ -1538,6 +1574,11 @@ physh:24d2edc1-911e-428d-b58d-d7a815949b4c a skos:Concept;
    skos:broader physh:695da376-c44a-41dd-b968-d200c31e9d5e;
    skos:prefLabel "Asymmetric simple exclusion process"@en;
    physh_rdf:prefLabel "Asymmetric simple exclusion process"@en .
+
+physh:250773f3-7403-47d6-aa15-9973bae77e67 a skos:Concept;
+   skos:broader physh:c6751f54-a0e7-44a2-aad8-cc8e5a5df651;
+   skos:prefLabel "Hybrid capacitors"@en;
+   physh_rdf:prefLabel "Hybrid capacitors"@en .
 
 physh:251bf3dc-c99f-4de0-a9e9-c412d90ab994 a skos:Concept;
    skos:broader physh:b30d0b9e-de6d-4de6-bfad-565f513573b7;
@@ -1736,6 +1777,12 @@ physh:2aa60c9a-e26a-4bc7-8eb8-c6051a22fae2 a skos:Concept;
    skos:broader physh:be8bd934-5bc9-4a6d-ae73-f4753ce5c128;
    skos:prefLabel "Multi-purpose particle detectors"@en;
    physh_rdf:prefLabel "Multi-purpose particle detectors"@en .
+
+physh:2aeaa102-0ee1-4ae7-a52b-7230ec66deea a skos:Concept;
+   skos:altLabel "CO2 capture"@en;
+   skos:broader physh:2e9e0c49-ce2d-4029-a89d-c5d0535574a2;
+   skos:prefLabel "Carbon capture"@en;
+   physh_rdf:prefLabel "Carbon capture"@en .
 
 physh:2af30043-7d0f-4b32-983b-97ff6a118f1c a skos:Concept;
    skos:broader physh:6950be70-706e-4cf6-99c8-bc9c0b5f8dc2;
@@ -1982,6 +2029,11 @@ physh:31d16456-2d2e-457a-8073-496213e6a31c a skos:Concept;
    skos:prefLabel "Plasma sources"@en;
    physh_rdf:prefLabel "Plasma sources"@en .
 
+physh:31f7839a-9a3c-4b8f-940b-8b2038c65af3 a skos:Concept;
+   skos:broader physh:2e9e0c49-ce2d-4029-a89d-c5d0535574a2;
+   skos:prefLabel "Carbon-neutral fuels"@en;
+   physh_rdf:prefLabel "Carbon-neutral fuels"@en .
+
 physh:31fddab4-6549-4d71-b7f9-2afaf3ab2b3e a skos:Concept;
    skos:broader physh:3741a35f-83a8-4e50-b7a2-38e600034925;
    skos:prefLabel "Plasma production & heating by laser beams, laser-foil, laser-cluster"@en;
@@ -2179,6 +2231,11 @@ physh:36605f3a-251d-4dd6-ac96-f52c669d6536 a skos:Concept;
    skos:broader physh:9b656cab-64ae-4b47-ba61-845c2beda40b;
    skos:prefLabel "Light sheet fluorescence microscopy"@en;
    physh_rdf:prefLabel "Light sheet fluorescence microscopy"@en .
+
+physh:367a1b45-c8f5-4fda-b5fe-e5112e92cc39 a skos:Concept;
+   skos:broader physh:98437b05-f0c0-47aa-aba8-d73081519e1b;
+   skos:prefLabel "Thermoelectric heating"@en;
+   physh_rdf:prefLabel "Thermoelectric heating"@en .
 
 physh:368a208a-7a87-480d-b995-c872b34aac50 a skos:Concept;
    skos:broader physh:22580d6a-8d20-4653-b2d1-a7de314bc162;
@@ -2433,11 +2490,6 @@ physh:3a918ab3-927d-4051-b15a-777fcfe551ab a skos:Concept;
    skos:prefLabel "Alignment & survey"@en;
    physh_rdf:prefLabel "Alignment & survey"@en .
 
-physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f a skos:Concept;
-   skos:broader physh:e6586efa-1454-4ae2-9407-f4ca0d9322da;
-   skos:prefLabel "Batteries"@en;
-   physh_rdf:prefLabel "Batteries"@en .
-
 physh:3ab8bde4-9e9e-497c-9262-2a77253d5ca0 a skos:Concept;
    skos:broader physh:82f6c5fd-bbef-4ff9-a5f9-de62d3f5dfeb;
    skos:prefLabel "Effective medium approach"@en;
@@ -2626,6 +2678,11 @@ physh:3f5993c2-f864-4a0f-85b1-54b1d389f531 a skos:Concept;
    skos:prefLabel "Fatigue"@en;
    physh_rdf:prefLabel "Fatigue"@en .
 
+physh:3f6c9d4a-a53c-42ac-9f57-f8eb1dedb31d a skos:Concept;
+   skos:broader physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a;
+   skos:prefLabel "Scaling of energy technologies"@en;
+   physh_rdf:prefLabel "Scaling of energy technologies"@en .
+
 physh:3f8bf87b-51df-4918-b2bb-14be65415c0f a skos:Concept;
    skos:broader physh:0e378245-c424-4d52-bd5d-81039b2c9cc4;
    skos:prefLabel "Color detection"@en;
@@ -2751,6 +2808,11 @@ physh:42bd2e4c-7912-4c45-8566-bc3443a14a3b a skos:Concept;
    skos:broader physh:f6f3fe36-54ce-45f1-86a3-ad41516135c3;
    skos:prefLabel "MOSFET"@en;
    physh_rdf:prefLabel "MOSFET"@en .
+
+physh:42d18014-e527-4082-971a-6ccde17ec358 a skos:Concept;
+   skos:broader physh:3e08aa2f-f8bd-4a09-ae45-3dddb833f61f;
+   skos:prefLabel "Geothermal heating"@en;
+   physh_rdf:prefLabel "Geothermal heating"@en .
 
 physh:42e3a839-5b63-4011-b3b2-aee1f129aac6 a skos:Concept;
    skos:broader physh:18d10b28-37f1-434d-a95b-19cf71fc6f05;
@@ -2939,6 +3001,12 @@ physh:479d3c67-a551-4c5b-aedb-be4d794a2545 a skos:Concept;
    skos:prefLabel "Electronic & magnetic properties of clusters"@en;
    physh_rdf:prefLabel "Electronic & magnetic properties of clusters"@en .
 
+physh:47b40e91-cfa8-4e9f-8536-2f067b43035e a skos:Concept;
+   skos:altLabel "Li–S batteries"@en;
+   skos:broader physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21;
+   skos:prefLabel "Lithium-sulfur batteries"@en;
+   physh_rdf:prefLabel "Lithium-sulfur batteries"@en .
+
 physh:47b7862a-2008-41c9-91a9-2d29828acc1b a skos:Concept;
    skos:broader physh:ba8221e8-b186-4db2-abb4-bcb0cc7f5b9d;
    skos:prefLabel "Active liquid films"@en;
@@ -3109,6 +3177,11 @@ physh:4b310b66-f5c7-460e-b827-9b3888172aa2 a skos:Concept;
    skos:broader physh:c33a7211-ebcd-4336-917d-a75ecb1e50c4;
    skos:prefLabel "Spin-polarized scanning tunneling microscopy"@en;
    physh_rdf:prefLabel "Spin-polarized scanning tunneling microscopy"@en .
+
+physh:4b3604f3-c502-4fed-ae35-054ffeee8dd9 a skos:Concept;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Biofuel cells"@en;
+   physh_rdf:prefLabel "Biofuel cells"@en .
 
 physh:4b477756-a9b6-488e-b461-28b29f2b3c2a a skos:Concept;
    skos:broader physh:977cf3f6-ab87-440b-afe2-cf08e8fcd916;
@@ -3392,6 +3465,13 @@ physh:52c3b50b-f97a-4c17-9f47-f9d59c728c80 a skos:Concept;
    skos:prefLabel "Nanorods"@en;
    physh_rdf:prefLabel "Nanorods"@en .
 
+physh:52c8e1d0-df68-4b26-a81f-c7c6bc4378e7 a skos:Concept;
+   skos:altLabel "Li-alternative batteries"@en,
+     " Beyond lithium batteries"@en;
+   skos:broader physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f;
+   skos:prefLabel "Lithium-alternative batteries"@en;
+   physh_rdf:prefLabel "Lithium-alternative batteries"@en .
+
 physh:52f3dfc6-36cf-4fbd-8706-562f660f4a72 a skos:Concept;
    skos:broader physh:b5ff1838-0ecd-41a5-a90b-bae4acb69fcf;
    skos:prefLabel "Differential equations"@en;
@@ -3625,6 +3705,11 @@ physh:5800a911-ec6a-422c-875d-14e5808c02b9 a skos:Concept;
    skos:prefLabel "Eigenstate thermalization"@en;
    physh_rdf:prefLabel "Eigenstate thermalization"@en .
 
+physh:580109ed-a8ed-4964-898c-80fedc129ae0 a skos:Concept;
+   skos:broader physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52;
+   skos:prefLabel "Solar concentrators"@en;
+   physh_rdf:prefLabel "Solar concentrators"@en .
+
 physh:5802dce1-0079-4688-9f4e-a79871191efc a skos:Concept;
    skos:altLabel "Optical resonator"@en;
    skos:broader physh:dcf48409-af3f-4517-b58d-7ec6c95351f3;
@@ -3700,6 +3785,11 @@ physh:59d67d30-fc63-4c84-84d0-2ef50dbec5a3 a skos:Concept;
    skos:broader physh:bb2351de-d2a6-4d4c-a33e-9396bc991c32;
    skos:prefLabel "Wave chaos"@en;
    physh_rdf:prefLabel "Wave chaos"@en .
+
+physh:59e4f802-0901-44d3-a830-6fff59de997c a skos:Concept;
+   skos:broader physh:6a87a113-159a-46b4-8ebb-ebc179f00384;
+   skos:prefLabel "Wave energy"@en;
+   physh_rdf:prefLabel "Wave energy"@en .
 
 physh:5a300c5c-69de-42b3-8f4c-9f01c12b2a0f a skos:Concept;
    skos:broader physh:153de13f-2f91-40e7-8553-022f50949969;
@@ -3868,6 +3958,11 @@ physh:5d069596-e362-4ea5-92e2-f1aac4b37463 a skos:Concept;
    skos:prefLabel "Replication"@en;
    physh_rdf:prefLabel "Replication"@en .
 
+physh:5d1749fd-5090-4e69-8da9-d571fbb361ff a skos:Concept;
+   skos:broader physh:4aabe9ae-12ad-4c2e-a578-fb7239d3b285;
+   skos:prefLabel "Electrocatalysis"@en;
+   physh_rdf:prefLabel "Electrocatalysis"@en .
+
 physh:5d23a3ea-babf-44d8-802d-16728e5acf6c a skos:Concept;
    skos:broader physh:04f1f8c5-11c4-434d-9561-f9c615ba5813;
    skos:prefLabel "Plasma-solid interactions"@en;
@@ -3985,15 +4080,16 @@ physh:5f9094b0-d801-4b62-a637-6951e2976cd9 a skos:Concept;
    skos:prefLabel "Medical imaging safety"@en;
    physh_rdf:prefLabel "Medical imaging safety"@en .
 
+physh:5fbbd0b9-5d6d-4aa7-baed-5c853210011c a skos:Concept;
+   skos:altLabel "MCFC"@en;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Molten carbonate fuel cells"@en;
+   physh_rdf:prefLabel "Molten carbonate fuel cells"@en .
+
 physh:6040c824-b403-479c-a36b-237e0858d1d7 a skos:Concept;
    skos:broader physh:ea69605a-7cae-476a-a7da-28f3c186d709;
    skos:prefLabel "Planetary bow shock"@en;
    physh_rdf:prefLabel "Planetary bow shock"@en .
-
-physh:6080ec71-e7c6-45fd-9184-60285aafae40 a skos:Concept;
-   skos:broader physh:bbb0ce0d-36da-4da5-a443-df064f36aa17;
-   skos:prefLabel "Fission"@en;
-   physh_rdf:prefLabel "Fission"@en .
 
 physh:6090aec3-29d2-4724-93d3-f3dc024b5a9d a skos:Concept;
    skos:broader physh:db7ba2bd-700a-4b0b-b444-b873c97ff818;
@@ -4030,6 +4126,12 @@ physh:61428653-e07b-4eb0-850e-5befec07a0d0 a skos:Concept;
    skos:broader physh:7e4e985f-d2fb-46cf-9183-c6e4b4c1c61b;
    skos:prefLabel "Radiation from moving charges"@en;
    physh_rdf:prefLabel "Radiation from moving charges"@en .
+
+physh:6148df1d-df65-467c-9a90-427d326326e0 a skos:Concept;
+   skos:altLabel "SAFC"@en;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Solid acid fuel cells"@en;
+   physh_rdf:prefLabel "Solid acid fuel cells"@en .
 
 physh:61afd5a3-dff1-41ee-a640-82061a64477a a skos:Concept;
    skos:broader physh:683890e6-25e0-4d29-9686-308d5800fda7;
@@ -4137,6 +4239,11 @@ physh:64545bf5-eb34-4338-9a4b-e369a2733114 a skos:Concept;
    skos:prefLabel "Preferential attachment models"@en;
    physh_rdf:prefLabel "Preferential attachment models"@en .
 
+physh:645d3fa0-5cfd-4a00-a877-673272fa21be a skos:Concept;
+   skos:broader physh:4c12fcde-ed75-4e1c-bd19-253623703054;
+   skos:prefLabel "Hydroelectric dams"@en;
+   physh_rdf:prefLabel "Hydroelectric dams"@en .
+
 physh:649554e5-8b05-415c-af99-96e13e9ad56a a skos:Concept;
    skos:broader physh:9e235d60-3bdd-4919-b71f-10052ac459d7;
    skos:prefLabel "Compartmentalization"@en;
@@ -4222,6 +4329,11 @@ physh:664caf62-07df-471a-824f-b0ed7f326bf4 a skos:Concept;
    skos:broader physh:b35238d0-83c7-4412-b293-c7d42fa92c62;
    skos:prefLabel "Magnetoacoustic effect"@en;
    physh_rdf:prefLabel "Magnetoacoustic effect"@en .
+
+physh:666ef756-42d3-41ff-8706-3d0d764b0ed0 a skos:Concept;
+   skos:broader physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f;
+   skos:prefLabel "Flow batteries"@en;
+   physh_rdf:prefLabel "Flow batteries"@en .
 
 physh:66969bb5-5f13-44a2-9ac9-a4ddaf711c3e a skos:Concept;
    skos:broader physh:29a5aa4f-d2c0-43ce-98a8-21cbbf2ae916;
@@ -4392,11 +4504,6 @@ physh:6a71ea1b-05e8-49de-92a8-87e5306cc3e3 a skos:Concept;
    skos:broader physh:1128a9f3-70c1-409b-84b2-44063aa12108;
    skos:prefLabel "Single crystal materials"@en;
    physh_rdf:prefLabel "Single crystal materials"@en .
-
-physh:6a87a113-159a-46b4-8ebb-ebc179f00384 a skos:Concept;
-   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
-   skos:prefLabel "Ocean energy"@en;
-   physh_rdf:prefLabel "Ocean energy"@en .
 
 physh:6aa2c3dc-ffa3-48ce-98a1-be48517886ee a skos:Concept;
    skos:broader physh:98cac094-ec9c-4f37-adf7-eed968f89359;
@@ -4615,6 +4722,11 @@ physh:6fc3b2bd-4821-4ade-a389-6384321a438c a skos:Concept;
    skos:prefLabel "Granular fluids"@en;
    physh_rdf:prefLabel "Granular fluids"@en .
 
+physh:6fc7bcaa-baba-4c80-b8f0-512572201d87 a skos:Concept;
+   skos:broader physh:f0761682-18fc-4076-9921-90eae238bc98;
+   skos:prefLabel "Compressed hydrogen"@en;
+   physh_rdf:prefLabel "Compressed hydrogen"@en .
+
 physh:6fc8813f-a669-421b-8003-93d983e9e384 a skos:Concept;
    skos:altLabel "Proton-induced X-ray emission"@en,
      "PIXE"@en;
@@ -4680,6 +4792,13 @@ physh:7132f665-8c46-47a5-9b17-7150169f25b5 a skos:Concept;
    skos:broader physh:58071c68-730c-4a3e-982c-abc9f0cedf67;
    skos:prefLabel "Permanent magnets"@en;
    physh_rdf:prefLabel "Permanent magnets"@en .
+
+physh:714642d8-35fe-454b-8403-c3563f1e87bb a skos:Concept;
+   skos:altLabel "Run-of-the-river hydroelectricity"@en,
+     "ROR"@en;
+   skos:broader physh:4c12fcde-ed75-4e1c-bd19-253623703054;
+   skos:prefLabel "Run-of-river hydroelectricity"@en;
+   physh_rdf:prefLabel "Run-of-river hydroelectricity"@en .
 
 physh:71518a9c-fa1a-4603-8a45-62976bec13bc a skos:Concept;
    skos:altLabel "DFT development"@en;
@@ -4969,6 +5088,12 @@ physh:78e3e9c0-dd10-495e-bf2b-851b1d23180f a skos:Concept;
    skos:prefLabel "Beam instabilities"@en;
    physh_rdf:prefLabel "Beam instabilities"@en .
 
+physh:78fde4c7-f999-47d0-9b48-2e0ae4ab1994 a skos:Concept;
+   skos:altLabel "AFC"@en;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Alkaline fuel cells"@en;
+   physh_rdf:prefLabel "Alkaline fuel cells"@en .
+
 physh:79041d71-0f59-4e20-8f7f-12506b616967 a skos:Concept;
    skos:altLabel "chaos in lasers"@en,
      "laser instabilities"@en,
@@ -5022,6 +5147,16 @@ physh:79f4c730-68b7-4a82-b303-e8a001287704 a skos:Concept;
    skos:broader physh:6e6a0326-86c9-49f2-a044-8ee3ca248ee3;
    skos:prefLabel "Relaxor ferroelectrics"@en;
    physh_rdf:prefLabel "Relaxor ferroelectrics"@en .
+
+physh:7a2142f6-2dcc-4e0a-b910-e8554b7342e2 a skos:Concept;
+   skos:broader physh:3ec5c202-988d-4eb9-bd75-d51f77fbe15a;
+   skos:prefLabel "Biodiesel"@en;
+   physh_rdf:prefLabel "Biodiesel"@en .
+
+physh:7a3d4591-98e9-44a0-9d6f-b9e0d14419e0 a skos:Concept;
+   skos:broader physh:02eb6e91-8409-4ef3-ad57-d76b9c554e4e;
+   skos:prefLabel "Energy-efficient buildings"@en;
+   physh_rdf:prefLabel "Energy-efficient buildings"@en .
 
 physh:7a46daf4-b19a-41af-827f-5e3069da7e6a a skos:Concept;
    skos:broader physh:709d46e1-304b-4708-a494-d27c13e9ca2c;
@@ -5078,6 +5213,11 @@ physh:7b743095-26c0-432e-9eab-45c856d4ce29 a skos:Concept;
    skos:prefLabel "r process"@en;
    physh_rdf:prefLabel "r process"@en .
 
+physh:7b79ca56-6194-4286-804c-34ce14298bd6 a skos:Concept;
+   skos:broader physh:258d6104-3e21-4b28-9599-fa4cb50c028a;
+   skos:prefLabel "Thin-film photovoltaics"@en;
+   physh_rdf:prefLabel "Thin-film photovoltaics"@en .
+
 physh:7b8f181e-b12f-41e6-af8c-516ac0bb478b a skos:Concept;
    skos:altLabel "RBS"@en,
      "HEIS"@en,
@@ -5122,6 +5262,13 @@ physh:7cfdaeec-195a-4ab4-b184-40c5c1ff3f4e a skos:Concept;
    skos:broader physh:1f72b9f1-0dd7-454f-861d-6c5927dfb128;
    skos:prefLabel "Disk micelles"@en;
    physh_rdf:prefLabel "Disk micelles"@en .
+
+physh:7d1c0e34-760f-4d53-b069-a96aa9b1c695 a skos:Concept;
+   skos:altLabel "Lithium-ion polymer batteries"@en,
+     "LiPo"@en;
+   skos:broader physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21;
+   skos:prefLabel "Lithium polymer batteries"@en;
+   physh_rdf:prefLabel "Lithium polymer batteries"@en .
 
 physh:7d20bbff-9e45-461c-b603-22a527cf0b67 a skos:Concept;
    skos:broader physh:f1c78ef6-4185-4a87-9ee6-a89e7ba783b6;
@@ -5308,15 +5455,15 @@ physh:80fb6a46-7823-4068-8e0e-c3b317c807ab a skos:Concept;
    skos:prefLabel "Cell membrane transport"@en;
    physh_rdf:prefLabel "Cell membrane transport"@en .
 
-physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea a skos:Concept;
-   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
-   skos:prefLabel "Energy storage"@en;
-   physh_rdf:prefLabel "Energy storage"@en .
-
 physh:810c52c2-69a9-4ac0-9c5b-41c1954c6e7f a skos:Concept;
    skos:broader physh:26ed7afc-8635-4637-a339-8d0a7cb75be1;
    skos:prefLabel "Relativistic aspects of cosmology"@en;
    physh_rdf:prefLabel "Relativistic aspects of cosmology"@en .
+
+physh:81236d07-2535-466b-93f2-e4d502bf5935 a skos:Concept;
+   skos:broader physh:7d448998-51f2-4304-867e-db5833197487;
+   skos:prefLabel "Hydrogen production"@en;
+   physh_rdf:prefLabel "Hydrogen production"@en .
 
 physh:8150336c-16c0-470c-bf2d-5d7be72e0c48 a skos:Concept;
    skos:broader physh:16158b58-5493-4fb9-901c-54f841cc4524;
@@ -5344,8 +5491,8 @@ physh:81dbff5e-d110-4acf-8973-0d85e54516d9 a skos:Concept;
    physh_rdf:prefLabel "Polycrystalline materials"@en .
 
 physh:81e98b33-4dad-4a65-91ce-c257de3b86f6 a skos:Concept;
-   skos:altLabel "Resonant IXS"@en,
-     "RIXS"@en;
+   skos:altLabel "RIXS"@en,
+     "Resonant IXS"@en;
    skos:broader physh:24098ed4-b73f-4eb2-bd1a-df209728659f;
    skos:prefLabel "Resonant inelastic x-ray scattering"@en;
    physh_rdf:prefLabel "Resonant inelastic x-ray scattering"@en .
@@ -5621,6 +5768,12 @@ physh:87e89de2-57b5-4443-a423-33c8d474d00a a skos:Concept;
    skos:prefLabel "Cosmic ray propagation"@en;
    physh_rdf:prefLabel "Cosmic ray propagation"@en .
 
+physh:8813446d-37c5-42c7-8bba-b4db64b9bb7d a skos:Concept;
+   skos:altLabel "Li-air batteries"@en;
+   skos:broader physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21;
+   skos:prefLabel "Lithium-air batteries"@en;
+   physh_rdf:prefLabel "Lithium-air batteries"@en .
+
 physh:881b156b-3c81-4163-a39a-e9e40f2eada0 a skos:Concept;
    skos:altLabel "Electron microprobe"@en,
      "EMP"@en,
@@ -5737,6 +5890,11 @@ physh:8af57475-285f-4750-a365-0209a0288034 a skos:Concept;
    skos:prefLabel "Microcavity & microdisk lasers"@en;
    physh_rdf:prefLabel "Microcavity & microdisk lasers"@en .
 
+physh:8b139335-9e63-43fc-a051-03fcbb177a22 a skos:Concept;
+   skos:broader physh:3e08aa2f-f8bd-4a09-ae45-3dddb833f61f;
+   skos:prefLabel "Geothermal power"@en;
+   physh_rdf:prefLabel "Geothermal power"@en .
+
 physh:8b16fd40-9ac3-45b5-a389-7543ee26bb8c a skos:Concept;
    skos:broader physh:ac816133-540a-4562-8130-584df553f46a;
    skos:prefLabel "Worm-like chain model"@en;
@@ -5751,6 +5909,11 @@ physh:8b217c72-a730-4357-b137-03ebc83a72e1 a skos:Concept;
    skos:broader physh:fd8cf2dd-2362-4994-a45c-a9b453fe508d;
    skos:prefLabel "Neutron diffraction"@en;
    physh_rdf:prefLabel "Neutron diffraction"@en .
+
+physh:8b42c421-53e4-4d48-8c7d-a5d2bf758fc1 a skos:Concept;
+   skos:broader physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21;
+   skos:prefLabel "Lithium metal batteries"@en;
+   physh_rdf:prefLabel "Lithium metal batteries"@en .
 
 physh:8b79010b-e848-47f1-955a-8bbaa72c2de0 a skos:Concept;
    skos:broader physh:a38f8c2b-eff3-4e4d-8146-e17ef6bde9dd;
@@ -5852,6 +6015,11 @@ physh:8d2a7943-d0ae-4e32-ab4f-6d6388a5a779 a skos:Concept;
    skos:prefLabel "Quantum benchmarking"@en;
    physh_rdf:prefLabel "Quantum benchmarking"@en .
 
+physh:8d3325a6-e98e-4e69-a335-016380a3ccab a skos:Concept;
+   skos:broader physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f;
+   skos:prefLabel "Solid-state batteries"@en;
+   physh_rdf:prefLabel "Solid-state batteries"@en .
+
 physh:8d4cce2e-64a3-4401-8e0e-3195de19b1b1 a skos:Concept;
    skos:broader physh:16158b58-5493-4fb9-901c-54f841cc4524;
    skos:prefLabel "Surfactant monolayers"@en;
@@ -5936,11 +6104,22 @@ physh:8f4732c2-6f6d-46e8-80a5-bd70b68b858e a skos:Concept;
    skos:prefLabel "Silicene"@en;
    physh_rdf:prefLabel "Silicene"@en .
 
+physh:8f59f607-cd26-499f-b769-7e15cc7529c4 a skos:Concept;
+   skos:altLabel "Pseudocapacitors"@en;
+   skos:broader physh:c6751f54-a0e7-44a2-aad8-cc8e5a5df651;
+   skos:prefLabel "Electrochemical pseudocapacitors"@en;
+   physh_rdf:prefLabel "Electrochemical pseudocapacitors"@en .
+
 physh:8f673cae-6dc7-41ef-8344-e6da9556d0f7 a skos:Concept;
    skos:altLabel "HREM"@en;
    skos:broader physh:34773509-53cc-4885-a027-7bd3497f7157;
    skos:prefLabel "High-resolution electron microscopy"@en;
    physh_rdf:prefLabel "High-resolution electron microscopy"@en .
+
+physh:8f860fdb-9b91-4d64-889d-38c8b741a595 a skos:Concept;
+   skos:broader physh:3ec5c202-988d-4eb9-bd75-d51f77fbe15a;
+   skos:prefLabel "Biogas"@en;
+   physh_rdf:prefLabel "Biogas"@en .
 
 physh:8fb12d19-b24e-4e37-b3d2-63abf78d4b4f a skos:Concept;
    skos:broader physh:c4ed35b0-1090-409c-9667-85f9ac03e9c0;
@@ -6175,6 +6354,12 @@ physh:94c56f5f-9451-4c87-b737-e69975215ca3 a skos:Concept;
    skos:broader physh:7a86b9d8-3162-4279-9ca5-90ebad07be7c;
    skos:prefLabel "Stanene"@en;
    physh_rdf:prefLabel "Stanene"@en .
+
+physh:94cd76e0-c4c8-49a6-b47c-aa18c2f85d8e a skos:Concept;
+   skos:altLabel "Tidal power"@en;
+   skos:broader physh:4c12fcde-ed75-4e1c-bd19-253623703054;
+   skos:prefLabel "Tidal hydroelectricity"@en;
+   physh_rdf:prefLabel "Tidal hydroelectricity"@en .
 
 physh:9509a217-d06f-407a-82f2-410cbd47a9ca a skos:Concept;
    skos:broader physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb;
@@ -6707,6 +6892,11 @@ physh:a0dfe635-22c0-4f38-a45b-3907f7ad6eb0 a skos:Concept;
    skos:prefLabel "Mutation"@en;
    physh_rdf:prefLabel "Mutation"@en .
 
+physh:a0eb610d-e104-4cac-83f3-115124abc8f7 a skos:Concept;
+   skos:broader physh:258d6104-3e21-4b28-9599-fa4cb50c028a;
+   skos:prefLabel "Tandem photovoltaics"@en;
+   physh_rdf:prefLabel "Tandem photovoltaics"@en .
+
 physh:a11d0539-905e-4f28-94f9-e5f20816de30 a skos:Concept;
    skos:broader physh:b29359c1-cac2-4880-a9dc-f957b13a3e72;
    skos:prefLabel "Exhaustive network search"@en;
@@ -6835,6 +7025,11 @@ physh:a4bcbb70-2dce-4000-ad77-e396039ea028 a skos:Concept;
    skos:prefLabel "Exchange interaction"@en;
    physh_rdf:prefLabel "Exchange interaction"@en .
 
+physh:a4d8732e-5e4a-4246-924f-3db7507537aa a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:prefLabel "Photosynthesis"@en;
+   physh_rdf:prefLabel "Photosynthesis"@en .
+
 physh:a4da8014-2433-42a4-8994-60a4a1adfd37 a skos:Concept;
    skos:broader physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb;
    skos:prefLabel "Heatbath algorithm"@en;
@@ -6871,6 +7066,11 @@ physh:a58c1c6b-ef1e-4373-bd58-441cdd4a2c8b a skos:Concept;
    skos:broader physh:7e4e985f-d2fb-46cf-9183-c6e4b4c1c61b;
    skos:prefLabel "Free-electron lasers"@en;
    physh_rdf:prefLabel "Free-electron lasers"@en .
+
+physh:a59b2f4e-cfd9-4618-b65a-4ed6cc9072bd a skos:Concept;
+   skos:broader physh:f0761682-18fc-4076-9921-90eae238bc98;
+   skos:prefLabel "Chemical hydrogen storage"@en;
+   physh_rdf:prefLabel "Chemical hydrogen storage"@en .
 
 physh:a5d3874d-8288-4339-aac1-0fe6d5cf7aed a skos:Concept;
    skos:broader physh:a088bad1-4904-4f08-a625-a9840fdf32c7;
@@ -6941,6 +7141,12 @@ physh:a7525540-a622-46fa-afad-aa9569b2d757 a skos:Concept;
    skos:broader physh:22b17e02-28a0-4b88-ae3b-2520aa22cfb9;
    skos:prefLabel "Dilution refrigerator"@en;
    physh_rdf:prefLabel "Dilution refrigerator"@en .
+
+physh:a7ab8f74-905c-429f-884d-1f576b43f4fe a skos:Concept;
+   skos:altLabel "Li-ion batteries"@en;
+   skos:broader physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21;
+   skos:prefLabel "Lithium-ion batteries"@en;
+   physh_rdf:prefLabel "Lithium-ion batteries"@en .
 
 physh:a7c7c809-7b1b-489a-81ad-715a798e3882 a skos:Concept;
    skos:broader physh:243ebf5e-d251-49c3-b8b6-fc6a3d29442e;
@@ -7065,6 +7271,11 @@ physh:aa3bdd09-6576-4fe1-9664-44f151015951 a skos:Concept;
    skos:broader physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
    skos:prefLabel "Inorganic chemistry"@en;
    physh_rdf:prefLabel "Inorganic chemistry"@en .
+
+physh:aa41a029-6867-47db-a636-f4a8071d0423 a skos:Concept;
+   skos:broader physh:3ec5c202-988d-4eb9-bd75-d51f77fbe15a;
+   skos:prefLabel "Bioethanol"@en;
+   physh_rdf:prefLabel "Bioethanol"@en .
 
 physh:aa4842a6-9109-4517-b1c2-5bbc24e970fc a skos:Concept;
    skos:broader physh:2917e3bd-b25c-4e89-8796-5c7e77dfda5a;
@@ -7602,6 +7813,11 @@ physh:b780936a-06f1-4e85-872d-cbcfd412b035 a skos:Concept;
    skos:prefLabel "Organic superconductors"@en;
    physh_rdf:prefLabel "Organic superconductors"@en .
 
+physh:b7fb7beb-2d98-4254-887c-092165de0a77 a skos:Concept;
+   skos:broader physh:b580bc4d-63fc-4636-9ef6-76e79ea68085;
+   skos:prefLabel "Grid-integrated energy storage"@en;
+   physh_rdf:prefLabel "Grid-integrated energy storage"@en .
+
 physh:b80f25ca-a9c7-4544-9499-95f7a4418f4b a skos:Concept;
    skos:broader physh:d87d9c51-bdc2-43bb-99c3-6e5345a7f631;
    skos:prefLabel "Signaling networks"@en;
@@ -7621,6 +7837,11 @@ physh:b86ebcb8-9aed-4896-be7c-f17b8729bb06 a skos:Concept;
    skos:broader physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577;
    skos:prefLabel "Electron beams & optics"@en;
    physh_rdf:prefLabel "Electron beams & optics"@en .
+
+physh:b8cd55a2-21db-43b4-959b-fa4e6d1f4981 a skos:Concept;
+   skos:broader physh:b580bc4d-63fc-4636-9ef6-76e79ea68085;
+   skos:prefLabel "Grid modernization"@en;
+   physh_rdf:prefLabel "Grid modernization"@en .
 
 physh:b8f736e2-6707-4b3d-98aa-236ca0e716a0 a skos:Concept;
    skos:broader physh:0026b3bc-1a2f-45df-8025-1243dac91047;
@@ -7934,6 +8155,11 @@ physh:c2ebb1e2-8ef8-43dd-8711-b278b7b4ea86 a skos:Concept;
    skos:prefLabel "Liquid crystal phase transitions"@en;
    physh_rdf:prefLabel "Liquid crystal phase transitions"@en .
 
+physh:c2f66e60-e32e-48eb-b14c-a21ad53a7d95 a skos:Concept;
+   skos:broader physh:7f29b291-aab9-4d63-a15c-1b98193cc0ca;
+   skos:prefLabel "Flywheel energy storage"@en;
+   physh_rdf:prefLabel "Flywheel energy storage"@en .
+
 physh:c307ba1f-5316-4861-80ea-cf921f8a1327 a skos:Concept;
    skos:broader physh:b96ba7a9-cce1-470c-b80c-6dadb2c6b8e9;
    skos:prefLabel "Stochastic inference"@en;
@@ -8086,6 +8312,12 @@ physh:c6078832-7861-4f34-9058-a32f0f8abd77 a skos:Concept;
    skos:prefLabel "Anharmonic lattice dynamics"@en;
    physh_rdf:prefLabel "Anharmonic lattice dynamics"@en .
 
+physh:c63c569f-2139-458f-b7f5-2aaf22340fd6 a skos:Concept;
+   skos:altLabel "PEMFC"@en;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Proton-exchange membrane fuel cells"@en;
+   physh_rdf:prefLabel "Proton-exchange membrane fuel cells"@en .
+
 physh:c682c3d2-f4af-486d-986d-8dfc0fb784f9 a skos:Concept;
    skos:broader physh:bd252d88-a608-4897-9416-daf84dee7f6b;
    skos:prefLabel "Positronium"@en;
@@ -8096,6 +8328,11 @@ physh:c6891af3-c2d3-40b2-8c23-e72f946cdc95 a skos:Concept;
    skos:broader physh:229eca6d-30f1-4c05-9a78-c352de8326b1;
    skos:prefLabel "Gravimetric adsorption measurements"@en;
    physh_rdf:prefLabel "Gravimetric adsorption measurements"@en .
+
+physh:c68b92c7-8efb-4c8e-a4c6-cfd0240eae12 a skos:Concept;
+   skos:broader physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52;
+   skos:prefLabel "Solar thermal energy"@en;
+   physh_rdf:prefLabel "Solar thermal energy"@en .
 
 physh:c6dfa073-68e6-427b-ba42-694be065a0ef a skos:Concept;
    skos:broader physh:c4ed35b0-1090-409c-9667-85f9ac03e9c0;
@@ -8234,6 +8471,12 @@ physh:ca58f976-78ce-4279-b515-7e8118060c94 a skos:Concept;
    skos:broader physh:8156d7cb-6ab9-4097-be2b-4aa71aad93a3;
    skos:prefLabel "Surface differential reflectance spectroscopy"@en;
    physh_rdf:prefLabel "Surface differential reflectance spectroscopy"@en .
+
+physh:ca670454-d9fc-4383-a903-d40a6313bc02 a skos:Concept;
+   skos:altLabel "SOFC"@en;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Solid oxide fuel cells"@en;
+   physh_rdf:prefLabel "Solid oxide fuel cells"@en .
 
 physh:ca6ea60d-96c0-4784-83a0-1e17843f0edb a skos:Concept;
    skos:altLabel "Floquet theory"@en;
@@ -8488,6 +8731,12 @@ physh:d0a164f0-57c8-431f-8402-e699a8a7dd9b a skos:Concept;
    skos:prefLabel "Numerical relativity"@en;
    physh_rdf:prefLabel "Numerical relativity"@en .
 
+physh:d0ae988a-9713-477c-afbe-ba128fe87844 a skos:Concept;
+   skos:altLabel "Mineral CO2 storage"@en;
+   skos:broader physh:64470342-2836-4044-a632-693f38e12b9f;
+   skos:prefLabel "Mineralogical CO2 storage"@en;
+   physh_rdf:prefLabel "Mineralogical CO2 storage"@en .
+
 physh:d0b30d9d-44fd-4920-9123-7116745f5e43 a skos:Concept;
    skos:broader physh:cdaf7295-546e-4fba-85c5-9d6435b40253;
    skos:prefLabel "Extensions of fermion sector"@en;
@@ -8575,11 +8824,6 @@ physh:d289f2d6-db43-409b-b292-ca21c8739364 a skos:Concept;
    skos:prefLabel "Geomagnetism"@en;
    physh_rdf:prefLabel "Geomagnetism"@en .
 
-physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52 a skos:Concept;
-   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
-   skos:prefLabel "Solar energy"@en;
-   physh_rdf:prefLabel "Solar energy"@en .
-
 physh:d3063979-72db-440e-a0bc-b295a2d0e72e a skos:Concept;
    skos:broader physh:fe6212f5-2762-4253-9267-54b97b955a02;
    skos:prefLabel "Plating"@en;
@@ -8662,6 +8906,11 @@ physh:d596397a-e9a6-4916-8ae6-a98fef9e526f a skos:Concept;
    skos:prefLabel "Valleytronics"@en;
    physh_rdf:prefLabel "Valleytronics"@en .
 
+physh:d598f15a-ed6f-4072-b83d-0bf49ff1c638 a skos:Concept;
+   skos:broader physh:1a3b4d60-b5e0-4a92-9631-9c79d27566d1;
+   skos:prefLabel "Solar radiation management"@en;
+   physh_rdf:prefLabel "Solar radiation management"@en .
+
 physh:d5bb259a-1abc-4006-a4c2-ea922c6f46e6 a skos:Concept;
    skos:broader physh:466328b7-dffc-4b1c-ace1-668fe7f7dbb8;
    skos:prefLabel "Laser-induced demagnetization"@en;
@@ -8687,6 +8936,12 @@ physh:d6140738-325c-4c18-b909-7b6cab088086 a skos:Concept;
    skos:prefLabel "X-ray diffraction topography"@en;
    physh_rdf:prefLabel "X-ray diffraction topography"@en .
 
+physh:d61b787c-3f0e-4c2e-94b6-a3bb21fbf789 a skos:Concept;
+   skos:altLabel "EDLC"@en;
+   skos:broader physh:c6751f54-a0e7-44a2-aad8-cc8e5a5df651;
+   skos:prefLabel "Electrostatic double-layer capacitors"@en;
+   physh_rdf:prefLabel "Electrostatic double-layer capacitors"@en .
+
 physh:d6476a85-9182-4287-90e8-9f22b6ea045e a skos:Concept;
    skos:altLabel "STS"@en;
    skos:broader physh:a0889633-1e24-48ce-80d9-98b0139e10cb;
@@ -8697,6 +8952,12 @@ physh:d67c733a-2184-43d0-afd0-4eb8486f9a09 a skos:Concept;
    skos:broader physh:29903cc6-9078-49fa-8c8f-9416eb5644fb;
    skos:prefLabel "Explosive burning"@en;
    physh_rdf:prefLabel "Explosive burning"@en .
+
+physh:d68619b1-3023-4aee-88df-1dfc3f183f80 a skos:Concept;
+   skos:altLabel "PAFC"@en;
+   skos:broader physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Phosphoric acid fuel cells"@en;
+   physh_rdf:prefLabel "Phosphoric acid fuel cells"@en .
 
 physh:d69c3767-0e9e-4114-a2b9-a88624200cb1 a skos:Concept;
    skos:broader physh:dfadf91e-b07e-4081-9498-25b87e6d5eb9;
@@ -9046,6 +9307,11 @@ physh:de286550-5a0b-44c3-b275-9d22a1e2b7f1 a skos:Concept;
    skos:broader physh:36754399-ec2b-4962-bb07-ca12c79834e8;
    skos:prefLabel "Carrier dynamics"@en;
    physh_rdf:prefLabel "Carrier dynamics"@en .
+
+physh:de2cebe6-26f9-4f51-b41c-03ca1b56d419 a skos:Concept;
+   skos:broader physh:f0761682-18fc-4076-9921-90eae238bc98;
+   skos:prefLabel "Liquified hydrogen"@en;
+   physh_rdf:prefLabel "Liquified hydrogen"@en .
 
 physh:de53d02f-91de-4093-9d5d-abe30bc2d58a a skos:Concept;
    skos:broader physh:a1f541a0-a451-4514-a805-93e2bebb2a14;
@@ -9507,6 +9773,11 @@ physh:e83448a2-8715-4268-93b1-1712750e5a5c a skos:Concept;
    skos:prefLabel "Meson & hyperon induced nuclear reactions"@en;
    physh_rdf:prefLabel "Meson & hyperon induced nuclear reactions"@en .
 
+physh:e8409747-7d73-4b19-afc3-5178af8a1b7f a skos:Concept;
+   skos:broader physh:3ec5c202-988d-4eb9-bd75-d51f77fbe15a;
+   skos:prefLabel "Algal fuel"@en;
+   physh_rdf:prefLabel "Algal fuel"@en .
+
 physh:e84e0eff-599e-46e3-856a-af07fafb61bb a skos:Concept;
    skos:altLabel "OLED"@en;
    skos:broader physh:926cb610-c40b-4bd4-b069-14722b7251c7;
@@ -9747,6 +10018,11 @@ physh:ee1b4cc2-bdd7-414f-a29d-c125938e7e9a a skos:Concept;
    skos:prefLabel "Color blindness"@en;
    physh_rdf:prefLabel "Color blindness"@en .
 
+physh:ee35c003-4a4c-444d-9d68-8da5cb77dec8 a skos:Concept;
+   skos:broader physh:f0761682-18fc-4076-9921-90eae238bc98;
+   skos:prefLabel "Physical hydrogen storage"@en;
+   physh_rdf:prefLabel "Physical hydrogen storage"@en .
+
 physh:ee3e7596-d302-4ea8-8907-e66ce139b203 a skos:Concept;
    skos:broader physh:9ccf11df-5b72-4ce0-92e6-e48f8dda172b;
    skos:prefLabel "Cilia"@en;
@@ -9839,6 +10115,11 @@ physh:f075546e-d81b-4169-8ea5-3fca491e04bb a skos:Concept;
    skos:broader physh:a38dc017-3236-4084-afc5-eb59c5de51e0;
    skos:prefLabel "Optical desorption spectroscopy"@en;
    physh_rdf:prefLabel "Optical desorption spectroscopy"@en .
+
+physh:f09bdce4-b46b-4b5e-81ed-043890b8f30e a skos:Concept;
+   skos:broader physh:02eb6e91-8409-4ef3-ad57-d76b9c554e4e;
+   skos:prefLabel "Energy-efficient industry"@en;
+   physh_rdf:prefLabel "Energy-efficient industry"@en .
 
 physh:f0e2a1b3-ef9a-491f-b610-4506f0cc4020 a skos:Concept;
    skos:broader physh:52c158bb-fb1e-4d1b-a117-b6b279c3bc67;
@@ -10202,11 +10483,6 @@ physh:fb1f0128-d241-44b8-9846-49b3a370e1cc a skos:Concept;
    skos:prefLabel "Force sensing"@en;
    physh_rdf:prefLabel "Force sensing"@en .
 
-physh:fb4cfd7b-691e-43d7-b2c9-dd7560244f4b a skos:Concept;
-   skos:broader physh:3040d6ba-d81f-4844-a016-342311b150ce;
-   skos:prefLabel "Hydrogen storage materials"@en;
-   physh_rdf:prefLabel "Hydrogen storage materials"@en .
-
 physh:fb5cc8ef-a0ce-410f-9e08-108c11fe2341 a skos:Concept;
    skos:broader physh:41dd58dd-d35c-46e8-9594-d7e05b458da6;
    skos:prefLabel "Electronic phase separation"@en;
@@ -10265,6 +10541,11 @@ physh:fc8aa7de-ba57-4179-8c97-aed96475e82b a skos:Concept;
    skos:broader physh:92927025-018a-4b9f-b617-c4a768530654;
    skos:prefLabel "Spin state transition"@en;
    physh_rdf:prefLabel "Spin state transition"@en .
+
+physh:fc959fe9-5962-49a0-bb17-cf856ea49724 a skos:Concept;
+   skos:broader physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a;
+   skos:prefLabel "Energy transport"@en;
+   physh_rdf:prefLabel "Energy transport"@en .
 
 physh:fc9aab40-7bcd-49b8-a415-8903c07897f0 a skos:Concept;
    skos:broader physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5;
@@ -10413,13 +10694,6 @@ physh:03ea23c0-a2b0-4198-9a17-980c1f9d91de a skos:Concept;
    skos:related physh:9e001bda-d32b-4a59-a216-bfd4c1af8c25;
    physh_rdf:prefLabel "Mechanical properties of membranes"@en .
 
-physh:047c9d16-460f-4d03-b991-42f412b9c272 a skos:Concept;
-   skos:altLabel "Fusion"@en;
-   skos:broader physh:bbb0ce0d-36da-4da5-a443-df064f36aa17;
-   skos:prefLabel "Nuclear fusion"@en;
-   skos:related physh:888306e1-6391-43a8-a318-3434270aafd5;
-   physh_rdf:prefLabel "Nuclear fusion"@en .
-
 physh:06464e43-8795-4386-9402-829686fdd555 a skos:Concept;
    skos:broader physh:19f26688-0955-4fd9-85d8-aaf71c4a581f;
    skos:prefLabel "Metal-insulator transition"@en;
@@ -10489,11 +10763,11 @@ physh:0a3aa840-b81e-4a59-a119-b91cb6514b6d a skos:Concept;
    skos:prefLabel "Ultrasonography"@en;
    physh_rdf:prefLabel "Ultrasonography"@en .
 
-physh:0a4e4f65-eef5-4f6d-bc2f-1c25a3173c67 a skos:Concept;
-   skos:broader physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6;
-   skos:prefLabel "Climate research"@en;
-   skos:related physh:5cf71b89-0934-4afb-9918-dfa39120db64;
-   physh_rdf:prefLabel "Climate research"@en .
+physh:0a5e3a73-ce1c-4388-a12d-9dd67740f019 a skos:Concept;
+   skos:broader physh:03d36887-85f0-4045-a51f-93c21e08df23,
+     physh:4aabe9ae-12ad-4c2e-a578-fb7239d3b285;
+   skos:prefLabel "Photocatalysis"@en;
+   physh_rdf:prefLabel "Photocatalysis"@en .
 
 physh:0a93dde2-1bbf-44d2-8a5d-983a23d52489 a skos:Concept;
    skos:broader physh:6c0e8bb5-a5a0-4f28-8d4a-4e7ace85a023,
@@ -10659,6 +10933,13 @@ physh:1a3823f6-9b7e-409c-acc8-e7a321e0a1b7 a skos:Concept;
    skos:prefLabel "X-ray photoelectron diffraction"@en;
    skos:related physh:af632568-a953-4829-ac7f-5e3f3dad68ba;
    physh_rdf:prefLabel "X-ray photoelectron diffraction"@en .
+
+physh:1a3b4d60-b5e0-4a92-9631-9c79d27566d1 a skos:Concept;
+   skos:altLabel "Climate engineering"@en;
+   skos:broader physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
+   skos:narrower physh:d598f15a-ed6f-4072-b83d-0bf49ff1c638;
+   skos:prefLabel "Geoengineering"@en;
+   physh_rdf:prefLabel "Geoengineering"@en .
 
 physh:1ac35d4c-ffe7-4297-b8a8-69e72faecbf6 a skos:Concept;
    skos:broader physh:492228d3-c5ce-4eac-922a-b8158c777c9b;
@@ -11280,12 +11561,6 @@ physh:59043017-efdd-4608-9c12-dbccbcc0719a a skos:Concept;
    skos:related physh:a24536c5-e01e-429d-a29a-f43fa8bbf23f;
    physh_rdf:prefLabel "Quantum information with trapped ions"@en .
 
-physh:5917e11b-ac3c-49f2-8cec-20ef36800b02 a skos:Concept;
-   skos:broader physh:74721827-c4e3-4da0-90ca-dba52158fc6b;
-   skos:prefLabel "Piezoelectrics"@en;
-   skos:related physh:5677f3e5-3422-45c5-b460-00fc041663ee;
-   physh_rdf:prefLabel "Piezoelectrics"@en .
-
 physh:5a5b8a33-d049-4c6b-8b22-b5eb243c3fa4 a skos:Concept;
    skos:broader physh:74721827-c4e3-4da0-90ca-dba52158fc6b;
    skos:prefLabel "Flexoelectrics"@en;
@@ -11323,6 +11598,12 @@ physh:5cf71b89-0934-4afb-9918-dfa39120db64 a skos:Concept;
    skos:related physh:0a4e4f65-eef5-4f6d-bc2f-1c25a3173c67;
    physh_rdf:prefLabel "Global warming"@en .
 
+physh:5ddb2c82-443e-4a9d-b7d2-9c3a4c5a35ac a skos:Concept;
+   skos:broader physh:4c12fcde-ed75-4e1c-bd19-253623703054,
+     physh:7f29b291-aab9-4d63-a15c-1b98193cc0ca;
+   skos:prefLabel "Pumped-storage hydroelectricity"@en;
+   physh_rdf:prefLabel "Pumped-storage hydroelectricity"@en .
+
 physh:5e4d1def-a8c7-4d47-b944-dbcf8659e6dc a skos:Concept;
    skos:broader physh:ab2c3182-dcb7-4cdd-a237-d806fda33f30;
    skos:prefLabel "Aharonov-Bohm effect"@en;
@@ -11334,6 +11615,13 @@ physh:5f27d035-18db-49d6-8e93-4286e478f7ba a skos:Concept;
      physh:36754399-ec2b-4962-bb07-ca12c79834e8;
    skos:prefLabel "Electrophoresis"@en;
    physh_rdf:prefLabel "Electrophoresis"@en .
+
+physh:6080ec71-e7c6-45fd-9184-60285aafae40 a skos:Concept;
+   skos:altLabel "Nuclear fission"@en;
+   skos:broader physh:bbb0ce0d-36da-4da5-a443-df064f36aa17,
+     physh:8c48a332-f38c-4fde-affa-82f036e2aa25;
+   skos:prefLabel "Fission"@en;
+   physh_rdf:prefLabel "Fission"@en .
 
 physh:60c386aa-2681-4c99-be18-e4412729d107 a skos:Concept;
    skos:broader physh:a38f8c2b-eff3-4e4d-8146-e17ef6bde9dd;
@@ -11435,6 +11723,12 @@ physh:6a7a2e30-ea84-4c4d-8546-31bc89091c80 a skos:Concept;
      physh:c485f44d-2cc4-4e6d-a20b-0899fb9e53a1;
    skos:prefLabel "Floquet systems"@en;
    physh_rdf:prefLabel "Floquet systems"@en .
+
+physh:6a87a113-159a-46b4-8ebb-ebc179f00384 a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:59e4f802-0901-44d3-a830-6fff59de997c;
+   skos:prefLabel "Ocean energy"@en;
+   physh_rdf:prefLabel "Ocean energy"@en .
 
 physh:6baffbd1-395d-4194-9fe9-8212a409b5a7 a skos:Concept;
    skos:broader physh:41033e78-6742-4486-9c09-f1efa60f9d9d;
@@ -11563,6 +11857,12 @@ physh:7659a6d1-bbc1-470d-8a13-945894b75652 a skos:Concept;
    skos:prefLabel "Muon spin relaxation & rotation"@en;
    skos:related physh:5789de09-ecb7-4356-9989-f25314dbbdf1;
    physh_rdf:prefLabel "Muon spin relaxation & rotation"@en .
+
+physh:766e5998-b1ad-4a2d-8def-fe5c8565eb98 a skos:Concept;
+   skos:broader physh:3bab53f4-af17-4278-95a1-fa1b42b9231c;
+   skos:prefLabel "Thermal energy harvesting devices"@en;
+   skos:related physh:e4e5953c-3b25-4901-bb5a-a703af4c47e3;
+   physh_rdf:prefLabel "Thermal energy harvesting devices"@en .
 
 physh:78017460-1d24-4041-bc27-e547620d05b7 a skos:Concept;
    skos:broader physh:ca8ddaad-441c-481c-93b3-65f46125fb93;
@@ -11812,6 +12112,12 @@ physh:930ae4ca-6b04-4a30-95a5-22bd20f5c06c a skos:Concept;
    skos:related physh:4184e251-4eb4-4a26-b037-3b7e99862f1c;
    physh_rdf:prefLabel "Stellar wind"@en .
 
+physh:9320b25b-5182-484c-866d-c379c6650fb1 a skos:Concept;
+   skos:broader physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a;
+   skos:narrower physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Energy conversion technologies"@en;
+   physh_rdf:prefLabel "Energy conversion technologies"@en .
+
 physh:935c0a7f-c1a4-4b15-8fb8-0ff6481e1935 a skos:Concept;
    skos:broader physh:c4ed35b0-1090-409c-9667-85f9ac03e9c0;
    skos:narrower physh:68897869-397d-4ae5-8b23-e134879724a4;
@@ -11866,14 +12172,6 @@ physh:97bfddcd-43e2-47b5-9b1e-bfc0318f69a8 a skos:Concept;
    skos:prefLabel "Seismology"@en;
    physh_rdf:prefLabel "Seismology"@en .
 
-physh:98437b05-f0c0-47aa-aba8-d73081519e1b a skos:Concept;
-   skos:altLabel "Thermoelectric devices"@en,
-     "Thermoelectrics"@en;
-   skos:broader physh:2360e96e-a12b-4d21-9b65-36ed1177c0e6,
-     physh:e6586efa-1454-4ae2-9407-f4ca0d9322da;
-   skos:prefLabel "Thermoelectric systems"@en;
-   physh_rdf:prefLabel "Thermoelectric systems"@en .
-
 physh:9867cb7d-b9ef-478b-85be-76fa029f4e65 a skos:Concept;
    skos:broader physh:d32ebb8f-d6ea-4fbe-8115-d00b2924ef90,
      physh:eef7c13b-c67f-4d33-be97-76cee58e700a;
@@ -11906,12 +12204,24 @@ physh:9bf053fc-c2f1-45a4-9549-981c8ac75739 a skos:Concept;
    skos:prefLabel "Fluctuation mediated interactions"@en;
    physh_rdf:prefLabel "Fluctuation mediated interactions"@en .
 
+physh:9ca80152-a892-40a5-a67d-9c6375dc0dee a skos:Concept;
+   skos:broader physh:9ec242dd-6551-414b-b098-686bd2fdf979,
+     physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185;
+   skos:prefLabel "Hydrogen fuel cells"@en;
+   physh_rdf:prefLabel "Hydrogen fuel cells"@en .
+
 physh:9dfe8ff5-a8ed-484c-a604-50ec54209dd1 a skos:Concept;
    skos:altLabel "ESR"@en;
    skos:broader physh:62b17a2f-3001-4254-982f-0f01726f510b,
      physh:6fab7f86-2de1-4f52-9425-ed4f9aec008b;
    skos:prefLabel "Electron spin resonance"@en;
    physh_rdf:prefLabel "Electron spin resonance"@en .
+
+physh:9ec242dd-6551-414b-b098-686bd2fdf979 a skos:Concept;
+   skos:broader physh:7d448998-51f2-4304-867e-db5833197487;
+   skos:narrower physh:9ca80152-a892-40a5-a67d-9c6375dc0dee;
+   skos:prefLabel "Hydrogen utilization"@en;
+   physh_rdf:prefLabel "Hydrogen utilization"@en .
 
 physh:9f3853c9-0774-4176-941e-a7a9c9b1c9a3 a skos:Concept;
    skos:broader physh:1932821b-d848-4b37-8209-74c6a9556c07;
@@ -11948,6 +12258,12 @@ physh:a246d7fc-29fc-400a-adad-45f2a4738994 a skos:Concept;
      physh:eef7c13b-c67f-4d33-be97-76cee58e700a;
    skos:prefLabel "Fracture"@en;
    physh_rdf:prefLabel "Fracture"@en .
+
+physh:a28df2a4-cd81-4c29-864d-227baab328e4 a skos:Concept;
+   skos:broader physh:3bab53f4-af17-4278-95a1-fa1b42b9231c;
+   skos:prefLabel "Solar energy harvesting devices"@en;
+   skos:related physh:258d6104-3e21-4b28-9599-fa4cb50c028a;
+   physh_rdf:prefLabel "Solar energy harvesting devices"@en .
 
 physh:a3b7b852-2443-4d36-b8d8-4011d5130b7a a skos:Concept;
    skos:altLabel "UPS"@en;
@@ -12245,6 +12561,12 @@ physh:c19bdc1b-a173-4731-97b6-7ed4e548fba1 a skos:Concept;
    skos:prefLabel "Electrical properties of membranes"@en;
    skos:related physh:41dd58dd-d35c-46e8-9594-d7e05b458da6;
    physh_rdf:prefLabel "Electrical properties of membranes"@en .
+
+physh:c243097d-7c1b-4cfd-8146-85a713d9d31a a skos:Concept;
+   skos:broader physh:02eb6e91-8409-4ef3-ad57-d76b9c554e4e;
+   skos:prefLabel "Energy-efficient transportation"@en;
+   skos:related physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5;
+   physh_rdf:prefLabel "Energy-efficient transportation"@en .
 
 physh:c33b545a-458f-4340-98af-08d61af6681e a skos:Concept;
    skos:broader physh:a088bad1-4904-4f08-a625-a9840fdf32c7;
@@ -12559,6 +12881,12 @@ physh:e386920e-6778-4cda-849e-e1a1160090c7 a skos:Concept;
    skos:related physh:1ac35d4c-ffe7-4297-b8a8-69e72faecbf6;
    physh_rdf:prefLabel "Magnetostriction"@en .
 
+physh:e4e5953c-3b25-4901-bb5a-a703af4c47e3 a skos:Concept;
+   skos:broader physh:98437b05-f0c0-47aa-aba8-d73081519e1b;
+   skos:prefLabel "Thermoelectric generators"@en;
+   skos:related physh:766e5998-b1ad-4a2d-8def-fe5c8565eb98;
+   physh_rdf:prefLabel "Thermoelectric generators"@en .
+
 physh:e558a15a-1b9e-4f48-ae30-625c83ce421f a skos:Concept;
    skos:broader physh:888306e1-6391-43a8-a318-3434270aafd5;
    skos:prefLabel "Inertial confinement fusion"@en;
@@ -12570,6 +12898,12 @@ physh:e56ddca7-4557-4d64-a77d-286fffb72afc a skos:Concept;
      physh:cf6fcf92-5d05-4722-a1b3-c076e8b22b9e;
    skos:prefLabel "Skyrmions"@en;
    physh_rdf:prefLabel "Skyrmions"@en .
+
+physh:e57ab27c-9c45-4697-92b7-680cee4591df a skos:Concept;
+   skos:broader physh:8c48a332-f38c-4fde-affa-82f036e2aa25;
+   skos:prefLabel "Nuclear decay"@en;
+   skos:related physh:1cf75de2-e14b-41cd-b733-8f704652db33;
+   physh_rdf:prefLabel "Nuclear decay"@en .
 
 physh:e9bf3b02-5f76-41ca-b772-3ac5ef388ab6 a skos:Concept;
    skos:broader physh:5cbf417b-4973-4970-94eb-b0f2f418dc74,
@@ -12704,6 +13038,18 @@ physh:fb2f621b-f402-4184-b6d5-a2db367ee6ea a skos:Concept;
    skos:prefLabel "Quantum walks"@en;
    physh_rdf:prefLabel "Quantum walks"@en .
 
+physh:fb4cfd7b-691e-43d7-b2c9-dd7560244f4b a skos:Concept;
+   skos:broader physh:3040d6ba-d81f-4844-a016-342311b150ce;
+   skos:prefLabel "Hydrogen storage materials"@en;
+   skos:related physh:f0761682-18fc-4076-9921-90eae238bc98;
+   physh_rdf:prefLabel "Hydrogen storage materials"@en .
+
+physh:fc4acbc9-f553-4042-b796-c105467649e1 a skos:Concept;
+   skos:broader physh:3bab53f4-af17-4278-95a1-fa1b42b9231c;
+   skos:prefLabel "Piezoelectric devices"@en;
+   skos:related physh:5917e11b-ac3c-49f2-8cec-20ef36800b02;
+   physh_rdf:prefLabel "Piezoelectric devices"@en .
+
 physh:fd0f44b5-9098-4988-932d-dae0d0256746 a skos:Concept;
    skos:broader physh:bd03ea46-2406-4a24-8307-05b2b498fb4e,
      physh:d858d084-693b-468e-b437-3df9c9c7a560;
@@ -12774,6 +13120,14 @@ physh:03235f9c-9981-4bb3-adf5-6852e9646614 a skos:Concept,
    physh_rdf:inFacet physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84;
    physh_rdf:prefLabel "Additive manufacturing"@en .
 
+physh:047c9d16-460f-4d03-b991-42f412b9c272 a skos:Concept;
+   skos:altLabel "Fusion"@en;
+   skos:broader physh:bbb0ce0d-36da-4da5-a443-df064f36aa17,
+     physh:8c48a332-f38c-4fde-affa-82f036e2aa25;
+   skos:prefLabel "Nuclear fusion"@en;
+   skos:related physh:888306e1-6391-43a8-a318-3434270aafd5;
+   physh_rdf:prefLabel "Nuclear fusion"@en .
+
 physh:050430d9-e7b1-4e3f-bbb3-975081181c3c a skos:Concept;
    skos:altLabel "VBS"@en,
      "Valence bond solid"@en;
@@ -12827,6 +13181,13 @@ physh:0a37f3c2-43fd-48fa-a630-85e5b860cda5 a skos:Concept;
      physh:e4236efc-fc7b-4d50-bc84-76ddf5e65856;
    skos:prefLabel "Lifetimes & widths"@en;
    physh_rdf:prefLabel "Lifetimes & widths"@en .
+
+physh:0a4e4f65-eef5-4f6d-bc2f-1c25a3173c67 a skos:Concept;
+   skos:broader physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
+     physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
+   skos:prefLabel "Climate research"@en;
+   skos:related physh:5cf71b89-0934-4afb-9918-dfa39120db64;
+   physh_rdf:prefLabel "Climate research"@en .
 
 physh:0a7309c9-e0e7-473b-ad96-b83da6960810 a skos:Concept,
      physh_rdf:Concept;
@@ -13036,13 +13397,6 @@ physh:2f62a37c-e96c-420d-87c7-afa0af4b24a2 a skos:Concept,
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Quantum engineering"@en .
 
-physh:3040d6ba-d81f-4844-a016-342311b150ce a skos:Concept;
-   skos:broader physh:da2cf824-a50d-4c47-a974-efa09b98c860;
-   skos:narrower physh:258d6104-3e21-4b28-9599-fa4cb50c028a,
-     physh:fb4cfd7b-691e-43d7-b2c9-dd7560244f4b;
-   skos:prefLabel "Energy materials"@en;
-   physh_rdf:prefLabel "Energy materials"@en .
-
 physh:31c5a865-17fb-43e5-9323-da27fcd5f1dd a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/5375b253-b0a1-4ece-bb50-4c34ea7218bd_233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79>;
@@ -13095,13 +13449,6 @@ physh:356a5e27-1e83-46fb-a678-b35d8f244f2e a skos:Concept;
    skos:related physh:014da66e-408d-481d-98a5-1d3fac1c2a07,
      physh:29a5aa4f-d2c0-43ce-98a8-21cbbf2ae916;
    physh_rdf:prefLabel "Magnetic tunnel junctions"@en .
-
-physh:358b7565-3e15-46e9-859e-1254bd4a9e7f a skos:Concept;
-   skos:broader physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062;
-   skos:narrower physh:5cf71b89-0934-4afb-9918-dfa39120db64,
-     physh:ad1edc29-450c-4872-86ea-0034e0815b2e;
-   skos:prefLabel "Atmospheric science"@en;
-   physh_rdf:prefLabel "Atmospheric science"@en .
 
 physh:361b9d63-ce04-46c1-ba5f-95150567e983 a skos:Concept;
    skos:broader physh:15cb359f-2dba-4eaa-baa0-8b8f6b92f559;
@@ -13185,6 +13532,13 @@ physh:3d61a6b2-fc2b-4fdf-b339-3215750643cd a skos:Concept;
    skos:related physh:7321e0f7-3b12-45a2-aa4a-28c2a7e03149,
      physh:81b06dce-2254-4dd1-99ad-cf1e3db77cdf;
    physh_rdf:prefLabel "Lattice QCD"@en .
+
+physh:3e08aa2f-f8bd-4a09-ae45-3dddb833f61f a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:42d18014-e527-4082-971a-6ccde17ec358,
+     physh:8b139335-9e63-43fc-a051-03fcbb177a22;
+   skos:prefLabel "Geothermal energy"@en;
+   physh_rdf:prefLabel "Geothermal energy"@en .
 
 physh:3e39ec26-cbf5-485f-8dea-b59222446277 a skos:Concept;
    skos:broader physh:b0ebe8a2-ed86-4c14-bfdd-5860e15b18bc;
@@ -13278,6 +13632,13 @@ physh:4a8be40b-d6a1-4a8c-8fbe-d74eebf86a21 a skos:Concept,
    physh_rdf:inDiscipline physh:c9174048-b368-4b5b-b065-20094708fa4d;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Multilayer & multiplex networks"@en .
+
+physh:4aabe9ae-12ad-4c2e-a578-fb7239d3b285 a skos:Concept;
+   skos:broader physh:2e9e0c49-ce2d-4029-a89d-c5d0535574a2;
+   skos:narrower physh:5d1749fd-5090-4e69-8da9-d571fbb361ff,
+     physh:0a5e3a73-ce1c-4388-a12d-9dd67740f019;
+   skos:prefLabel "Alternative feedstock chemicals"@en;
+   physh_rdf:prefLabel "Alternative feedstock chemicals"@en .
 
 physh:4c9828a9-11a8-4826-9d87-a34a3280b7f4 a skos:Concept,
      physh_rdf:Concept;
@@ -13382,6 +13743,13 @@ physh:57934ca6-f76c-4b88-9513-12b414e4e105 a skos:Concept;
    skos:prefLabel "Photoconductivity"@en;
    physh_rdf:prefLabel "Photoconductivity"@en .
 
+physh:5917e11b-ac3c-49f2-8cec-20ef36800b02 a skos:Concept;
+   skos:broader physh:74721827-c4e3-4da0-90ca-dba52158fc6b;
+   skos:prefLabel "Piezoelectrics"@en;
+   skos:related physh:5677f3e5-3422-45c5-b460-00fc041663ee,
+     physh:fc4acbc9-f553-4042-b796-c105467649e1;
+   physh_rdf:prefLabel "Piezoelectrics"@en .
+
 physh:5b214695-f1bb-4a5b-a178-f1c242e9546e a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/c9174048-b368-4b5b-b065-20094708fa4d_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
@@ -13443,6 +13811,13 @@ physh:63764576-5e03-40cf-9680-5796e144da49 a skos:Concept,
    physh_rdf:inDiscipline physh:512fd433-7b6d-4535-bb60-78f3bf431bc3;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Microfluidic devices"@en .
+
+physh:64470342-2836-4044-a632-693f38e12b9f a skos:Concept;
+   skos:broader physh:2e9e0c49-ce2d-4029-a89d-c5d0535574a2;
+   skos:narrower physh:1135dc6a-829e-4d64-9884-892265275337,
+     physh:d0ae988a-9713-477c-afbe-ba128fe87844;
+   skos:prefLabel "Carbon sequestration"@en;
+   physh_rdf:prefLabel "Carbon sequestration"@en .
 
 physh:661293d0-1ffe-42d0-87fa-4c769446ecf8 a skos:Concept,
      physh_rdf:Concept;
@@ -14559,8 +14934,8 @@ physh:e4ee958b-eaac-46c0-8788-7d521b0f9dbd a skos:Concept,
 physh:e5391c73-aefe-44c4-a5f5-b5cbbaf856d0 a skos:Concept;
    skos:altLabel "IPES"@en;
    skos:broader physh:40082853-5a77-4bce-bb7b-a6b598d04d93;
-   skos:narrower physh:3d20e485-92f3-41f6-822e-1267ffa2cf54,
-     physh:075be4f4-ce0e-4e38-bf72-d9e4648724bb;
+   skos:narrower physh:075be4f4-ce0e-4e38-bf72-d9e4648724bb,
+     physh:3d20e485-92f3-41f6-822e-1267ffa2cf54;
    skos:prefLabel "Inverse photoemission spectroscopy"@en;
    physh_rdf:prefLabel "Inverse photoemission spectroscopy"@en .
 
@@ -14582,8 +14957,8 @@ physh:e5c8fc20-498a-4484-8dc7-1dc6d0bbc0ae a skos:Concept,
 
 physh:e5cd96a4-a0d5-4b3a-a477-8ed31cf31830 a skos:Concept;
    skos:broader physh:4c4f4d87-e837-4d65-970d-f5323698a5f1;
-   skos:narrower physh:1c6daf36-c0ff-464f-963b-ac9673015bfc,
-     physh:b3adf52f-f690-48ba-8ffb-0c75d611a6ec;
+   skos:narrower physh:b3adf52f-f690-48ba-8ffb-0c75d611a6ec,
+     physh:1c6daf36-c0ff-464f-963b-ac9673015bfc;
    skos:prefLabel "Magneto-optics"@en;
    physh_rdf:prefLabel "Magneto-optics"@en .
 
@@ -14816,6 +15191,14 @@ physh:01e53456-ac5a-47f0-b6f8-8cd9e395c737 a skos:Concept,
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Supercritical fluids"@en .
 
+physh:02eb6e91-8409-4ef3-ad57-d76b9c554e4e a skos:Concept;
+   skos:broader physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
+   skos:narrower physh:7a3d4591-98e9-44a0-9d6f-b9e0d14419e0,
+     physh:f09bdce4-b46b-4b5e-81ed-043890b8f30e,
+     physh:c243097d-7c1b-4cfd-8146-85a713d9d31a;
+   skos:prefLabel "Energy-efficient infrastructure"@en;
+   physh_rdf:prefLabel "Energy-efficient infrastructure"@en .
+
 physh:0421be99-33ef-411a-8c39-9cdbc7bb8f4a a skos:Concept;
    skos:altLabel "2DEG"@en;
    skos:broader physh:8fc60c42-47b7-46f9-85a7-8c09b9e3cdbd;
@@ -14965,16 +15348,6 @@ physh:257ff504-8723-46c7-aea0-ec7d55a0dc6f a skos:Concept;
    skos:prefLabel "Spin generation"@en;
    physh_rdf:prefLabel "Spin generation"@en .
 
-physh:258d6104-3e21-4b28-9599-fa4cb50c028a a skos:Concept;
-   skos:altLabel "Photovoltaic cells"@en,
-     "Photovoltaic system"@en;
-   skos:broader physh:3040d6ba-d81f-4844-a016-342311b150ce,
-     physh:c215fb56-b919-42c5-9267-13846d715223;
-   skos:narrower physh:7160ac44-83c4-41fe-971a-e26136a19047;
-   skos:prefLabel "Photovoltaic absorbers"@en;
-   skos:related physh:c88f2853-42f8-42dd-ad4e-a83fcb2eab3a;
-   physh_rdf:prefLabel "Photovoltaic absorbers"@en .
-
 physh:29903cc6-9078-49fa-8c8f-9416eb5644fb a skos:Concept;
    skos:broader physh:38c3eaa1-e9a7-4590-9a93-cbdfd9fe162f,
      physh:b64db5c0-c54c-4fe6-a142-d089ceb55b3f;
@@ -15006,6 +15379,14 @@ physh:2fd5a7a1-32f9-4efa-b4d9-368e9619d7ed a skos:Concept;
      physh:1a335bc8-c10f-41f1-9ddf-b49dcf89bc26,
      physh:4f05e51d-a3d3-4c89-bbeb-bbfa122e6791;
    physh_rdf:prefLabel "Ultrafast phenomena"@en .
+
+physh:3040d6ba-d81f-4844-a016-342311b150ce a skos:Concept;
+   skos:broader physh:da2cf824-a50d-4c47-a974-efa09b98c860,
+     physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea;
+   skos:narrower physh:258d6104-3e21-4b28-9599-fa4cb50c028a,
+     physh:fb4cfd7b-691e-43d7-b2c9-dd7560244f4b;
+   skos:prefLabel "Energy materials"@en;
+   physh_rdf:prefLabel "Energy materials"@en .
 
 physh:31408bf9-9618-464c-ae16-cedacfc7a9eb a skos:Concept,
      physh_rdf:Concept;
@@ -15040,6 +15421,14 @@ physh:3502cc4a-fa49-4558-90ea-e743a42e00b3 a skos:Concept;
      physh:b4a12fc5-f18b-4192-94e3-657cb1098bd1;
    skos:prefLabel "Ordered compounds"@en;
    physh_rdf:prefLabel "Ordered compounds"@en .
+
+physh:358b7565-3e15-46e9-859e-1254bd4a9e7f a skos:Concept;
+   skos:broader physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
+     physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
+   skos:narrower physh:5cf71b89-0934-4afb-9918-dfa39120db64,
+     physh:ad1edc29-450c-4872-86ea-0034e0815b2e;
+   skos:prefLabel "Atmospheric science"@en;
+   physh_rdf:prefLabel "Atmospheric science"@en .
 
 physh:3653e21c-f645-47b3-a786-58c924fda3d8 a skos:Concept,
      physh_rdf:Concept;
@@ -15423,6 +15812,14 @@ physh:7c56deec-3d56-4312-ad9b-e175e5daf3a5 a skos:Concept,
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Potts model"@en .
 
+physh:7d448998-51f2-4304-867e-db5833197487 a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:81236d07-2535-466b-93f2-e4d502bf5935,
+     physh:f0761682-18fc-4076-9921-90eae238bc98,
+     physh:9ec242dd-6551-414b-b098-686bd2fdf979;
+   skos:prefLabel "Hydrogen energy"@en;
+   physh_rdf:prefLabel "Hydrogen energy"@en .
+
 physh:7dd874c0-5ab0-4de4-9919-10775f22748a a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
@@ -15474,6 +15871,14 @@ physh:8bc71f5b-3de8-4994-8de2-1a300cec36b6 a skos:Concept;
      physh:3922ad9d-d6c8-41f8-8142-a0d7d7b1e317;
    skos:prefLabel "Lattice types"@en;
    physh_rdf:prefLabel "Lattice types"@en .
+
+physh:8c48a332-f38c-4fde-affa-82f036e2aa25 a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:047c9d16-460f-4d03-b991-42f412b9c272,
+     physh:6080ec71-e7c6-45fd-9184-60285aafae40,
+     physh:e57ab27c-9c45-4697-92b7-680cee4591df;
+   skos:prefLabel "Nuclear power"@en;
+   physh_rdf:prefLabel "Nuclear power"@en .
 
 physh:8eec6905-8553-46b9-881f-5ba007405a6c a skos:Concept;
    skos:broader physh:54b389aa-8ccf-49ee-a54e-478ccc2616eb;
@@ -15643,6 +16048,14 @@ physh:b52b4f11-cad6-4cea-997f-36a603349fea a skos:Concept;
    skos:related physh:ac816133-540a-4562-8130-584df553f46a;
    physh_rdf:prefLabel "Random walks"@en .
 
+physh:b580bc4d-63fc-4636-9ef6-76e79ea68085 a skos:Concept;
+   skos:broader physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a;
+   skos:narrower physh:b7fb7beb-2d98-4254-887c-092165de0a77,
+     physh:b8cd55a2-21db-43b4-959b-fa4e6d1f4981,
+     physh:0cac8122-b62b-434e-b870-91c68644326b;
+   skos:prefLabel "Electric power transmission"@en;
+   physh_rdf:prefLabel "Electric power transmission"@en .
+
 physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/a48f173e-6459-4642-a711-a6e731807625_f45b3c40-959c-4e90-ba0e-38232980802a>;
@@ -15683,6 +16096,14 @@ physh:c16a05ce-2d70-4ae6-b335-317404e599d0 a skos:Concept;
      physh:d3835c6e-6178-498b-b7ee-97586a73e40a;
    skos:prefLabel "Nuclear medicine imaging"@en;
    physh_rdf:prefLabel "Nuclear medicine imaging"@en .
+
+physh:c6751f54-a0e7-44a2-aad8-cc8e5a5df651 a skos:Concept;
+   skos:broader physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea;
+   skos:narrower physh:8f59f607-cd26-499f-b769-7e15cc7529c4,
+     physh:d61b787c-3f0e-4c2e-94b6-a3bb21fbf789,
+     physh:250773f3-7403-47d6-aa15-9973bae77e67;
+   skos:prefLabel "Supercapacitors"@en;
+   physh_rdf:prefLabel "Supercapacitors"@en .
 
 physh:c74c7b81-5dee-4820-a500-6ab6f1b48cb1 a skos:Concept;
    skos:broader physh:fd8cf2dd-2362-4994-a45c-a9b453fe508d;
@@ -15751,6 +16172,14 @@ physh:d1402816-03a5-41ce-adad-a9f621e3ec0f a skos:Concept;
      physh:eef6c8e0-113c-40e9-a981-db01b2fe257e;
    skos:prefLabel "Electron diffraction"@en;
    physh_rdf:prefLabel "Electron diffraction"@en .
+
+physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52 a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:258d6104-3e21-4b28-9599-fa4cb50c028a,
+     physh:580109ed-a8ed-4964-898c-80fedc129ae0,
+     physh:c68b92c7-8efb-4c8e-a4c6-cfd0240eae12;
+   skos:prefLabel "Solar energy"@en;
+   physh_rdf:prefLabel "Solar energy"@en .
 
 physh:d2c655da-6260-45e7-bc14-26fba976f03b a skos:Concept;
    skos:broader physh:f2a9db78-1651-4a94-b66e-3e3d72056760;
@@ -16186,6 +16615,15 @@ physh:29146d99-215f-436f-9dbc-6dd06cd063c4 a skos:Concept,
    physh_rdf:inFacet physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84;
    physh_rdf:prefLabel "Acoustic techniques"@en .
 
+physh:2e9e0c49-ce2d-4029-a89d-c5d0535574a2 a skos:Concept;
+   skos:broader physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
+   skos:narrower physh:4aabe9ae-12ad-4c2e-a578-fb7239d3b285,
+     physh:2aeaa102-0ee1-4ae7-a52b-7230ec66deea,
+     physh:31f7839a-9a3c-4b8f-940b-8b2038c65af3,
+     physh:64470342-2836-4044-a632-693f38e12b9f;
+   skos:prefLabel "Carbon capture & utilization"@en;
+   physh_rdf:prefLabel "Carbon capture & utilization"@en .
+
 physh:3123cbf9-460d-467a-9306-b4fb316daddd a skos:Concept;
    skos:broader physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577;
    skos:narrower physh:0d8c3864-a060-4baf-a6a0-ad0b455410cc,
@@ -16232,6 +16670,15 @@ physh:3934db16-fe69-4d69-82c8-9bc346490273 a skos:Concept;
    skos:prefLabel "High intensity beam dynamics"@en;
    physh_rdf:prefLabel "High intensity beam dynamics"@en .
 
+physh:3bab53f4-af17-4278-95a1-fa1b42b9231c a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:fc4acbc9-f553-4042-b796-c105467649e1,
+     physh:1a6b9799-905c-4c1d-a8cc-d8c348eb6baf,
+     physh:a28df2a4-cd81-4c29-864d-227baab328e4,
+     physh:766e5998-b1ad-4a2d-8def-fe5c8565eb98;
+   skos:prefLabel " Energy harvesting devices"@en;
+   physh_rdf:prefLabel " Energy harvesting devices"@en .
+
 physh:3c3951f1-c856-43f4-9cd6-d058b6261a9d a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_f45b3c40-959c-4e90-ba0e-38232980802a>,
@@ -16271,6 +16718,15 @@ physh:3eb201bd-796e-4985-836d-af5c7e873190 a skos:Concept,
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Spreading"@en .
 
+physh:3ec5c202-988d-4eb9-bd75-d51f77fbe15a a skos:Concept;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:e8409747-7d73-4b19-afc3-5178af8a1b7f,
+     physh:7a2142f6-2dcc-4e0a-b910-e8554b7342e2,
+     physh:aa41a029-6867-47db-a636-f4a8071d0423,
+     physh:8f860fdb-9b91-4d64-889d-38c8b741a595;
+   skos:prefLabel "Biofuels"@en;
+   physh_rdf:prefLabel "Biofuels"@en .
+
 physh:4201a122-4a87-4b76-af1c-5e52bb109c78 a skos:Concept;
    skos:broader physh:46e2a993-8dce-4c28-beab-fdabe4378664,
      physh:9e019803-f9d8-4802-b1ac-d2c035d9508f;
@@ -16297,6 +16753,16 @@ physh:4bdb49fb-fff6-4c45-8de5-14a145d87803 a skos:Concept;
      physh:a43cf705-cc21-412c-aaaf-37db0439cb28;
    skos:prefLabel "Speech"@en;
    physh_rdf:prefLabel "Speech"@en .
+
+physh:4c12fcde-ed75-4e1c-bd19-253623703054 a skos:Concept;
+   skos:altLabel "Hydropower"@en;
+   skos:broader physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:645d3fa0-5cfd-4a00-a877-673272fa21be,
+     physh:5ddb2c82-443e-4a9d-b7d2-9c3a4c5a35ac,
+     physh:714642d8-35fe-454b-8403-c3563f1e87bb,
+     physh:94cd76e0-c4c8-49a6-b47c-aa18c2f85d8e;
+   skos:prefLabel "Hydroelectricity"@en;
+   physh_rdf:prefLabel "Hydroelectricity"@en .
 
 physh:4e823153-8e04-4bdb-a7ca-0f608ecd9453 a skos:Concept;
    skos:broader physh:eef7c13b-c67f-4d33-be97-76cee58e700a;
@@ -16529,6 +16995,15 @@ physh:7e4e985f-d2fb-46cf-9183-c6e4b4c1c61b a skos:Concept;
      physh:c4d611dc-c5a0-41bd-8329-b437a2097bc4;
    skos:prefLabel "Synchrotron radiation & free-electron lasers"@en;
    physh_rdf:prefLabel "Synchrotron radiation & free-electron lasers"@en .
+
+physh:7f29b291-aab9-4d63-a15c-1b98193cc0ca a skos:Concept;
+   skos:broader physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea;
+   skos:narrower physh:0d2c7741-1686-49bd-a316-206b1a8aca88,
+     physh:c2f66e60-e32e-48eb-b14c-a21ad53a7d95,
+     physh:033162e2-40ae-4390-9472-cf780651a0ed,
+     physh:5ddb2c82-443e-4a9d-b7d2-9c3a4c5a35ac;
+   skos:prefLabel "Mechanical energy storage"@en;
+   physh_rdf:prefLabel "Mechanical energy storage"@en .
 
 physh:803dacbd-5e2d-43eb-933b-9493ef3d5a24 a skos:Concept,
      physh_rdf:Concept;
@@ -16845,16 +17320,6 @@ physh:cb8280f7-1169-4173-8638-64316b821a5b a skos:Concept,
    physh_rdf:inFacet physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
      physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Path-integral methods"@en .
-
-physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5 a skos:Concept,
-     physh_rdf:Concept;
-   skos:broader <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   skos:prefLabel "Transportation research"@en;
-   skos:related physh:62dc4b9b-2c00-4b5c-bf19-74f4d37293fd,
-     physh:ca680354-e15b-45ba-add1-7f966f2c0ae2;
-   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Transportation research"@en .
 
 physh:d0f6584f-c5d7-4011-99bb-2a370e8f2b99 a skos:Concept;
    skos:broader physh:f2a9db78-1651-4a94-b66e-3e3d72056760;
@@ -17453,6 +17918,17 @@ physh:670457a5-ade7-47cf-b508-6ff87f3d30e0 a skos:Concept,
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Hydrostatic stellar nucleosynthesis"@en .
 
+physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21 a skos:Concept;
+   skos:altLabel "Li batteries"@en;
+   skos:broader physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f;
+   skos:narrower physh:8813446d-37c5-42c7-8bba-b4db64b9bb7d,
+     physh:a7ab8f74-905c-429f-884d-1f576b43f4fe,
+     physh:8b42c421-53e4-4d48-8c7d-a5d2bf758fc1,
+     physh:7d1c0e34-760f-4d53-b069-a96aa9b1c695,
+     physh:47b40e91-cfa8-4e9f-8536-2f067b43035e;
+   skos:prefLabel "Lithium batteries"@en;
+   physh_rdf:prefLabel "Lithium batteries"@en .
+
 physh:6d5b9a32-cad0-4d9f-a837-b0f239f5cdc6 a skos:Concept;
    skos:broader physh:124f9214-0176-475c-b706-99df707e8411;
    skos:narrower physh:75faf447-e157-46f1-b68c-8d2be5bbe346,
@@ -17632,6 +18108,18 @@ physh:96cf4e19-746a-4d9b-b2ef-b76773008bbc a skos:Concept;
    skos:related physh:32c21b1f-3011-4d4a-816c-b548ac037e73;
    physh_rdf:prefLabel "Diffusion"@en .
 
+physh:98437b05-f0c0-47aa-aba8-d73081519e1b a skos:Concept;
+   skos:altLabel "Thermoelectric devices"@en,
+     "Thermoelectric systems"@en;
+   skos:broader physh:2360e96e-a12b-4d21-9b65-36ed1177c0e6,
+     physh:e6586efa-1454-4ae2-9407-f4ca0d9322da,
+     physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:narrower physh:21153288-2cc1-447b-9714-d79cc06a734f,
+     physh:e4e5953c-3b25-4901-bb5a-a703af4c47e3,
+     physh:367a1b45-c8f5-4fda-b5fe-e5112e92cc39;
+   skos:prefLabel "Thermoelectrics"@en;
+   physh_rdf:prefLabel "Thermoelectrics"@en .
+
 physh:9bbcc3c5-16bb-4a7f-adea-c23acc893cde a skos:Concept;
    skos:broader physh:fad16b8f-e0c2-42ac-b5a2-6a9a82436c09;
    skos:narrower physh:1ae82140-c94a-46bb-8274-ad7311e44112,
@@ -17783,6 +18271,17 @@ physh:ca7e6e75-307c-4709-ad9e-9bb1f153fede a skos:Concept,
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Hadrons"@en .
 
+physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5 a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:prefLabel "Transportation research"@en;
+   skos:related physh:62dc4b9b-2c00-4b5c-bf19-74f4d37293fd,
+     physh:ca680354-e15b-45ba-add1-7f966f2c0ae2,
+     physh:c243097d-7c1b-4cfd-8146-85a713d9d31a;
+   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Transportation research"@en .
+
 physh:cc73b723-a501-45c2-a121-f8c9757c5573 a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/512fd433-7b6d-4535-bb60-78f3bf431bc3_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
@@ -17859,15 +18358,19 @@ physh:e4482ea2-2cf0-451a-9152-bb25295fda85 a skos:Concept,
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Thermal & statistical models"@en .
 
-physh:e6586efa-1454-4ae2-9407-f4ca0d9322da a skos:Concept;
-   skos:broader physh:da2cf824-a50d-4c47-a974-efa09b98c860;
-   skos:narrower physh:391d8598-aef3-4799-9fdb-fc950d2a6fc4,
-     physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f,
-     physh:98437b05-f0c0-47aa-aba8-d73081519e1b,
-     physh:c88f2853-42f8-42dd-ad4e-a83fcb2eab3a,
-     physh:4b58c664-c089-4304-8767-503856ad696e;
-   skos:prefLabel "Energy applications"@en;
-   physh_rdf:prefLabel "Energy applications"@en .
+physh:e6f3f236-70e5-473b-bcca-82da13857537 a skos:ConceptScheme,
+     physh_rdf:Discipline;
+   dcterms:title "Energy Science & Technology"@en;
+   dcterms:description "concepts important to production and use of energy in PhySH"@en;
+   dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
+   dcterms:subject "Energy Science & Technology"@en;
+   skos:hasTopConcept <https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   physh_rdf:hasConcept physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea,
+     physh:af9f5a05-6917-40cf-a2ff-5520ff506935,
+     physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a,
+     physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
+   physh_rdf:prefLabel "Energy Science & Technology"@en;
+   physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e .
 
 physh:ea69605a-7cae-476a-a7da-28f3c186d709 a skos:Concept;
    skos:broader physh:88a5cd35-609c-4f0a-8994-5a4cbe488296;
@@ -17925,6 +18428,15 @@ physh:f0877d7c-bf46-4559-8629-e4eb678c2679 a skos:Concept,
      physh:f55defd6-c6c9-4557-af91-e0b0f467ffe5,
      physh:be8bd934-5bc9-4a6d-ae73-f4753ce5c128;
    skos:prefLabel "Particles & Fields Experimental Techniques"@en .
+
+<https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
+   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   skos:narrower physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a,
+     physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393,
+     physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea,
+     physh:af9f5a05-6917-40cf-a2ff-5520ff506935;
+   skos:prefLabel "Energy Science & Technology Research Areas"@en;
+   skos:topConceptOf physh:e6f3f236-70e5-473b-bcca-82da13857537 .
 
 physh:08087671-73b2-4a66-a8ae-079c75cb9b33 a skos:Concept;
    skos:broader physh:7a86b9d8-3162-4279-9ca5-90ebad07be7c;
@@ -18031,6 +18543,17 @@ physh:3a68853d-8031-4222-9eb4-ca56627c40cd a skos:Concept;
      physh:af1e794b-6772-46b8-8c2f-39ec3c33ec5b;
    skos:prefLabel "Neuronal network models"@en;
    physh_rdf:prefLabel "Neuronal network models"@en .
+
+physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f a skos:Concept;
+   skos:broader physh:e6586efa-1454-4ae2-9407-f4ca0d9322da,
+     physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea;
+   skos:narrower physh:666ef756-42d3-41ff-8706-3d0d764b0ed0,
+     physh:6bcd2a14-13c4-4f1f-8a5e-24b8c6ffbb21,
+     physh:52c8e1d0-df68-4b26-a81f-c7c6bc4378e7,
+     physh:8d3325a6-e98e-4e69-a335-016380a3ccab,
+     physh:016a4ed2-bd01-4644-9999-a830f02ae172;
+   skos:prefLabel "Batteries"@en;
+   physh_rdf:prefLabel "Batteries"@en .
 
 physh:3cbbf1f7-9427-4812-a34b-410f229c0987 a skos:Concept;
    skos:broader physh:6f3f5cf1-363e-4d04-ac63-ca4ae90b47fc;
@@ -18412,6 +18935,17 @@ physh:db0eac92-d73c-4c77-ad1b-6c2517418354 a skos:Concept,
    physh_rdf:inFacet physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84;
    physh_rdf:prefLabel "Particle data analysis"@en .
 
+physh:e6586efa-1454-4ae2-9407-f4ca0d9322da a skos:Concept;
+   skos:broader physh:da2cf824-a50d-4c47-a974-efa09b98c860;
+   skos:narrower physh:391d8598-aef3-4799-9fdb-fc950d2a6fc4,
+     physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f,
+     physh:98437b05-f0c0-47aa-aba8-d73081519e1b,
+     physh:c88f2853-42f8-42dd-ad4e-a83fcb2eab3a,
+     physh:4b58c664-c089-4304-8767-503856ad696e;
+   skos:prefLabel "Energy applications"@en;
+   skos:related physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a;
+   physh_rdf:prefLabel "Energy applications"@en .
+
 physh:e84f5a9e-6934-4738-a3b2-19c2d7eaab86 a skos:Concept,
      physh_rdf:Concept;
    skos:altLabel "Ionic liquids"@en;
@@ -18435,6 +18969,17 @@ physh:e8e055f8-8711-4305-9995-7b3789b1a63b a skos:Concept;
      physh:fb2f621b-f402-4184-b6d5-a2db367ee6ea;
    skos:prefLabel "Quantum chaos"@en;
    physh_rdf:prefLabel "Quantum chaos"@en .
+
+physh:f0761682-18fc-4076-9921-90eae238bc98 a skos:Concept;
+   skos:broader physh:7d448998-51f2-4304-867e-db5833197487,
+     physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea;
+   skos:narrower physh:a59b2f4e-cfd9-4618-b65a-4ed6cc9072bd,
+     physh:6fc7bcaa-baba-4c80-b8f0-512572201d87,
+     physh:de2cebe6-26f9-4f51-b41c-03ca1b56d419,
+     physh:ee35c003-4a4c-444d-9d68-8da5cb77dec8;
+   skos:prefLabel "Hydrogen storage"@en;
+   skos:related physh:fb4cfd7b-691e-43d7-b2c9-dd7560244f4b;
+   physh_rdf:prefLabel "Hydrogen storage"@en .
 
 physh:f55defd6-c6c9-4557-af91-e0b0f467ffe5 a skos:Concept,
      physh_rdf:Concept;
@@ -18596,6 +19141,21 @@ physh:23e22a76-a9ba-4593-8d52-4e5c98c47af3 a skos:Concept;
    skos:prefLabel "Magnetoresistance"@en;
    physh_rdf:prefLabel "Magnetoresistance"@en .
 
+physh:258d6104-3e21-4b28-9599-fa4cb50c028a a skos:Concept;
+   skos:altLabel "Photovoltaic cells"@en,
+     "Photovoltaic system"@en,
+     "Photovoltaics"@en;
+   skos:broader physh:3040d6ba-d81f-4844-a016-342311b150ce,
+     physh:c215fb56-b919-42c5-9267-13846d715223,
+     physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52;
+   skos:narrower physh:7160ac44-83c4-41fe-971a-e26136a19047,
+     physh:a0eb610d-e104-4cac-83f3-115124abc8f7,
+     physh:7b79ca56-6194-4286-804c-34ce14298bd6;
+   skos:prefLabel "Photovoltaic absorbers"@en;
+   skos:related physh:c88f2853-42f8-42dd-ad4e-a83fcb2eab3a,
+     physh:a28df2a4-cd81-4c29-864d-227baab328e4;
+   physh_rdf:prefLabel "Photovoltaic absorbers"@en .
+
 physh:2a7e97bc-0a5f-4b55-a310-75aae0ede940 a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/512fd433-7b6d-4535-bb60-78f3bf431bc3_705f7ed8-5e20-47e1-8ca4-fa7feea8ad84>,
@@ -18622,6 +19182,19 @@ physh:2d89a076-7a54-4494-973a-ea562f654b8e a skos:Concept,
    physh_rdf:inDiscipline physh:780edcc1-705f-432b-9121-76105d540fe1;
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Mean field theory"@en .
+
+physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader <https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:b580bc4d-63fc-4636-9ef6-76e79ea68085,
+     physh:9320b25b-5182-484c-866d-c379c6650fb1,
+     physh:fc959fe9-5962-49a0-bb17-cf856ea49724,
+     physh:3f6c9d4a-a53c-42ac-9f57-f8eb1dedb31d;
+   skos:prefLabel " Energy utilization"@en;
+   skos:related physh:e6586efa-1454-4ae2-9407-f4ca0d9322da;
+   physh_rdf:inDiscipline physh:e6f3f236-70e5-473b-bcca-82da13857537;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel " Energy utilization"@en .
 
 physh:42791fef-2a1a-4002-81dd-c04d56ae9618 a skos:Concept;
    skos:broader physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577;
@@ -18652,13 +19225,13 @@ physh:50cc79d6-1a27-4ef3-9ea8-40f8f29ce40e a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/6f025065-4b96-4156-b146-2c285d0994c4_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/6f025065-4b96-4156-b146-2c285d0994c4_f45b3c40-959c-4e90-ba0e-38232980802a>,
-     <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
-     <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_f45b3c40-959c-4e90-ba0e-38232980802a>;
+     <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_f45b3c40-959c-4e90-ba0e-38232980802a>,
+     <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
    skos:prefLabel "Population dynamics"@en;
    physh_rdf:inDiscipline physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60,
      physh:6f025065-4b96-4156-b146-2c285d0994c4;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e,
-     physh:f45b3c40-959c-4e90-ba0e-38232980802a;
+   physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a,
+     physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Population dynamics"@en .
 
 physh:52399a41-c27b-49c2-96c3-120524795d0b a skos:Concept,
@@ -18711,6 +19284,19 @@ physh:6287ac05-d956-4c3c-9882-8ea7a798f964 a skos:Concept;
      physh:ac15776a-3741-4dfb-baad-ee2918f8e6e6;
    skos:prefLabel "General relativity"@en;
    physh_rdf:prefLabel "General relativity"@en .
+
+physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393 a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader <https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:0a4e4f65-eef5-4f6d-bc2f-1c25a3173c67,
+     physh:358b7565-3e15-46e9-859e-1254bd4a9e7f,
+     physh:2e9e0c49-ce2d-4029-a89d-c5d0535574a2,
+     physh:02eb6e91-8409-4ef3-ad57-d76b9c554e4e,
+     physh:1a3b4d60-b5e0-4a92-9631-9c79d27566d1;
+   skos:prefLabel "Sustainability"@en;
+   physh_rdf:inDiscipline physh:e6f3f236-70e5-473b-bcca-82da13857537;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Sustainability"@en .
 
 physh:6e3ddc0a-24fd-4682-bb1b-137944166a4a a skos:Concept,
      physh_rdf:Concept;
@@ -18802,19 +19388,6 @@ physh:ac816133-540a-4562-8130-584df553f46a a skos:Concept;
    skos:prefLabel "Ideal-chain models"@en;
    skos:related physh:b52b4f11-cad6-4cea-997f-36a603349fea;
    physh_rdf:prefLabel "Ideal-chain models"@en .
-
-physh:af9f5a05-6917-40cf-a2ff-5520ff506935 a skos:Concept,
-     physh_rdf:Concept;
-   skos:broader <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   skos:narrower physh:025d4a06-2dc1-4a4e-93cc-f8638752de8a,
-     physh:6a87a113-159a-46b4-8ebb-ebc179f00384,
-     physh:6ceabb22-d8b0-4f3a-8163-65439392c898,
-     physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea,
-     physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52;
-   skos:prefLabel "Energy research"@en;
-   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Energy research"@en .
 
 physh:b094f9fa-ebc7-4e4d-8957-0a7303f6e91e a skos:Concept;
    skos:broader physh:9bbcc3c5-16bb-4a7f-adea-c23acc893cde;
@@ -19232,6 +19805,20 @@ physh:7f613135-db34-40bd-b19e-e520cf4b29f4 a skos:Concept,
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Percolation theory"@en .
 
+physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader <https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:3aa1f62d-ba58-416a-9eaa-5d162b472e5f,
+     physh:3040d6ba-d81f-4844-a016-342311b150ce,
+     physh:f0761682-18fc-4076-9921-90eae238bc98,
+     physh:7f29b291-aab9-4d63-a15c-1b98193cc0ca,
+     physh:c6751f54-a0e7-44a2-aad8-cc8e5a5df651,
+     physh:09c4be7a-362a-4452-b732-6c8755bee303;
+   skos:prefLabel "Energy storage"@en;
+   physh_rdf:inDiscipline physh:e6f3f236-70e5-473b-bcca-82da13857537;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Energy storage"@en .
+
 physh:8508c727-cef4-4fe3-a99a-64b7319d4e79 a skos:Concept,
      physh_rdf:Concept;
    skos:altLabel "Zero-dimensional systems"@en;
@@ -19286,6 +19873,19 @@ physh:993587b9-4472-41fd-9896-2df938e75b92 a skos:Concept;
      physh:e437f686-6729-4719-9785-38ba8e2f1618;
    skos:prefLabel "Earth's magnetosphere"@en;
    physh_rdf:prefLabel "Earth's magnetosphere"@en .
+
+physh:9d3ec67b-01ed-4ebe-8b7f-04613a3d5185 a skos:Concept;
+   skos:broader physh:9320b25b-5182-484c-866d-c379c6650fb1;
+   skos:narrower physh:78fde4c7-f999-47d0-9b48-2e0ae4ab1994,
+     physh:4b3604f3-c502-4fed-ae35-054ffeee8dd9,
+     physh:9ca80152-a892-40a5-a67d-9c6375dc0dee,
+     physh:5fbbd0b9-5d6d-4aa7-baed-5c853210011c,
+     physh:d68619b1-3023-4aee-88df-1dfc3f183f80,
+     physh:c63c569f-2139-458f-b7f5-2aaf22340fd6,
+     physh:6148df1d-df65-467c-9a90-427d326326e0,
+     physh:ca670454-d9fc-4383-a903-d40a6313bc02;
+   skos:prefLabel "Fuel cells"@en;
+   physh_rdf:prefLabel "Fuel cells"@en .
 
 physh:a088bad1-4904-4f08-a625-a9840fdf32c7 a skos:Concept,
      physh_rdf:Concept;
@@ -20815,6 +21415,26 @@ physh:dedc6dbe-3651-4ad0-9d37-b260e8975adc a skos:Concept;
    skos:related physh:95b999dd-b903-4e07-9b42-6b395558b48c;
    physh_rdf:prefLabel "Laser techniques"@en .
 
+physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 a skos:ConceptScheme,
+     physh_rdf:Discipline;
+   dcterms:title "Interdisciplinary Physics"@en;
+   dcterms:description "Terms for applied physics from the APS Taxonomy"@en;
+   dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
+   dcterms:subject "Applied physics and other related areas"@en;
+   skos:hasTopConcept <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   physh_rdf:hasConcept physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
+     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
+     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
+     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
+     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d,
+     physh:b008f863-15c1-4914-98e1-27735c8991bb,
+     physh:be085c40-d877-4e85-9c63-504357581b86,
+     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
+     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
+     physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+   physh_rdf:prefLabel "Interdisciplinary Physics"@en;
+   physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e .
+
 <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_b96dac97-ab85-4320-892d-9b245caf097f> a skos:Concept;
    skos:broader physh:b96dac97-ab85-4320-892d-9b245caf097f,
      <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_fa2a6718-de5c-4c05-bf00-f169a55234d5>;
@@ -20844,6 +21464,21 @@ physh:dedc6dbe-3651-4ad0-9d37-b260e8975adc a skos:Concept;
      physh:ef0a1bee-2a1f-4f47-aca2-6302db18e67f;
    skos:prefLabel "Fluid Dynamics Physical Systems"@en;
    skos:topConceptOf physh:512fd433-7b6d-4535-bb60-78f3bf431bc3 .
+
+<https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
+   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   skos:narrower physh:b008f863-15c1-4914-98e1-27735c8991bb,
+     physh:be085c40-d877-4e85-9c63-504357581b86,
+     physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
+     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
+     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
+     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
+     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
+     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
+     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
+     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
+   skos:prefLabel "Interdisciplinary Physics Research Areas"@en;
+   skos:topConceptOf physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 .
 
 physh:05d1f0ed-0bf5-4c6d-9e38-a9cf3a67eb5f a skos:Concept,
      physh_rdf:Concept;
@@ -21061,27 +21696,6 @@ physh:b6e4cc90-18f3-4427-841d-c667375bbca0 a skos:Concept;
    skos:prefLabel "Magnetic order"@en;
    physh_rdf:prefLabel "Magnetic order"@en .
 
-physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 a skos:ConceptScheme,
-     physh_rdf:Discipline;
-   dcterms:title "Interdisciplinary Physics"@en;
-   dcterms:description "Terms for applied physics from the APS Taxonomy"@en;
-   dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
-   dcterms:subject "Applied physics and other related areas"@en;
-   skos:hasTopConcept <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   physh_rdf:hasConcept physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
-     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
-     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
-     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
-     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d,
-     physh:af9f5a05-6917-40cf-a2ff-5520ff506935,
-     physh:b008f863-15c1-4914-98e1-27735c8991bb,
-     physh:be085c40-d877-4e85-9c63-504357581b86,
-     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
-     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
-     physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
-   physh_rdf:prefLabel "Interdisciplinary Physics"@en;
-   physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e .
-
 physh:ee487445-39e4-4995-9543-fea1735bcbb2 a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/9f5c878e-b7b7-4030-bdb9-21a24ad97422_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
@@ -21099,22 +21713,6 @@ physh:ee487445-39e4-4995-9543-fea1735bcbb2 a skos:Concept,
    physh_rdf:inDiscipline physh:9f5c878e-b7b7-4030-bdb9-21a24ad97422;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Electroweak interaction"@en .
-
-<https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
-   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   skos:narrower physh:b008f863-15c1-4914-98e1-27735c8991bb,
-     physh:be085c40-d877-4e85-9c63-504357581b86,
-     physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
-     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
-     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
-     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
-     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
-     physh:af9f5a05-6917-40cf-a2ff-5520ff506935,
-     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
-     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
-     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
-   skos:prefLabel "Interdisciplinary Physics Research Areas"@en;
-   skos:topConceptOf physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 .
 
 physh:1d433fa8-4cdd-4e66-ae51-df1797f18d56 a skos:Concept,
      physh_rdf:Concept;
@@ -21540,6 +22138,26 @@ physh:9e019803-f9d8-4802-b1ac-d2c035d9508f a skos:Concept,
    physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Electronic structure"@en .
+
+physh:af9f5a05-6917-40cf-a2ff-5520ff506935 a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader <https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:025d4a06-2dc1-4a4e-93cc-f8638752de8a,
+     physh:6a87a113-159a-46b4-8ebb-ebc179f00384,
+     physh:6ceabb22-d8b0-4f3a-8163-65439392c898,
+     physh:98437b05-f0c0-47aa-aba8-d73081519e1b,
+     physh:d2b62966-4eb1-4cbd-8ea1-4b34ea070e52,
+     physh:3ec5c202-988d-4eb9-bd75-d51f77fbe15a,
+     physh:3bab53f4-af17-4278-95a1-fa1b42b9231c,
+     physh:3e08aa2f-f8bd-4a09-ae45-3dddb833f61f,
+     physh:4c12fcde-ed75-4e1c-bd19-253623703054,
+     physh:8c48a332-f38c-4fde-affa-82f036e2aa25,
+     physh:a4d8732e-5e4a-4246-924f-3db7507537aa,
+     physh:7d448998-51f2-4304-867e-db5833197487;
+   skos:prefLabel "Energy sources"@en;
+   physh_rdf:inDiscipline physh:e6f3f236-70e5-473b-bcca-82da13857537;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Energy sources"@en .
 
 physh:ba8221e8-b186-4db2-abb4-bcb0cc7f5b9d a skos:Concept,
      physh_rdf:Concept;
@@ -23866,48 +24484,6 @@ physh:0213a5a0-0742-43f3-804b-3ccea08a13c0 a skos:ConceptScheme,
      physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84,
      physh:b96dac97-ab85-4320-892d-9b245caf097f .
 
-physh:1cf75de2-e14b-41cd-b733-8f704652db33 a skos:Concept,
-     physh_rdf:Concept;
-   skos:broader <https://physh.org/rdf/0213a5a0-0742-43f3-804b-3ccea08a13c0_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   skos:narrower physh:0845f541-b7a3-402b-b779-736d06a64443,
-     physh:0a37f3c2-43fd-48fa-a630-85e5b860cda5,
-     physh:14ae8e80-c205-4119-b0b3-744d0fb178d0,
-     physh:23dc1816-95ac-4954-b14c-f497299effe7,
-     physh:2c208d45-2118-46a2-b406-a78838263ea7,
-     physh:2e2be214-1eff-49e0-a4c9-e38af3680db2,
-     physh:34a274ff-a677-40a6-b390-dfcea4340aa6,
-     physh:392f3bdf-86fc-4e76-947b-91479f6ebcdf,
-     physh:3985b0f8-5a86-4628-b81a-d283a4f93b76,
-     physh:4214927b-d43a-4eac-8975-f610cb1cc8e9,
-     physh:42778a2b-d265-4877-9f98-99161aa3dbe3,
-     physh:486fd198-240a-4fef-a8a8-60d4cb9ed665,
-     physh:531d572f-5343-4cf1-910a-3657ba30aa75,
-     physh:57034c64-1440-4f6c-a380-b9545d77c82a,
-     physh:63a9c708-1efc-49bb-9b67-fb6a39269235,
-     physh:72fd2bae-0362-40c5-91a3-36083a6477ba,
-     physh:80225ff1-75fb-4e39-9e94-f565c3933b4e,
-     physh:824ae77e-7d83-4b9e-8bbe-1a1d2dcd7cd6,
-     physh:8d086d50-9e53-4988-b836-cf1108d32c93,
-     physh:aff93223-66f4-4a9a-8285-2bd2b8a714a9,
-     physh:b1731414-84b7-4c13-927c-ef95bd85cf87,
-     physh:c7ab6671-1a61-46c3-90b7-bb80847079ca,
-     physh:cd8557b1-6114-4e5a-a78b-6612f197dbf9,
-     physh:d7555320-c35e-4bfc-b17d-6e2fe467463b,
-     physh:f837d92b-2b47-45d3-8803-a555715c1b78,
-     physh:fba210d7-a749-425f-a730-515392fa9ae3;
-   skos:prefLabel "Nuclear structure & decays"@en;
-   skos:related physh:17c60544-56fd-45e2-853d-30c986f5ab63,
-     physh:38c3eaa1-e9a7-4590-9a93-cbdfd9fe162f,
-     physh:85f8341d-5dbc-427c-96ab-511220fd44b6,
-     physh:9af709f6-5f1d-4c71-a663-0c66c9db09d3,
-     physh:bade400c-827b-4a33-87b2-695354930d18,
-     physh:decec525-9bef-4d01-872b-6fcc208dc890,
-     physh:e4482ea2-2cf0-451a-9152-bb25295fda85,
-     physh:f3901c9b-bf9c-44a0-8c9e-b9c2b0b89339;
-   physh_rdf:inDiscipline physh:0213a5a0-0742-43f3-804b-3ccea08a13c0;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Nuclear structure & decays"@en .
-
 <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_f45b3c40-959c-4e90-ba0e-38232980802a> a skos:Concept;
    skos:broader physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    skos:narrower physh:72e394dc-f8d4-44ff-ac08-c74d10d24d9a,
@@ -23947,6 +24523,49 @@ physh:1cf75de2-e14b-41cd-b733-8f704652db33 a skos:Concept,
      physh:fea036a1-9c29-4872-ab2c-d052949f7c03;
    skos:prefLabel "Statistical Physics Physical Systems"@en;
    skos:topConceptOf physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60 .
+
+physh:1cf75de2-e14b-41cd-b733-8f704652db33 a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader <https://physh.org/rdf/0213a5a0-0742-43f3-804b-3ccea08a13c0_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:0845f541-b7a3-402b-b779-736d06a64443,
+     physh:0a37f3c2-43fd-48fa-a630-85e5b860cda5,
+     physh:14ae8e80-c205-4119-b0b3-744d0fb178d0,
+     physh:23dc1816-95ac-4954-b14c-f497299effe7,
+     physh:2c208d45-2118-46a2-b406-a78838263ea7,
+     physh:2e2be214-1eff-49e0-a4c9-e38af3680db2,
+     physh:34a274ff-a677-40a6-b390-dfcea4340aa6,
+     physh:392f3bdf-86fc-4e76-947b-91479f6ebcdf,
+     physh:3985b0f8-5a86-4628-b81a-d283a4f93b76,
+     physh:4214927b-d43a-4eac-8975-f610cb1cc8e9,
+     physh:42778a2b-d265-4877-9f98-99161aa3dbe3,
+     physh:486fd198-240a-4fef-a8a8-60d4cb9ed665,
+     physh:531d572f-5343-4cf1-910a-3657ba30aa75,
+     physh:57034c64-1440-4f6c-a380-b9545d77c82a,
+     physh:63a9c708-1efc-49bb-9b67-fb6a39269235,
+     physh:72fd2bae-0362-40c5-91a3-36083a6477ba,
+     physh:80225ff1-75fb-4e39-9e94-f565c3933b4e,
+     physh:824ae77e-7d83-4b9e-8bbe-1a1d2dcd7cd6,
+     physh:8d086d50-9e53-4988-b836-cf1108d32c93,
+     physh:aff93223-66f4-4a9a-8285-2bd2b8a714a9,
+     physh:b1731414-84b7-4c13-927c-ef95bd85cf87,
+     physh:c7ab6671-1a61-46c3-90b7-bb80847079ca,
+     physh:cd8557b1-6114-4e5a-a78b-6612f197dbf9,
+     physh:d7555320-c35e-4bfc-b17d-6e2fe467463b,
+     physh:f837d92b-2b47-45d3-8803-a555715c1b78,
+     physh:fba210d7-a749-425f-a730-515392fa9ae3;
+   skos:prefLabel "Nuclear structure & decays"@en;
+   skos:related physh:17c60544-56fd-45e2-853d-30c986f5ab63,
+     physh:38c3eaa1-e9a7-4590-9a93-cbdfd9fe162f,
+     physh:85f8341d-5dbc-427c-96ab-511220fd44b6,
+     physh:9af709f6-5f1d-4c71-a663-0c66c9db09d3,
+     physh:bade400c-827b-4a33-87b2-695354930d18,
+     physh:decec525-9bef-4d01-872b-6fcc208dc890,
+     physh:e4482ea2-2cf0-451a-9152-bb25295fda85,
+     physh:f3901c9b-bf9c-44a0-8c9e-b9c2b0b89339,
+     physh:e57ab27c-9c45-4697-92b7-680cee4591df;
+   physh_rdf:inDiscipline physh:0213a5a0-0742-43f3-804b-3ccea08a13c0;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Nuclear structure & decays"@en .
 
 physh:a38dc017-3236-4084-afc5-eb59c5de51e0 a skos:Concept,
      physh_rdf:Concept;
@@ -24423,12 +25042,12 @@ physh:a48f173e-6459-4642-a711-a6e731807625 a skos:ConceptScheme,
      physh:41dd58dd-d35c-46e8-9594-d7e05b458da6,
      physh:4722b240-3d0b-4ab1-831a-75302ab4cf86,
      physh:4c4f4d87-e837-4d65-970d-f5323698a5f1,
-     physh:ca8ddaad-441c-481c-93b3-65f46125fb93,
      physh:733b28ec-b147-4e13-b2a5-d8a767d2d6f3,
      physh:9e001bda-d32b-4a59-a216-bfd4c1af8c25,
      physh:9e019803-f9d8-4802-b1ac-d2c035d9508f,
      physh:b35238d0-83c7-4412-b293-c7d42fa92c62,
      physh:bfe403ee-cd34-466b-b8bf-f90b4d4431fc,
+     physh:ca8ddaad-441c-481c-93b3-65f46125fb93,
      physh:d46f32eb-17b3-4d09-be59-fc3461e542db,
      physh:eef7c13b-c67f-4d33-be97-76cee58e700a,
      physh:f2a9db78-1651-4a94-b66e-3e3d72056760,
@@ -24446,8 +25065,8 @@ physh:a48f173e-6459-4642-a711-a6e731807625 a skos:ConceptScheme,
      physh:8508c727-cef4-4fe3-a99a-64b7319d4e79,
      physh:a38f8c2b-eff3-4e4d-8146-e17ef6bde9dd,
      physh:da2cf824-a50d-4c47-a974-efa09b98c860,
-     physh:f495cfcf-afde-4cee-8daa-3ffffaa0e3a6,
      physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff,
+     physh:f495cfcf-afde-4cee-8daa-3ffffaa0e3a6,
      physh:e2b8e2c2-4beb-41db-b473-1e2501888502,
      physh:6d0b28b1-a3eb-40f1-bf96-43308f5d2c56,
      physh:05a47dcc-71c0-4ebc-9d4e-79a40a191efb,
@@ -24776,34 +25395,16 @@ physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60 a skos:ConceptScheme,
    dcterms:description "Concepts in Statistical Physics from the APS Taxonomy"@en;
    dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
    dcterms:subject "Physics"@en;
-   skos:hasTopConcept <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
-     <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_f45b3c40-959c-4e90-ba0e-38232980802a>,
+   skos:hasTopConcept <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_f45b3c40-959c-4e90-ba0e-38232980802a>,
+     <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_fa2a6718-de5c-4c05-bf00-f169a55234d5>;
-   physh_rdf:hasConcept physh:1addd209-da18-41de-9a48-46f5f0f11651,
-     physh:36754399-ec2b-4962-bb07-ca12c79834e8,
-     physh:39cd8c29-4ed1-4f17-9a75-defb541f7cab,
-     physh:465c2601-2756-41b3-8518-ca6f24f11411,
-     physh:50cc79d6-1a27-4ef3-9ea8-40f8f29ce40e,
-     physh:55c6e92f-4705-4854-9517-43fb71e31015,
-     physh:5b3df46f-4812-4196-8c68-7fb8577cdd80,
-     physh:609a2adc-099f-463f-9e2a-dd85c0101044,
-     physh:69e160e2-bae4-4d3e-88f0-378a5479d00a,
-     physh:7dd874c0-5ab0-4de4-9919-10775f22748a,
-     physh:860c01ce-5b2c-4bd5-9148-88f0b1d585e2,
-     physh:8e35265c-459a-43fc-9eb8-73e1dd82b47c,
-     physh:99934578-7c4c-4b59-9edd-cd7dc8988a58,
-     physh:ab0f7862-2ef6-42c8-84a2-c663fb498e19,
-     physh:b96ba7a9-cce1-470c-b80c-6dadb2c6b8e9,
-     physh:c6d9db47-7b2d-4d3b-868a-606b65695e3c,
-     physh:d9490ac8-a0d2-4d97-8dfc-19020e49aeb9,
-     physh:f2a9db78-1651-4a94-b66e-3e3d72056760,
-     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
-     physh:026384c2-5a28-4069-b909-e6872fec566d,
+   physh_rdf:hasConcept physh:026384c2-5a28-4069-b909-e6872fec566d,
      physh:06891d57-1044-487c-ae20-21366d161a97,
      physh:16158b58-5493-4fb9-901c-54f841cc4524,
      physh:373a7206-3c07-47bb-9078-efd80ed70556,
      physh:3c3951f1-c856-43f4-9cd6-d058b6261a9d,
      physh:3f908345-cb08-47c2-bb62-3196134223aa,
+     physh:50cc79d6-1a27-4ef3-9ea8-40f8f29ce40e,
      physh:52399a41-c27b-49c2-96c3-120524795d0b,
      physh:628f7190-cb71-4692-8cda-ebc544f9e9fb,
      physh:63bdecc6-b616-484d-b99d-2de7fbc78c6b,
@@ -24832,6 +25433,24 @@ physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60 a skos:ConceptScheme,
      physh:fe033bd7-dfe8-4d73-93c8-3acd8685eac2,
      physh:fea036a1-9c29-4872-ab2c-d052949f7c03,
      physh:01e53456-ac5a-47f0-b6f8-8cd9e395c737,
+     physh:1addd209-da18-41de-9a48-46f5f0f11651,
+     physh:36754399-ec2b-4962-bb07-ca12c79834e8,
+     physh:39cd8c29-4ed1-4f17-9a75-defb541f7cab,
+     physh:465c2601-2756-41b3-8518-ca6f24f11411,
+     physh:55c6e92f-4705-4854-9517-43fb71e31015,
+     physh:5b3df46f-4812-4196-8c68-7fb8577cdd80,
+     physh:609a2adc-099f-463f-9e2a-dd85c0101044,
+     physh:69e160e2-bae4-4d3e-88f0-378a5479d00a,
+     physh:7dd874c0-5ab0-4de4-9919-10775f22748a,
+     physh:860c01ce-5b2c-4bd5-9148-88f0b1d585e2,
+     physh:8e35265c-459a-43fc-9eb8-73e1dd82b47c,
+     physh:99934578-7c4c-4b59-9edd-cd7dc8988a58,
+     physh:ab0f7862-2ef6-42c8-84a2-c663fb498e19,
+     physh:b96ba7a9-cce1-470c-b80c-6dadb2c6b8e9,
+     physh:c6d9db47-7b2d-4d3b-868a-606b65695e3c,
+     physh:d9490ac8-a0d2-4d97-8dfc-19020e49aeb9,
+     physh:f2a9db78-1651-4a94-b66e-3e3d72056760,
+     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
      physh:1b56e7d8-2aa9-4576-83f0-44c3f8d016ed,
      physh:7e2374d5-2769-48f1-bd04-1d8f3a57e280,
      physh:9cb101d6-4b02-4f69-948e-f42b9bea9fe3,
@@ -24873,8 +25492,8 @@ physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60 a skos:ConceptScheme,
      physh:e004c5bf-0efa-40fc-a2f4-bdb72f7d77cb,
      physh:fdd36ae4-ff85-4541-958c-c6ea84bb5b45;
    physh_rdf:prefLabel "Statistical Physics"@en;
-   physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e,
-     physh:f45b3c40-959c-4e90-ba0e-38232980802a,
+   physh_rdf:usesFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a,
+     physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e,
      physh:fa2a6718-de5c-4c05-bf00-f169a55234d5,
      physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
      physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84,
@@ -24994,8 +25613,8 @@ physh:f45b3c40-959c-4e90-ba0e-38232980802a a skos:Concept,
      physh:8508c727-cef4-4fe3-a99a-64b7319d4e79,
      physh:a38f8c2b-eff3-4e4d-8146-e17ef6bde9dd,
      physh:da2cf824-a50d-4c47-a974-efa09b98c860,
-     physh:f495cfcf-afde-4cee-8daa-3ffffaa0e3a6,
      physh:b5f8885e-3ae5-44dd-acd2-28a17709a6ff,
+     physh:f495cfcf-afde-4cee-8daa-3ffffaa0e3a6,
      physh:e2b8e2c2-4beb-41db-b473-1e2501888502,
      physh:6d0b28b1-a3eb-40f1-bf96-43308f5d2c56,
      physh:4c286df9-b565-4295-b951-49a36d60cad1,
@@ -25038,8 +25657,9 @@ physh:f45b3c40-959c-4e90-ba0e-38232980802a a skos:Concept,
 
 physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh_rdf:Facet;
-   skos:narrower <https://physh.org/rdf/c3ec1cb0-fc2e-4669-a886-a82178c6ceda_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
+   skos:narrower <https://physh.org/rdf/e6f3f236-70e5-473b-bcca-82da13857537_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
+     <https://physh.org/rdf/c3ec1cb0-fc2e-4669-a886-a82178c6ceda_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/510fc218-8774-4547-ab09-fc6cef0c9a03_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/88db3168-1ae3-4ee7-a7f8-b83018cc5f17_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/6f025065-4b96-4156-b146-2c285d0994c4_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
@@ -25210,12 +25830,12 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:41dd58dd-d35c-46e8-9594-d7e05b458da6,
      physh:4722b240-3d0b-4ab1-831a-75302ab4cf86,
      physh:4c4f4d87-e837-4d65-970d-f5323698a5f1,
-     physh:ca8ddaad-441c-481c-93b3-65f46125fb93,
      physh:733b28ec-b147-4e13-b2a5-d8a767d2d6f3,
      physh:9e001bda-d32b-4a59-a216-bfd4c1af8c25,
      physh:9e019803-f9d8-4802-b1ac-d2c035d9508f,
      physh:b35238d0-83c7-4412-b293-c7d42fa92c62,
      physh:bfe403ee-cd34-466b-b8bf-f90b4d4431fc,
+     physh:ca8ddaad-441c-481c-93b3-65f46125fb93,
      physh:d46f32eb-17b3-4d09-be59-fc3461e542db,
      physh:5f099028-76e7-4a1c-b549-61c441f6241f,
      physh:7853f3c2-c02d-4fc9-aae8-1eb75aaf35b8,
@@ -25239,12 +25859,15 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
      physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
      physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d,
-     physh:af9f5a05-6917-40cf-a2ff-5520ff506935,
      physh:b008f863-15c1-4914-98e1-27735c8991bb,
      physh:be085c40-d877-4e85-9c63-504357581b86,
      physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
      physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
-     physh:fd7300dc-49e9-458d-9121-de94f7446fdb;
+     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
+     physh:80fe725c-ae9b-4701-a9f2-db29c094a8ea,
+     physh:af9f5a05-6917-40cf-a2ff-5520ff506935,
+     physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a,
+     physh:6dca4b7f-ff80-45b8-ab18-bbba041e3393;
    physh_rdf:excludeFromIndexing true;
    physh_rdf:prefLabel "Research Areas"@en;
    physh_rdf:usedByDiscipline physh:0213a5a0-0742-43f3-804b-3ccea08a13c0,
@@ -25263,4 +25886,5 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:a48f173e-6459-4642-a711-a6e731807625,
      physh:c3ec1cb0-fc2e-4669-a886-a82178c6ceda,
      physh:c9174048-b368-4b5b-b065-20094708fa4d,
-     physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 .
+     physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248,
+     physh:e6f3f236-70e5-473b-bcca-82da13857537 .
