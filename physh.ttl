@@ -1020,8 +1020,8 @@ physh:16a6a5d2-ae10-49f4-9963-aceca75da6d9 a skos:Concept;
 
 physh:1709c324-0db6-4ba7-aff6-0d41456e5331 a skos:Concept;
    skos:broader physh:c2ea95f8-c209-44d7-b8f7-a6baf632c46a;
-   skos:prefLabel " Thermoreflectance"@en;
-   physh_rdf:prefLabel " Thermoreflectance"@en .
+   skos:prefLabel "Thermoreflectance"@en;
+   physh_rdf:prefLabel "Thermoreflectance"@en .
 
 physh:170cd9f4-59f1-4cf5-b25f-2d522780945a a skos:Concept;
    skos:broader physh:f9456df5-5ca2-4a8a-8b11-d5ffd9d96921;
@@ -6153,8 +6153,8 @@ physh:908b92a6-5196-437c-a2f3-aa1885f5396a a skos:Concept;
 
 physh:908ef485-0c60-497a-9efb-49190e5dd258 a skos:Concept;
    skos:broader physh:a9c20b4d-69a1-40f1-81c1-86b01859b80c;
-   skos:prefLabel " Lattices in beam optics"@en;
-   physh_rdf:prefLabel " Lattices in beam optics"@en .
+   skos:prefLabel "Lattices in beam optics"@en;
+   physh_rdf:prefLabel "Lattices in beam optics"@en .
 
 physh:9098e351-0e96-4435-b04b-a0fa64abbf64 a skos:Concept;
    skos:broader physh:a38dc017-3236-4084-afc5-eb59c5de51e0;
@@ -7442,8 +7442,8 @@ physh:ade47d97-1b9e-45c4-a708-8670ea246613 a skos:Concept;
 
 physh:ade677cb-7124-424f-8223-4908384d91fa a skos:Concept;
    skos:broader physh:e182c548-24f2-45a8-99ce-816acead5bf5;
-   skos:prefLabel "Ultrafast femtosecond pump probe "@en;
-   physh_rdf:prefLabel "Ultrafast femtosecond pump probe "@en .
+   skos:prefLabel "Ultrafast femtosecond pump probe"@en;
+   physh_rdf:prefLabel "Ultrafast femtosecond pump probe"@en .
 
 physh:adf7e946-b75b-480d-8c59-a141650ae46c a skos:Concept;
    skos:broader physh:d46f32eb-17b3-4d09-be59-fc3461e542db;
@@ -8013,8 +8013,8 @@ physh:bf33401a-fd7c-433e-903d-284762e06df1 a skos:Concept;
    physh_rdf:prefLabel "Tube theories"@en .
 
 physh:bf582a64-42a5-4009-a9af-e9a1100f5de6 a skos:Concept;
-   skos:altLabel "Elastic backscattering spectrometry "@en,
-     "EBS"@en;
+   skos:altLabel "EBS"@en,
+     "Elastic backscattering spectrometry"@en;
    skos:broader physh:1fc8f216-e853-4b59-bdb2-2ac001bd3ea2;
    skos:prefLabel "Elastic back scattering spectroscopy"@en;
    physh_rdf:prefLabel "Elastic back scattering spectroscopy"@en .
@@ -16921,8 +16921,8 @@ physh:3bab53f4-af17-4278-95a1-fa1b42b9231c a skos:Concept;
      physh:1a6b9799-905c-4c1d-a8cc-d8c348eb6baf,
      physh:a28df2a4-cd81-4c29-864d-227baab328e4,
      physh:766e5998-b1ad-4a2d-8def-fe5c8565eb98;
-   skos:prefLabel " Energy harvesting devices"@en;
-   physh_rdf:prefLabel " Energy harvesting devices"@en .
+   skos:prefLabel "Energy harvesting devices"@en;
+   physh_rdf:prefLabel "Energy harvesting devices"@en .
 
 physh:3c88d04a-17da-443c-8428-781247d46a8a a skos:Concept;
    skos:broader physh:8bf49057-d087-4218-b1ad-0678d26c2751;
@@ -18443,11 +18443,11 @@ physh:39ac0edc-a645-42f8-bbf9-04e80cb0460a a skos:Concept,
      physh:9320b25b-5182-484c-866d-c379c6650fb1,
      physh:fc959fe9-5962-49a0-bb17-cf856ea49724,
      physh:3f6c9d4a-a53c-42ac-9f57-f8eb1dedb31d;
-   skos:prefLabel " Energy utilization"@en;
+   skos:prefLabel "Energy utilization"@en;
    skos:related physh:e6586efa-1454-4ae2-9407-f4ca0d9322da;
    physh_rdf:inDiscipline physh:e6f3f236-70e5-473b-bcca-82da13857537;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel " Energy utilization"@en .
+   physh_rdf:prefLabel "Energy utilization"@en .
 
 physh:3a68853d-8031-4222-9eb4-ca56627c40cd a skos:Concept;
    skos:broader physh:7b9db112-8475-42b4-ad22-f00f6b8635f8;
@@ -18634,8 +18634,8 @@ physh:a24a2d8a-58a4-4cbc-81aa-4cd953e73f4b a skos:Concept;
      physh:ed224d79-ea1c-40d2-9a8d-0d1edeedaac6,
      physh:f4eb2e27-2920-46a3-bc06-3a13f7384dc2,
      physh:f5025176-7b3c-435b-bc7e-231b608bfe9b;
-   skos:prefLabel " Therapeutics"@en;
-   physh_rdf:prefLabel " Therapeutics"@en .
+   skos:prefLabel "Therapeutics"@en;
+   physh_rdf:prefLabel "Therapeutics"@en .
 
 physh:a45e2665-2df6-42e0-99dc-30bd93812c2c a skos:Concept,
      physh_rdf:Concept;
