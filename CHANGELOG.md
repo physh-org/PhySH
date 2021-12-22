@@ -16,3 +16,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [1.1.1] - 2018-09-07
 - Fix lowercase label that should have been uppercase
+
+## [2.2.0] - 2021-12-22
+- Identifier normalization: standardizes all PhySH identifiers to use the full UUID format with hyphen characters. A new file, uuid_mapping.csv, is included which shows the pairing of old and new identifier values where they have been changed.
+- delete identifiers that had been deprecated in previous releases. The file 'deprecated.csv' lists those old identifiers that have now been removed, and suggested replacement id's if any.
+- combined mapping file, 'full_mapping_2.0.csv' is also included, which combines both the uuid mapping and the deprecated concept mapping.
+- New concepts added for quantum information
+- New concepts and discipline added for energy science
+- Some additional concepts added in condensed matter
