@@ -24,3 +24,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - New concepts added for quantum information
 - New concepts and discipline added for energy science
 - Some additional concepts added in condensed matter
+
+## [2.3.0] - 2022-05-23
+- Clearing the backlog with new concepts in AMO, Nuclear and Particles and Fields, as well as a few other additions and fixes
+- 'deprecated.csv' now only refers to the single deprecated concept remaining
