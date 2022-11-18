@@ -1931,7 +1931,7 @@ physh:2a49cb39-937f-42fa-8a4e-94b2d5adc5dd a skos:Concept;
    physh_rdf:prefLabel "Photon production"@en .
 
 physh:2a4f166c-10ae-4975-b17f-6f3e204376b1 a skos:Concept;
-   skos:broader physh:860c0095-b4fd-488b-afcd-cf9f82078730;
+   skos:broader physh:141061f5-f02c-492c-af56-81c3c49e8b65;
    skos:prefLabel "Adaptive methods"@en;
    physh_rdf:prefLabel "Adaptive methods"@en .
 
@@ -8907,6 +8907,11 @@ physh:be89f51a-7f1a-4928-bfe5-d22ce28b1342 a skos:Concept;
    skos:prefLabel "Hexagonal boron nitride"@en;
    physh_rdf:prefLabel "Hexagonal boron nitride"@en .
 
+physh:bec339e2-f302-4cca-9afd-bf3022974809 a skos:Concept;
+   skos:broader physh:9e019803-f9d8-4802-b1ac-d2c035d9508f;
+   skos:prefLabel "Valley degrees of freedom"@en;
+   physh_rdf:prefLabel "Valley degrees of freedom"@en .
+
 physh:bf039ac6-3727-477a-8cf1-1575d5282b47 a skos:Concept;
    skos:broader physh:aa6e6251-78da-4a3b-a270-cccc77b356e6;
    skos:prefLabel "Biological aging"@en;
@@ -9941,7 +9946,6 @@ physh:d555061c-b102-456c-b1ab-8656ac6054a0 a skos:Concept;
    physh_rdf:prefLabel "Twistronics"@en .
 
 physh:d596397a-e9a6-4916-8ae6-a98fef9e526f a skos:Concept;
-   skos:altLabel "Valley degrees of freedom"@en;
    skos:broader physh:9e019803-f9d8-4802-b1ac-d2c035d9508f;
    skos:prefLabel "Valleytronics"@en;
    physh_rdf:prefLabel "Valleytronics"@en .
@@ -15633,6 +15637,7 @@ physh:780edcc1-705f-432b-9121-76105d540fe1 a skos:ConceptScheme,
    dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
    dcterms:subject "General Physics"@en;
    skos:hasTopConcept <https://physh.org/rdf/780edcc1-705f-432b-9121-76105d540fe1_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   physh_rdf:deprecated true;
    physh_rdf:hasConcept physh:3653e21c-f645-47b3-a786-58c924fda3d8;
    physh_rdf:prefLabel "General Physics"@en;
    physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e .
@@ -18954,16 +18959,6 @@ physh:824c5bb5-1d38-4fff-9104-1fdc765ad06b a skos:Concept;
      physh:cbc41431-fba0-4ff0-8134-2ded6e598922;
    physh_rdf:prefLabel "Quantum aspects of black holes"@en .
 
-physh:860c0095-b4fd-488b-afcd-cf9f82078730 a skos:Concept,
-     physh_rdf:Concept;
-   skos:broader <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   skos:narrower physh:2a4f166c-10ae-4975-b17f-6f3e204376b1;
-   skos:prefLabel "Measurement science"@en;
-   skos:related physh:5f042072-e281-48f0-8092-ea2fe2c29c26;
-   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Measurement science"@en .
-
 physh:8bf49057-d087-4218-b1ad-0678d26c2751 a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_f45b3c40-959c-4e90-ba0e-38232980802a>;
@@ -20412,18 +20407,6 @@ physh:0a9a17ee-a48d-4731-b8f4-77722430f49a a skos:Concept,
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Artificial neural networks"@en .
 
-physh:141061f5-f02c-492c-af56-81c3c49e8b65 a skos:Concept,
-     physh_rdf:Concept;
-   skos:broader <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   skos:narrower physh:47152936-51d3-496a-baaa-2fe108b6ad58,
-     physh:a17bad0f-2766-4b9e-9a99-de31988242f0,
-     physh:3de03435-78a7-4920-820d-670b0f08b5bc;
-   skos:prefLabel "Metrology"@en;
-   skos:related physh:53cd9599-5951-4fa6-af4e-2ff2c0e53fe4;
-   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Metrology"@en .
-
 physh:229eca6d-30f1-4c05-9a78-c352de8326b1 a skos:Concept;
    skos:altLabel "Surface adsorption"@en;
    skos:broader physh:eef7c13b-c67f-4d33-be97-76cee58e700a;
@@ -21116,6 +21099,20 @@ physh:1128a9f3-70c1-409b-84b2-44063aa12108 a skos:Concept,
    physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Crystalline systems"@en .
+
+physh:141061f5-f02c-492c-af56-81c3c49e8b65 a skos:Concept,
+     physh_rdf:Concept;
+   skos:altLabel "Measurement science"@en;
+   skos:broader <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:47152936-51d3-496a-baaa-2fe108b6ad58,
+     physh:a17bad0f-2766-4b9e-9a99-de31988242f0,
+     physh:3de03435-78a7-4920-820d-670b0f08b5bc,
+     physh:2a4f166c-10ae-4975-b17f-6f3e204376b1;
+   skos:prefLabel "Metrology"@en;
+   skos:related physh:53cd9599-5951-4fa6-af4e-2ff2c0e53fe4;
+   physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Metrology"@en .
 
 physh:15ac2674-419f-4fe1-b73b-99c33fe6b8df a skos:Concept,
      physh_rdf:Concept;
@@ -22194,6 +22191,22 @@ physh:5b3df46f-4812-4196-8c68-7fb8577cdd80 a skos:Concept,
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Synchronization"@en .
 
+physh:5f042072-e281-48f0-8092-ea2fe2c29c26 a skos:Concept,
+     physh_rdf:Concept;
+   skos:altLabel "Quantum machine learning"@en;
+   skos:broader physh:2ddffb19-8fa7-4c61-83a8-af6b9be80b5a,
+     physh:45a22032-e27f-4922-9d0c-10c4aa294db5,
+     physh:db0eac92-d73c-4c77-ad1b-6c2517418354,
+     <https://physh.org/rdf/512fd433-7b6d-4535-bb60-78f3bf431bc3_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506>,
+     <https://physh.org/rdf/a48f173e-6459-4642-a711-a6e731807625_233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79>;
+   skos:narrower physh:cfc3a160-a6ae-4258-ae39-513eba1aff1c;
+   skos:prefLabel "Machine learning"@en;
+   physh_rdf:inDiscipline physh:512fd433-7b6d-4535-bb60-78f3bf431bc3,
+     physh:a48f173e-6459-4642-a711-a6e731807625;
+   physh_rdf:inFacet physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
+     physh:233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79;
+   physh_rdf:prefLabel "Machine learning"@en .
+
 physh:6287ac05-d956-4c3c-9882-8ea7a798f964 a skos:Concept;
    skos:broader physh:124f9214-0176-475c-b706-99df707e8411;
    skos:narrower physh:2656ae44-ff76-4375-ad62-e2cc9ec869f8,
@@ -22825,23 +22838,6 @@ physh:5adb0193-f741-4713-8010-4270b7bf5d9c a skos:Concept;
      physh:c49518ff-424b-4a7b-9eac-613e4451b51c,
      physh:e24c96b1-1d9e-450c-8694-9342fe98f484;
    physh_rdf:prefLabel "Particle mixing & oscillations"@en .
-
-physh:5f042072-e281-48f0-8092-ea2fe2c29c26 a skos:Concept,
-     physh_rdf:Concept;
-   skos:altLabel "Quantum machine learning"@en;
-   skos:broader physh:2ddffb19-8fa7-4c61-83a8-af6b9be80b5a,
-     physh:45a22032-e27f-4922-9d0c-10c4aa294db5,
-     physh:db0eac92-d73c-4c77-ad1b-6c2517418354,
-     <https://physh.org/rdf/512fd433-7b6d-4535-bb60-78f3bf431bc3_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506>,
-     <https://physh.org/rdf/a48f173e-6459-4642-a711-a6e731807625_233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79>;
-   skos:narrower physh:cfc3a160-a6ae-4258-ae39-513eba1aff1c;
-   skos:prefLabel "Machine learning"@en;
-   skos:related physh:860c0095-b4fd-488b-afcd-cf9f82078730;
-   physh_rdf:inDiscipline physh:512fd433-7b6d-4535-bb60-78f3bf431bc3,
-     physh:a48f173e-6459-4642-a711-a6e731807625;
-   physh_rdf:inFacet physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
-     physh:233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79;
-   physh_rdf:prefLabel "Machine learning"@en .
 
 physh:678197d1-8bf1-4c16-86cc-8133fba03b86 a skos:Concept,
      physh_rdf:Concept;
@@ -24241,6 +24237,29 @@ physh:db7ba2bd-700a-4b0b-b444-b873c97ff818 a skos:Concept,
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Quantum fluids & solids"@en .
 
+physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 a skos:ConceptScheme,
+     physh_rdf:Discipline;
+   dcterms:title "Interdisciplinary Physics"@en;
+   dcterms:description "Terms for applied physics from the APS Taxonomy"@en;
+   dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
+   dcterms:subject "Applied physics and other related areas"@en;
+   skos:hasTopConcept <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   physh_rdf:hasConcept physh:019e106f-f2bb-47ed-a0d5-2d513dc9ac5e,
+     physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
+     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
+     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
+     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
+     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d,
+     physh:b008f863-15c1-4914-98e1-27735c8991bb,
+     physh:be085c40-d877-4e85-9c63-504357581b86,
+     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
+     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
+     physh:e429096f-dcb1-45db-8ccb-80767dfde58b,
+     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
+     physh:2f065729-56f9-49ab-b8e6-f2daa86321bd;
+   physh_rdf:prefLabel "Interdisciplinary Physics"@en;
+   physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e .
+
 <https://physh.org/rdf/88db3168-1ae3-4ee7-a7f8-b83018cc5f17_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
    skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    skos:narrower physh:1ad4c70d-5644-4a14-a97e-973953744ade,
@@ -24294,6 +24313,24 @@ physh:db7ba2bd-700a-4b0b-b444-b873c97ff818 a skos:Concept,
      physh:8b374c75-8448-476e-a872-f15b0cf5a5fe;
    skos:prefLabel "Networks Research Areas"@en;
    skos:topConceptOf physh:c9174048-b368-4b5b-b065-20094708fa4d .
+
+<https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
+   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   skos:narrower physh:b008f863-15c1-4914-98e1-27735c8991bb,
+     physh:e429096f-dcb1-45db-8ccb-80767dfde58b,
+     physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
+     physh:2f065729-56f9-49ab-b8e6-f2daa86321bd,
+     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
+     physh:be085c40-d877-4e85-9c63-504357581b86,
+     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
+     physh:019e106f-f2bb-47ed-a0d5-2d513dc9ac5e,
+     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
+     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
+     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
+     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
+     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
+   skos:prefLabel "Interdisciplinary Physics Research Areas"@en;
+   skos:topConceptOf physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 .
 
 physh:0a677b11-f06d-4ced-9385-cf0bf1061a59 a skos:Concept,
      physh_rdf:Concept;
@@ -24482,30 +24519,6 @@ physh:cd4c012e-bacf-4bcf-8358-a6573a330ec4 a skos:Concept,
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Laser systems"@en .
 
-physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 a skos:ConceptScheme,
-     physh_rdf:Discipline;
-   dcterms:title "Interdisciplinary Physics"@en;
-   dcterms:description "Terms for applied physics from the APS Taxonomy"@en;
-   dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
-   dcterms:subject "Applied physics and other related areas"@en;
-   skos:hasTopConcept <https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   physh_rdf:hasConcept physh:019e106f-f2bb-47ed-a0d5-2d513dc9ac5e,
-     physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
-     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
-     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
-     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
-     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d,
-     physh:860c0095-b4fd-488b-afcd-cf9f82078730,
-     physh:b008f863-15c1-4914-98e1-27735c8991bb,
-     physh:be085c40-d877-4e85-9c63-504357581b86,
-     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
-     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
-     physh:e429096f-dcb1-45db-8ccb-80767dfde58b,
-     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
-     physh:2f065729-56f9-49ab-b8e6-f2daa86321bd;
-   physh_rdf:prefLabel "Interdisciplinary Physics"@en;
-   physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e .
-
 physh:ee487445-39e4-4995-9543-fea1735bcbb2 a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/9f5c878e-b7b7-4030-bdb9-21a24ad97422_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
@@ -24565,25 +24578,6 @@ physh:ee487445-39e4-4995-9543-fea1735bcbb2 a skos:Concept,
      physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb;
    skos:prefLabel "Statistical Physics & Thermodynamics Computational Techniques"@en .
 
-<https://physh.org/rdf/e4211828-5d99-4bc4-b986-eb2bbbc8b248_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
-   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   skos:narrower physh:b008f863-15c1-4914-98e1-27735c8991bb,
-     physh:e429096f-dcb1-45db-8ccb-80767dfde58b,
-     physh:118dcea0-ad7e-42d7-b32c-2c9f38256be6,
-     physh:2f065729-56f9-49ab-b8e6-f2daa86321bd,
-     physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
-     physh:be085c40-d877-4e85-9c63-504357581b86,
-     physh:860c0095-b4fd-488b-afcd-cf9f82078730,
-     physh:d55c7570-5cb1-4f1a-b729-2647e666ffe8,
-     physh:019e106f-f2bb-47ed-a0d5-2d513dc9ac5e,
-     physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
-     physh:141061f5-f02c-492c-af56-81c3c49e8b65,
-     physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
-     physh:fd7300dc-49e9-458d-9121-de94f7446fdb,
-     physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d;
-   skos:prefLabel "Interdisciplinary Physics Research Areas"@en;
-   skos:topConceptOf physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248 .
-
 physh:25bdd3c1-c3ec-4e4e-a84e-6d4152bec3b2 a skos:Concept,
      physh_rdf:Concept;
    skos:broader <https://physh.org/rdf/a48f173e-6459-4642-a711-a6e731807625_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
@@ -24608,7 +24602,8 @@ physh:25bdd3c1-c3ec-4e4e-a84e-6d4152bec3b2 a skos:Concept,
 
 physh:632f74d1-d16b-4b92-a295-b24729a93d8d a skos:Concept;
    skos:broader physh:23cdcd6b-ae22-4b6d-92cd-24a9a8bd0577;
-   skos:narrower physh:0082dae7-d213-4ca7-b629-6f6681b2f175,
+   skos:narrower physh:f464ad01-629c-41f3-98bc-195c920e4d42,
+     physh:0082dae7-d213-4ca7-b629-6f6681b2f175,
      physh:10c6e308-9b27-4540-90f7-b445513d0ab2,
      physh:26ef5ca9-b059-4dbd-9ef3-00c8944a7e47,
      physh:3696b5b4-d797-4cee-8c53-610e16e25eac,
@@ -24622,34 +24617,9 @@ physh:632f74d1-d16b-4b92-a295-b24729a93d8d a skos:Concept;
      physh:c7d219bc-3c17-440b-a847-c10c46cff8fd,
      physh:f88f9d2e-9c55-48d2-aab4-c24fba575e45,
      physh:fa660751-b084-419b-9861-223d75821bb0,
-     physh:34c652fc-c268-4339-868f-508852ef3d9d,
-     physh:f464ad01-629c-41f3-98bc-195c920e4d42;
+     physh:34c652fc-c268-4339-868f-508852ef3d9d;
    skos:prefLabel "Quantum optics"@en;
    physh_rdf:prefLabel "Quantum optics"@en .
-
-physh:9e019803-f9d8-4802-b1ac-d2c035d9508f a skos:Concept,
-     physh_rdf:Concept;
-   skos:altLabel "Band structure"@en;
-   skos:broader <https://physh.org/rdf/a48f173e-6459-4642-a711-a6e731807625_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
-   skos:narrower physh:0030808d-6a1a-4ce5-974a-748b5ef3eeba,
-     physh:4201a122-4a87-4b76-af1c-5e52bb109c78,
-     physh:6d37cf9f-c2cd-4175-94bc-801b32ee1dd7,
-     physh:78d12677-c7dc-427e-acd7-cbff78a1713f,
-     physh:aaff2519-9891-4d4e-a067-1ea36b6b08d4,
-     physh:c80b3aa7-f3e9-4d73-98bb-d9ae7740549e,
-     physh:d596397a-e9a6-4916-8ae6-a98fef9e526f,
-     physh:eba4897b-35d4-4eed-9c36-a08ca406d79e,
-     physh:29dcd859-9f61-4f1d-bfd9-58eeb4b78832,
-     physh:a475f4df-cfe6-4370-8745-220c6daada66,
-     physh:d555061c-b102-456c-b1ab-8656ac6054a0;
-   skos:prefLabel "Electronic structure"@en;
-   skos:related physh:0026b3bc-1a2f-45df-8025-1243dac91047,
-     physh:55bba34b-0d31-428f-a430-4f502667434a,
-     physh:7eb769ec-4d58-48b3-ac80-5b56c91008ec;
-   skos:scopeNote "Energy states for electrons in a system with fixed nuclei"@en;
-   physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Electronic structure"@en .
 
 <https://physh.org/rdf/5375b253-b0a1-4ece-bb50-4c34ea7218bd_233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79> a skos:Concept;
    skos:broader physh:233a6cd0-b7fe-491b-b5fd-85fd6b2a7c79,
@@ -24850,6 +24820,31 @@ physh:88a5cd35-609c-4f0a-8994-5a4cbe488296 a skos:Concept,
    physh_rdf:inDiscipline physh:5375b253-b0a1-4ece-bb50-4c34ea7218bd;
    physh_rdf:inFacet physh:f45b3c40-959c-4e90-ba0e-38232980802a;
    physh_rdf:prefLabel "Space & astrophysical plasma"@en .
+
+physh:9e019803-f9d8-4802-b1ac-d2c035d9508f a skos:Concept,
+     physh_rdf:Concept;
+   skos:altLabel "Band structure"@en;
+   skos:broader <https://physh.org/rdf/a48f173e-6459-4642-a711-a6e731807625_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:narrower physh:0030808d-6a1a-4ce5-974a-748b5ef3eeba,
+     physh:4201a122-4a87-4b76-af1c-5e52bb109c78,
+     physh:6d37cf9f-c2cd-4175-94bc-801b32ee1dd7,
+     physh:78d12677-c7dc-427e-acd7-cbff78a1713f,
+     physh:aaff2519-9891-4d4e-a067-1ea36b6b08d4,
+     physh:c80b3aa7-f3e9-4d73-98bb-d9ae7740549e,
+     physh:d596397a-e9a6-4916-8ae6-a98fef9e526f,
+     physh:eba4897b-35d4-4eed-9c36-a08ca406d79e,
+     physh:29dcd859-9f61-4f1d-bfd9-58eeb4b78832,
+     physh:a475f4df-cfe6-4370-8745-220c6daada66,
+     physh:d555061c-b102-456c-b1ab-8656ac6054a0,
+     physh:bec339e2-f302-4cca-9afd-bf3022974809;
+   skos:prefLabel "Electronic structure"@en;
+   skos:related physh:0026b3bc-1a2f-45df-8025-1243dac91047,
+     physh:55bba34b-0d31-428f-a430-4f502667434a,
+     physh:7eb769ec-4d58-48b3-ac80-5b56c91008ec;
+   skos:scopeNote "Energy states for electrons in a system with fixed nuclei"@en;
+   physh_rdf:inDiscipline physh:a48f173e-6459-4642-a711-a6e731807625;
+   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:prefLabel "Electronic structure"@en .
 
 physh:cc59c6fb-acbb-4237-953b-b874fe5dbd4a a skos:Concept,
      physh_rdf:Concept;
@@ -28206,7 +28201,6 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:29ab1ea0-dd7e-46b7-87dd-0ca29c6be062,
      physh:37c11ef8-b242-46ad-b0c0-f8e391c074a2,
      physh:4455b073-c3a2-4a0b-923e-98d7ec0f3b9d,
-     physh:860c0095-b4fd-488b-afcd-cf9f82078730,
      physh:b008f863-15c1-4914-98e1-27735c8991bb,
      physh:be085c40-d877-4e85-9c63-504357581b86,
      physh:cc1c57bd-55a6-4bc9-92a7-1c4c1c873ee5,
