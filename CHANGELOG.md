@@ -29,9 +29,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Clearing the backlog with new concepts in AMO, Nuclear and Particles and Fields, as well as a few other additions and fixes
 - 'deprecated.csv' now only refers to the single deprecated concept remaining
 
-## [2.4.0] - 2022-11-?
+## [2.4.0] - 2022-11-29
 - Deprecation of "General Physics", with concepts moved elsewhere, in part to "Interdisciplinary Physics".
 - "Classical field theory" and narrower concept "Electromagnetism" have been deprecated in favor of the pre-existing concept "Classical electromagnetism".
 - "Quantum theory" is now "Quantum correlations, foundations & formalism" under "Quantum Information".
 - Also the disciplines "Quantum Information" and "Statistical Physics" have been renamed as, respectively, "Quantum Information, Science & Technology", and "Statistical Physics & Thermodynamics" to more fully reflect their coverage.
 - About 40 other concepts have been added across a variety of disciplines, based on requests since the last release.
+
+## [2.5.0] - 2023-06-?
+- Major rearrangement of Biological Physics, now labeled "Biological Physics & Neuroscience", with significant additions and resorting within Research Areas.
+- A handful of little-used or ambiguous concepts in this area have been deprecated. Recommended replacement concepts, where applicable, are listed in 'deprecated.csv'.
