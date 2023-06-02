@@ -38,4 +38,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [2.5.0] - 2023-06-?
 - Major rearrangement of Biological Physics, now labeled "Biological Physics & Neuroscience", with significant additions and resorting within Research Areas.
-- A handful of little-used or ambiguous concepts in this area have been deprecated. Recommended replacement concepts, where applicable, are listed in 'deprecated.csv'.
+- A handful of little-used or ambiguous concepts in this area have been deprecated. Recommended replacement concepts are listed in 'deprecated.csv'.

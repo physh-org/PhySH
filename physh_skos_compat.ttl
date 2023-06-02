@@ -2963,7 +2963,6 @@ physh:3f172ca2-7eb2-47a7-8beb-702e9855be1b a skos:Concept;
 physh:3f343ffa-b300-4a03-a6a9-9a76421fa262 a skos:Concept;
    skos:broader physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd;
    skos:prefLabel "Sequencing analysis"@en;
-   physh_rdf:deprecated true;
    physh_rdf:prefLabel "Sequencing analysis"@en .
 
 physh:3f3c14af-f4ee-4098-abe7-d077b362704e a skos:Concept;
@@ -3007,6 +3006,12 @@ physh:3fb1eb5f-4f56-4de2-ba29-95395826bba6 a skos:Concept;
    skos:broader physh:9017d068-f9d7-42f8-b083-a385e9b14c0b;
    skos:prefLabel "Integer quantum Hall effect"@en;
    physh_rdf:prefLabel "Integer quantum Hall effect"@en .
+
+physh:3fb70e7e-fce8-4ec4-820c-cf126dde5a22 a skos:Concept,
+     physh_rdf:Concept;
+   skos:broader physh:00960c4d-78bb-469c-8ffb-cda89f4fe20c;
+   skos:prefLabel "Biomechanics"@en;
+   physh_rdf:prefLabel "Biomechanics"@en .
 
 physh:3fe81fb7-5b74-4ee4-84e2-966ee01a55b4 a skos:Concept;
    skos:broader physh:bd03ea46-2406-4a24-8307-05b2b498fb4e;
@@ -12648,13 +12653,6 @@ physh:3f61c3b5-a96a-428b-b171-2888d28a2f6d a skos:Concept;
    skos:prefLabel "Atom or molecule scattering from surfaces"@en;
    physh_rdf:prefLabel "Atom or molecule scattering from surfaces"@en .
 
-physh:3fb70e7e-fce8-4ec4-820c-cf126dde5a22 a skos:Concept,
-     physh_rdf:Concept;
-   skos:broader physh:00960c4d-78bb-469c-8ffb-cda89f4fe20c;
-   skos:narrower physh:d56b5277-e328-4221-a086-720804ca6adf;
-   skos:prefLabel "Biomechanics"@en;
-   physh_rdf:prefLabel "Biomechanics"@en .
-
 physh:3fbf5f17-17b4-46c2-ae49-e9a24c3648f2 a skos:Concept;
    skos:broader physh:1128a9f3-70c1-409b-84b2-44063aa12108;
    skos:prefLabel "Quasicrystals"@en;
@@ -14187,7 +14185,7 @@ physh:d3f72522-490a-4ce8-b02c-02cc16495485 a skos:Concept;
    physh_rdf:prefLabel "Gamma ray bursts"@en .
 
 physh:d56b5277-e328-4221-a086-720804ca6adf a skos:Concept;
-   skos:broader physh:3fb70e7e-fce8-4ec4-820c-cf126dde5a22;
+   skos:broader physh:bb9d205a-1327-40a1-a9f3-91d677ea5de3;
    skos:narrower physh:553f6fe0-d536-4fbd-a496-bfdd52a802f5;
    skos:prefLabel "Biological movement"@en;
    physh_rdf:prefLabel "Biological movement"@en .
@@ -17199,12 +17197,11 @@ physh:0593c217-5a51-4a64-bac7-e9f379367df6 a skos:Concept,
 
 physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd a skos:Concept,
      physh_rdf:Concept;
-   skos:broader <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
+   skos:broader <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506>;
    skos:narrower physh:3f343ffa-b300-4a03-a6a9-9a76421fa262;
    skos:prefLabel "Bioinformatics"@en;
-   physh_rdf:deprecated true;
    physh_rdf:inDiscipline physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb;
-   physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   physh_rdf:inFacet physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506;
    physh_rdf:prefLabel "Bioinformatics"@en .
 
 physh:0841db0c-24b2-4074-9ba3-a5b6243699b5 a skos:Concept;
@@ -19420,17 +19417,6 @@ physh:bade400c-827b-4a33-87b2-695354930d18 a skos:Concept,
    physh_rdf:inFacet physh:b96dac97-ab85-4320-892d-9b245caf097f;
    physh_rdf:prefLabel "Nuclear many-body theory"@en .
 
-physh:bb9d205a-1327-40a1-a9f3-91d677ea5de3 a skos:Concept,
-     physh_rdf:Concept;
-   skos:altLabel "Biological complexity"@en;
-   skos:broader physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5;
-   skos:narrower physh:505b716e-8e82-444b-834c-e769c4d53e64,
-     physh:747386d5-d15e-43fe-890c-abafe7aad8f2,
-     physh:76111435-ea0c-45ec-a78a-e736f8e58f2d,
-     physh:da8795cf-dd0b-446f-bab1-986dcb2703c6;
-   skos:prefLabel "Emergent biological functions from complex interactions"@en;
-   physh_rdf:prefLabel "Emergent biological functions from complex interactions"@en .
-
 physh:c215fb56-b919-42c5-9267-13846d715223 a skos:Concept;
    skos:broader physh:c765ac18-ded5-4ef0-a41a-22be13741559;
    skos:narrower physh:258d6104-3e21-4b28-9599-fa4cb50c028a,
@@ -20428,6 +20414,18 @@ physh:b96ba7a9-cce1-470c-b80c-6dadb2c6b8e9 a skos:Concept,
    physh_rdf:inDiscipline physh:419d860e-ce5c-42f1-b6ad-4dee9f4fbf60;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Optimization problems"@en .
+
+physh:bb9d205a-1327-40a1-a9f3-91d677ea5de3 a skos:Concept,
+     physh_rdf:Concept;
+   skos:altLabel "Biological complexity"@en;
+   skos:broader physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5;
+   skos:narrower physh:d56b5277-e328-4221-a086-720804ca6adf,
+     physh:505b716e-8e82-444b-834c-e769c4d53e64,
+     physh:747386d5-d15e-43fe-890c-abafe7aad8f2,
+     physh:76111435-ea0c-45ec-a78a-e736f8e58f2d,
+     physh:da8795cf-dd0b-446f-bab1-986dcb2703c6;
+   skos:prefLabel "Emergent biological functions from complex interactions"@en;
+   physh_rdf:prefLabel "Emergent biological functions from complex interactions"@en .
 
 physh:bfbc8007-4c38-4ccb-a698-eeb79bc1651c a skos:Concept;
    skos:broader physh:81194f70-bbca-4041-b57e-29338e588cac;
@@ -22101,18 +22099,18 @@ physh:8508c727-cef4-4fe3-a99a-64b7319d4e79 a skos:Concept,
 
 physh:8b374c75-8448-476e-a872-f15b0cf5a5fe a skos:Concept,
      physh_rdf:Concept;
-   skos:altLabel "Neural networks"@en;
+   skos:altLabel "Neuronal networks"@en;
    skos:broader physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad,
      physh:d87d9c51-bdc2-43bb-99c3-6e5345a7f631,
      <https://physh.org/rdf/c9174048-b368-4b5b-b065-20094708fa4d_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>;
    skos:narrower physh:205e6918-12a2-4f4c-9795-8f723f476866,
      physh:553e95dc-7be7-47a1-96b2-a1dc984c90ff,
      physh:d0c53e76-4b73-46f9-a799-d1b3712a330e;
-   skos:prefLabel "Neuronal networks"@en;
+   skos:prefLabel "Biological neural networks"@en;
    skos:related physh:1cef0413-aa47-4526-8ef8-785465baa968;
    physh_rdf:inDiscipline physh:c9174048-b368-4b5b-b065-20094708fa4d;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   physh_rdf:prefLabel "Neuronal networks"@en .
+   physh_rdf:prefLabel "Biological neural networks"@en .
 
 physh:8da11568-256e-4eba-ac10-f750c272b3ca a skos:Concept,
      physh_rdf:Concept;
@@ -22896,6 +22894,19 @@ physh:f9b1361d-01a4-4d29-b6a5-69b0b9bf071e a skos:Concept,
    skos:prefLabel "Nuclear Physics Research Areas"@en;
    skos:topConceptOf physh:0213a5a0-0742-43f3-804b-3ccea08a13c0 .
 
+<https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
+   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
+   skos:narrower physh:7e49d013-76b9-427d-aa9d-354b061dacfe,
+     physh:9e235d60-3bdd-4919-b71f-10052ac459d7,
+     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
+     physh:5be420fe-48f0-4430-a63d-9d611d837d6e,
+     physh:b2c47d4b-a2d2-4f91-aa08-6029cd34a4a7,
+     physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad,
+     physh:b26070f8-32ca-4e02-94d0-ba1961b3480d,
+     physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5;
+   skos:prefLabel "Biological Physics & Neuroscience Research Areas"@en;
+   skos:topConceptOf physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb .
+
 <https://physh.org/rdf/0f4313da-ec73-46f5-b24f-521a1fcb6db7_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
    skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    skos:narrower physh:2f065729-56f9-49ab-b8e6-f2daa86321bd,
@@ -23301,34 +23312,6 @@ physh:f712db32-2bc9-4e97-9f42-a16c12832ff8 a skos:Concept;
    skos:prefLabel "Solar plasma"@en;
    skos:related physh:7707f36f-d313-4a62-9df9-cb2573b4bf00;
    physh_rdf:prefLabel "Solar plasma"@en .
-
-<https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506> a skos:Concept;
-   skos:broader physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
-     <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_fa2a6718-de5c-4c05-bf00-f169a55234d5>;
-   skos:narrower physh:6558d12a-54c2-4ef7-8a5b-67ba06aaab9d,
-     physh:b2c4323c-b907-4ff3-974d-3c810a643abd,
-     physh:f0877d7c-bf46-4559-8629-e4eb678c2679,
-     physh:bbb4472b-21d7-4e9a-a5e1-b08007b9f820,
-     physh:ed1232cd-9cdc-4da9-a1bf-572e24c3058c,
-     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
-     physh:7e2374d5-2769-48f1-bd04-1d8f3a57e280,
-     physh:55bba34b-0d31-428f-a430-4f502667434a,
-     physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb;
-   skos:prefLabel "Biological Physics & Neuroscience Computational Techniques"@en .
-
-<https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_bdb1ef91-b776-4e36-8f8f-3e93666bac1e> a skos:Concept;
-   skos:broader physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
-   skos:narrower physh:7e49d013-76b9-427d-aa9d-354b061dacfe,
-     physh:9e235d60-3bdd-4919-b71f-10052ac459d7,
-     physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd,
-     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
-     physh:5be420fe-48f0-4430-a63d-9d611d837d6e,
-     physh:b2c47d4b-a2d2-4f91-aa08-6029cd34a4a7,
-     physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad,
-     physh:b26070f8-32ca-4e02-94d0-ba1961b3480d,
-     physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5;
-   skos:prefLabel "Biological Physics & Neuroscience Research Areas"@en;
-   skos:topConceptOf physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb .
 
 <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506> a skos:Concept;
    skos:broader physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
@@ -23747,6 +23730,21 @@ physh:fd7300dc-49e9-458d-9121-de94f7446fdb a skos:Concept,
    physh_rdf:inDiscipline physh:e4211828-5d99-4bc4-b986-eb2bbbc8b248;
    physh_rdf:inFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e;
    physh_rdf:prefLabel "Information & communication theory"@en .
+
+<https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506> a skos:Concept;
+   skos:broader physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506,
+     <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_fa2a6718-de5c-4c05-bf00-f169a55234d5>;
+   skos:narrower physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd,
+     physh:6558d12a-54c2-4ef7-8a5b-67ba06aaab9d,
+     physh:b2c4323c-b907-4ff3-974d-3c810a643abd,
+     physh:f0877d7c-bf46-4559-8629-e4eb678c2679,
+     physh:bbb4472b-21d7-4e9a-a5e1-b08007b9f820,
+     physh:ed1232cd-9cdc-4da9-a1bf-572e24c3058c,
+     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
+     physh:7e2374d5-2769-48f1-bd04-1d8f3a57e280,
+     physh:55bba34b-0d31-428f-a430-4f502667434a,
+     physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb;
+   skos:prefLabel "Biological Physics & Neuroscience Computational Techniques"@en .
 
 <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_b96dac97-ab85-4320-892d-9b245caf097f> a skos:Concept;
    skos:broader physh:b96dac97-ab85-4320-892d-9b245caf097f,
@@ -27195,7 +27193,8 @@ physh:1e0c099a-9f2a-4e47-b3f1-7faa28b6a506 a skos:Concept,
      <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506>,
      <https://physh.org/rdf/419d860e-ce5c-42f1-b6ad-4dee9f4fbf60_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506>;
    skos:prefLabel "Computational Techniques"@en;
-   physh_rdf:contains physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
+   physh_rdf:contains physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd,
+     physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
      physh:55bba34b-0d31-428f-a430-4f502667434a,
      physh:6558d12a-54c2-4ef7-8a5b-67ba06aaab9d,
      physh:7e2374d5-2769-48f1-bd04-1d8f3a57e280,
@@ -27482,7 +27481,6 @@ physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb a skos:ConceptScheme,
      <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_f45b3c40-959c-4e90-ba0e-38232980802a>,
      <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_fa2a6718-de5c-4c05-bf00-f169a55234d5>;
    physh_rdf:hasConcept physh:5be420fe-48f0-4430-a63d-9d611d837d6e,
-     physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd,
      physh:7e49d013-76b9-427d-aa9d-354b061dacfe,
      physh:9e235d60-3bdd-4919-b71f-10052ac459d7,
      physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad,
@@ -27501,6 +27499,7 @@ physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb a skos:ConceptScheme,
      physh:d87d9c51-bdc2-43bb-99c3-6e5345a7f631,
      physh:fc65882e-b316-4cf1-a96a-ec8557624d80,
      physh:fcb85338-c881-4bd4-98a9-1563b1194606,
+     physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd,
      physh:f86aed6f-8ade-4beb-a7f1-aa568e640cd6,
      physh:55bba34b-0d31-428f-a430-4f502667434a,
      physh:6558d12a-54c2-4ef7-8a5b-67ba06aaab9d,
@@ -28315,7 +28314,6 @@ physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e a skos:Concept,
      physh:bbb0ce0d-36da-4da5-a443-df064f36aa17,
      physh:c348f41e-fe2b-4ff6-ae11-c12c1a63e4c7,
      physh:5be420fe-48f0-4430-a63d-9d611d837d6e,
-     physh:06acf1f4-0f88-4c17-bc06-52d0e4a3dfbd,
      physh:7e49d013-76b9-427d-aa9d-354b061dacfe,
      physh:9e235d60-3bdd-4919-b71f-10052ac459d7,
      physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad,
