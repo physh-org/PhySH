@@ -19711,7 +19711,7 @@ physh:fee9296a-01ca-4b80-86bf-2c51f37c1871 a skos:Concept;
    skos:narrower <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_1e0c099a-9f2a-4e47-b3f1-7faa28b6a506>,
      <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_705f7ed8-5e20-47e1-8ca4-fa7feea8ad84>,
      <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_b96dac97-ab85-4320-892d-9b245caf097f>;
-   skos:prefLabel "Biological Physics & Neuroscience Techniques"@en;
+   skos:prefLabel "Physics of Living Systems Techniques"@en;
    skos:topConceptOf physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb .
 
 <https://physh.org/rdf/0f4313da-ec73-46f5-b24f-521a1fcb6db7_705f7ed8-5e20-47e1-8ca4-fa7feea8ad84> a skos:Concept;
@@ -21327,7 +21327,7 @@ physh:fcb85338-c881-4bd4-98a9-1563b1194606 a skos:Concept,
      physh:5be420fe-48f0-4430-a63d-9d611d837d6e,
      physh:b26070f8-32ca-4e02-94d0-ba1961b3480d,
      physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5;
-   skos:prefLabel "Biological Physics & Neuroscience Research Areas"@en;
+   skos:prefLabel "Physics of Living Systems Research Areas"@en;
    skos:topConceptOf physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb .
 
 <https://physh.org/rdf/5375b253-b0a1-4ece-bb50-4c34ea7218bd_705f7ed8-5e20-47e1-8ca4-fa7feea8ad84> a skos:Concept;
@@ -23812,7 +23812,7 @@ physh:fd7300dc-49e9-458d-9121-de94f7446fdb a skos:Concept,
      physh:7e2374d5-2769-48f1-bd04-1d8f3a57e280,
      physh:55bba34b-0d31-428f-a430-4f502667434a,
      physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb;
-   skos:prefLabel "Biological Physics & Neuroscience Computational Techniques"@en .
+   skos:prefLabel "Physics of Living Systems Computational Techniques"@en .
 
 <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_b96dac97-ab85-4320-892d-9b245caf097f> a skos:Concept;
    skos:broader physh:b96dac97-ab85-4320-892d-9b245caf097f,
@@ -24313,7 +24313,7 @@ physh:cd322dee-17c3-4f48-81b4-5fbca9f2c432 a skos:Concept,
      physh:50ba3f74-7f31-4857-8a75-b2b007348981,
      physh:eb9bd2e1-eedd-4bd0-997d-58b44ffa3ebb,
      physh:695da376-c44a-41dd-b968-d200c31e9d5e;
-   skos:prefLabel "Biological Physics & Neuroscience Theoretical Techniques"@en .
+   skos:prefLabel "Physics of Living Systems Theoretical Techniques"@en .
 
 <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_f45b3c40-959c-4e90-ba0e-38232980802a> a skos:Concept;
    skos:broader physh:f45b3c40-959c-4e90-ba0e-38232980802a;
@@ -24329,7 +24329,7 @@ physh:cd322dee-17c3-4f48-81b4-5fbca9f2c432 a skos:Concept,
      physh:0a74688b-2eee-4349-a9bd-e93851fe2c5a,
      physh:6c0e8bb5-a5a0-4f28-8d4a-4e7ace85a023,
      physh:9ccf11df-5b72-4ce0-92e6-e48f8dda172b;
-   skos:prefLabel "Biological Physics & Neuroscience Physical Systems"@en;
+   skos:prefLabel "Physics of Living Systems Physical Systems"@en;
    skos:topConceptOf physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb .
 
 <https://physh.org/rdf/512fd433-7b6d-4535-bb60-78f3bf431bc3_f45b3c40-959c-4e90-ba0e-38232980802a> a skos:Concept;
@@ -25244,7 +25244,7 @@ physh:ef0a1bee-2a1f-4f47-aca2-6302db18e67f a skos:Concept,
      physh:6fab7f86-2de1-4f52-9425-ed4f9aec008b,
      physh:18d10b28-37f1-434d-a95b-19cf71fc6f05,
      physh:a38dc017-3236-4084-afc5-eb59c5de51e0;
-   skos:prefLabel "Biological Physics & Neuroscience Experimental Techniques"@en .
+   skos:prefLabel "Physics of Living Systems Experimental Techniques"@en .
 
 <https://physh.org/rdf/2bd35371-7fda-477a-8e1a-c346c797a232_705f7ed8-5e20-47e1-8ca4-fa7feea8ad84> a skos:Concept;
    skos:broader physh:705f7ed8-5e20-47e1-8ca4-fa7feea8ad84,
@@ -27464,10 +27464,10 @@ physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350 a skos:ConceptScheme,
 
 physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb a skos:ConceptScheme,
      physh_rdf:Discipline;
-   dcterms:title "Biological Physics & Neuroscience"@en;
+   dcterms:title "Physics of Living Systems"@en;
    dcterms:description "Concepts from the biological physics section of the APS Taxonomy"@en;
    dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
-   dcterms:subject "Biological physics"@en;
+   dcterms:subject "Biological Physics & Neuroscience"@en;
    skos:hasTopConcept <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_bdb1ef91-b776-4e36-8f8f-3e93666bac1e>,
      <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_f45b3c40-959c-4e90-ba0e-38232980802a>,
      <https://physh.org/rdf/0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb_fa2a6718-de5c-4c05-bf00-f169a55234d5>;
@@ -27525,7 +27525,7 @@ physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb a skos:ConceptScheme,
      physh:d33e8a5a-85e6-45cb-abbb-47c88e1e3e6b,
      physh:d7c049d9-95bf-40ab-804d-a50f21faaf04,
      physh:d7fb198e-02ff-4cb4-abf1-458dd06eebc4;
-   physh_rdf:prefLabel "Biological Physics & Neuroscience"@en;
+   physh_rdf:prefLabel "Physics of Living Systems"@en;
    physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e,
      physh:f45b3c40-959c-4e90-ba0e-38232980802a,
      physh:fa2a6718-de5c-4c05-bf00-f169a55234d5,
