@@ -25646,10 +25646,10 @@ physh:8ab3d2b7-b50b-460e-b086-8990cfcbd350 a skos:ConceptScheme,
 
 physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb a skos:ConceptScheme,
      physh_rdf:Discipline;
-   dcterms:title "Biological Physics & Neuroscience"@en;
+   dcterms:title "Physics of Living Systems"@en;
    dcterms:description "Concepts from the biological physics section of the APS Taxonomy"@en;
    dcterms:publisher <https://accounts.aps.org/American-Physical-Society>;
-   dcterms:subject "Biological physics"@en;
+   dcterms:subject "Biological Physics & Neuroscience"@en;
    physh_rdf:hasConcept physh:5be420fe-48f0-4430-a63d-9d611d837d6e,
      physh:6f618be6-815c-40bf-bd8a-cb8ffc96bfd5,
      physh:376c5d7d-24b3-40a2-a82d-a517ac25dbad,
@@ -25704,7 +25704,7 @@ physh:0e9db8ef-5aa8-40bc-a0c8-9d93f5fcc2eb a skos:ConceptScheme,
      physh:d33e8a5a-85e6-45cb-abbb-47c88e1e3e6b,
      physh:d7c049d9-95bf-40ab-804d-a50f21faaf04,
      physh:d7fb198e-02ff-4cb4-abf1-458dd06eebc4;
-   physh_rdf:prefLabel "Biological Physics & Neuroscience"@en;
+   physh_rdf:prefLabel "Physics of Living Systems"@en;
    physh_rdf:usesFacet physh:bdb1ef91-b776-4e36-8f8f-3e93666bac1e,
      physh:f45b3c40-959c-4e90-ba0e-38232980802a,
      physh:fa2a6718-de5c-4c05-bf00-f169a55234d5,
