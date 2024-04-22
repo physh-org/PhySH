@@ -10450,11 +10450,6 @@ physh:daa209c8-4197-48fd-8086-8a6d169f3228 a skos:Concept;
    skos:prefLabel "Phase transitions in cellular systems"@en;
    physh_rdf:prefLabel "Phase transitions in cellular systems"@en .
 
-physh:daac46e9-4226-443f-b976-9afdf466bdfe a skos:Concept;
-   skos:broader physh:40a5bd01-6544-4502-8321-458c33878bf3;
-   skos:prefLabel "Topological effects in acoustic systems"@en;
-   physh_rdf:prefLabel "Topological effects in acoustic systems"@en .
-
 physh:dab59f4b-8406-411a-a561-927f0145be6b a skos:Concept;
    skos:broader physh:19f26688-0955-4fd9-85d8-aaf71c4a581f;
    skos:prefLabel "Depinning transition"@en;
@@ -14465,11 +14460,11 @@ physh:926dd7f3-8bc7-4111-94c9-e55d7ab1ebdd a skos:Concept;
    physh_rdf:prefLabel "Magnetocaloric effect"@en .
 
 physh:92df9837-8bf4-4d0c-b033-db6e21b908b0 a skos:Concept;
-   skos:altLabel "Photoabsorption"@en;
+   skos:altLabel "Photo-absorption"@en;
    skos:broader physh:90223563-a9ed-483d-ad68-68ab7c3b3161;
-   skos:prefLabel "Photo-absorption"@en;
+   skos:prefLabel "Photoabsorption"@en;
    skos:related physh:07396f85-99a2-483d-be5b-3725e182caa3;
-   physh_rdf:prefLabel "Photo-absorption"@en .
+   physh_rdf:prefLabel "Photoabsorption"@en .
 
 physh:930ae4ca-6b04-4a30-95a5-22bd20f5c06c a skos:Concept;
    skos:broader physh:9b591609-822d-4be9-93a8-dff9f7f3722c;
@@ -15516,6 +15511,12 @@ physh:da893acc-f204-480b-8a7e-386479c50687 a skos:Concept;
    skos:prefLabel "Coherent control"@en;
    skos:scopeNote "Use for quantum mechanical based method for controlling dynamical processes with light, employing quantum interference phenomena which are controlled by shaping the phase of laser pulses."@en;
    physh_rdf:prefLabel "Coherent control"@en .
+
+physh:daac46e9-4226-443f-b976-9afdf466bdfe a skos:Concept;
+   skos:broader physh:40a5bd01-6544-4502-8321-458c33878bf3,
+     physh:a06c5357-8167-4e9e-8fef-1a0304cf08d2;
+   skos:prefLabel "Topological effects in acoustic systems"@en;
+   physh_rdf:prefLabel "Topological effects in acoustic systems"@en .
 
 physh:dadb5d96-fc29-4c93-8428-3335c7ad1b2a a skos:Concept;
    skos:broader physh:7cd899da-2ea4-4b7e-8da3-246542f85b57,
@@ -18680,14 +18681,6 @@ physh:a0106d33-6e0e-4b73-8190-a953b55d037a a skos:Concept;
    skos:prefLabel "Graphene"@en;
    physh_rdf:prefLabel "Graphene"@en .
 
-physh:a06c5357-8167-4e9e-8fef-1a0304cf08d2 a skos:Concept;
-   skos:broader physh:15f520a3-5c6c-4d9e-8975-81d399140562;
-   skos:narrower physh:2cb8570a-bc2f-41ab-a3f1-1467b288c3f0,
-     physh:c6078832-7861-4f34-9058-a32f0f8abd77;
-   skos:prefLabel "Lattice dynamics"@en;
-   skos:related physh:684c842a-625c-4cd3-bf2a-c64bbcbc1c24;
-   physh_rdf:prefLabel "Lattice dynamics"@en .
-
 physh:a0a856f1-da84-42ec-8a4f-6328d983a628 a skos:Concept;
    skos:altLabel "Multilayer"@en;
    skos:broader physh:f111f126-342c-48fd-baa7-6124af4142eb;
@@ -19982,6 +19975,15 @@ physh:9f7a4cce-0ded-4976-b8ad-cc75830297fa a skos:Concept;
    skos:related physh:5e4d1def-a8c7-4d47-b944-dbcf8659e6dc;
    skos:scopeNote "Use for a phase acquired over the course of a cycle, when the system is subjected to cyclic adiabatic processes, which results from the geometrical properties of the parameter space of the Hamiltonian."@en;
    physh_rdf:prefLabel "Geometric & topological phases"@en .
+
+physh:a06c5357-8167-4e9e-8fef-1a0304cf08d2 a skos:Concept;
+   skos:broader physh:15f520a3-5c6c-4d9e-8975-81d399140562;
+   skos:narrower physh:2cb8570a-bc2f-41ab-a3f1-1467b288c3f0,
+     physh:c6078832-7861-4f34-9058-a32f0f8abd77,
+     physh:daac46e9-4226-443f-b976-9afdf466bdfe;
+   skos:prefLabel "Lattice dynamics"@en;
+   skos:related physh:684c842a-625c-4cd3-bf2a-c64bbcbc1c24;
+   physh_rdf:prefLabel "Lattice dynamics"@en .
 
 physh:a1c60fe3-47ab-4c61-a925-5edab473b8f9 a skos:Concept;
    skos:broader physh:3eb201bd-796e-4985-836d-af5c7e873190;
