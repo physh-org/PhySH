@@ -50,7 +50,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - A few minor spelling and hierarchy adjustments.
 - Nothing additional has been deprecated in this release.
 
-## [2.8.0] - 2026-03-31 (?)
-- Terms from recent requests have been added.
+## [2.8.0] - 2026-03-24
+- About 40 terms from recent requests have been added.
 - Small number of spelling and hierarchy adjustments.
 - Nothing additional has been deprecated in this release.
