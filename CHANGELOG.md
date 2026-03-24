@@ -44,3 +44,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Additional terms relating to Artificial Intelligence have been added.
 - Roughly one hundred additional suggestions for new concepts or changes to existing ones made up to this point have been considered and incorporated where appropriate, across almost all disciplines.
 - Nothing additional has been deprecated in this release.
+
+## [2.7.0] - 2025-12-18
+- Terms from requests over the past 20 months have been added.
+- A few minor spelling and hierarchy adjustments.
+- Nothing additional has been deprecated in this release.
+
+## [2.8.0] - 2026-03-24
+- About 40 terms from recent requests have been added.
+- Small number of spelling and hierarchy adjustments.
+- Nothing additional has been deprecated in this release.
